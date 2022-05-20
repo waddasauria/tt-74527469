@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en">
+        <seg>INSTRUCTION MANUAL</seg>
+      </tuv>
+      <tuv lang="es" changeid="Lenovo" changedate="20220520T161734Z" creationid="Lenovo" creationdate="20220520T161734Z">
+        <seg>MANUAL DE INSTRUCCIONES</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Installation                                    5</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220520T161537Z" creationid="waddasauria" creationdate="20220520T161537Z">
