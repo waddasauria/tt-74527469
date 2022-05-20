@@ -1,0 +1,15 @@
+20/05/22 17:22
+Estadísticas del proyecto
+
+                  	Segmentos	Palabras	Caracteres (sin espacios)	Caracteres (con espacios)	#Archivos	
+Total:            	      664	    6771	                    34448	                    40825	        2	
+Pendientes:       	      497	    5238	                    26783	                    31802	        2	
+Únicos:           	      638	    6673	                    33918	                    40222	        2	
+Pendientes únicos:	      478	    5170	                    26402	                    31371	        2	
+
+
+Estadísticas por archivo individual:
+
+Nombre de archivo      	Total de segmentos	Segmentos pendientes	Segmentos únicos	Segmentos únicos pendientes	Total palabras	Palabras pendientes	Palabras únicas	Palabras únicas pendientes	Total caracteres (sin espacios)	Caracteres pendientes (sin espacios)	Caracteres únicos (sin espacios)	Caracteres únicos pendientes (sin espacios)	Total Caracteres (con espacios)	Caracteres pendientes (con espacios)	Caracteres únicos (con espacios)	Caracteres únicos pendientes (con espacios)	
+Manual Chiq2 (1).docx  	               404	                 308	             395	                        300	          4109	               3166	           4074	                      3132	                          20849	                               16109	                           20631	                                      15896	                          24497	                               18920	                           24252	                                      18680	
+Manual Thorkitchen.docx	               260	                 189	             243	                        178	          2662	               2072	           2599	                      2038	                          13599	                               10674	                           13287	                                      10506	                          16328	                               12882	                           15970	                                      12691	
