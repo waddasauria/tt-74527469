@@ -668,6 +668,22 @@ l</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Cleaning inside the Fridge/Freezer</seg>
+      </tuv>
+      <tuv lang="es" changeid="Lenovo" changedate="20220521T153434Z" creationid="Lenovo" creationdate="20220521T153434Z">
+        <seg>Limpieza del interior del frigorífico/congelador</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Cleaning outside the Fridge/Freezer</seg>
+      </tuv>
+      <tuv lang="es" changeid="Lenovo" changedate="20220521T154120Z" creationid="Lenovo" creationdate="20220521T154120Z">
+        <seg>Limpieza del exterior del frigorífico/congelador</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Cleaning your wine cooler</seg>
       </tuv>
       <tuv lang="es" changeid="true" changedate="20220521T142240Z" creationid="Lenovo" creationdate="20220518T101608Z">
@@ -1145,6 +1161,14 @@ l</seg>
       </tuv>
       <tuv lang="es" changeid="true" changedate="20220521T122003Z" creationid="true" creationdate="20220521T122003Z">
         <seg>Por razones de seguridad personal, este aparato debe estar correctamente conectado a tierra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For recommended food storage time, refer to the information given on your food packaging.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Lenovo" changedate="20220521T153336Z" creationid="Lenovo" creationdate="20220521T153336Z">
+        <seg>Para conocer el tiempo recomendado de conservación de los alimentos, consulte la información que figura en su envase.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2034,6 +2058,14 @@ l</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Recommended storage periods</seg>
+      </tuv>
+      <tuv lang="es" changeid="Lenovo" changedate="20220521T153255Z" creationid="Lenovo" creationdate="20220521T153255Z">
+        <seg>Períodos de almacenamiento recomendados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Recommended thermostat setting for ice making is position “COLD”.</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220521T105148Z" creationid="waddasauria" creationdate="20220521T104102Z">
@@ -2812,6 +2844,14 @@ El ajuste en la sección del congelador está entre "MIN" y "MAX" en la nevera
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Then rinse with warm water using a damp sponge or cloth and wipe dry.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Lenovo" changedate="20220521T154008Z" creationid="Lenovo" creationdate="20220521T154008Z">
+        <seg>A continuación, enjuáguelo con agua tibia utilizando una esponja o un paño húmedo y séquelo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Then rinse with warm water using a damp sponge or cloth.</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220521T101831Z" creationid="waddasauria" creationdate="20220521T101831Z">
@@ -2840,6 +2880,14 @@ El ajuste en la sección del congelador está entre "MIN" y "MAX" en la nevera
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220504T153142Z" creationid="waddasauria" creationdate="20220504T153142Z">
         <seg>Esto permite que el aire frío circule alrededor del frigorífico, asegurando que todas sus partes se mantengan frías.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This appliance is designed as automatic defrosting ,no need to defrost by hand.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Lenovo" changedate="20220521T152834Z" creationid="Lenovo" creationdate="20220521T152834Z">
+        <seg>Este aparato está diseñado para que la descongelación se realice de manera automática, sin necesidad de descongelar a mano.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3418,6 +3466,14 @@ El ajuste en la sección del congelador está entre "MIN" y "MAX" en la nevera
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Wash the baskets in warm soapy water and ensure they are completely dry before replacing in the Fridge/Freezer.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Lenovo" changedate="20220521T154040Z" creationid="Lenovo" creationdate="20220521T154040Z">
+        <seg>Lave las cestas con agua tibia y jabón y asegúrese de que están completamente secas antes de volver a colocarlas en el frigorífico/congelador.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Wash the inside surfaces with a warm water and baking soda solution.</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220504T180412Z" creationid="waddasauria" creationdate="20220504T180412Z">
@@ -3566,6 +3622,14 @@ El ajuste en la sección del congelador está entre "MIN" y "MAX" en la nevera
       </tuv>
       <tuv lang="es" changeid="Lenovo" changedate="20220519T145415Z" creationid="Lenovo" creationdate="20220519T145415Z">
         <seg>Solo se podrá ajustar la temperatura cuando el número "parpadee".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You should clean the Fridge/Freezer internally with a weak solution of bicarbonate of soda.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Lenovo" changedate="20220521T153813Z" creationid="Lenovo" creationdate="20220521T153813Z">
+        <seg>Debe limpiar el frigorífico/congelador internamente con una solución débil de bicarbonato de sodio.</seg>
       </tuv>
     </tu>
     <tu>
