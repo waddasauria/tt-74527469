@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>* “DANGER – Risk Of Fire Or Explosion.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Lenovo" changedate="20220521T120914Z" creationid="Lenovo" creationdate="20220521T120914Z">
+        <seg>* “PELIGRO – Riesgo De Incendio o Explosión.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>* “DANGER – Risk Of Fire or Explosion.</seg>
       </tuv>
       <tuv lang="es" changeid="Lenovo" changedate="20220521T120413Z" creationid="Lenovo" creationdate="20220521T120413Z">
@@ -673,6 +681,22 @@ l</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220521T094442Z" creationid="waddasauria" creationdate="20220521T094442Z">
         <seg>La luz solar directa puede afectar al revestimiento acrílico y las fuentes de calor pueden aumentar el consumo eléctrico. .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Do Not Puncture Refrigerant Tubing”.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Lenovo" changedate="20220521T120827Z" creationid="Lenovo" creationdate="20220521T120827Z">
+        <seg>No perfore el tubo refrigerante".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Do Not Use Mechanical Devices To Defrost Refrigerator.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Lenovo" changedate="20220521T120723Z" creationid="Lenovo" creationdate="20220521T120723Z">
+        <seg>No utilice dispositivos mecánicos para descongelar la nevera.</seg>
       </tuv>
     </tu>
     <tu>
