@@ -850,6 +850,22 @@ l</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Cosmetic damage, including chips, dents, scratches or other damage to the finish of your wine cooler, unless such damage results from defects in materials or workmanship and is reported to Thor Group within 30 days from the date of purchase.</seg>
+      </tuv>
+      <tuv lang="es" changeid="true" changedate="20220521T184558Z" creationid="true" creationdate="20220521T184558Z">
+        <seg>Daños cosméticos, incluidos desprendimientos, abolladuras, arañazos u otros daños en el acabado de su nevera para vinos, a menos que dichos daños sean consecuencia de defectos en los materiales o en la mano de obra y se comuniquen a Thor Group en un plazo de 30 días a partir de la fecha de compra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Costs associated with the removal from your home of your wine cooler for repairs.</seg>
+      </tuv>
+      <tuv lang="es" changeid="true" changedate="20220521T184641Z" creationid="true" creationdate="20220521T184641Z">
+        <seg>Costes asociados a la retirada de la enfriadora de su casa para su reparación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Crisper</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220521T084908Z" creationid="waddasauria" creationdate="20220521T084908Z">
