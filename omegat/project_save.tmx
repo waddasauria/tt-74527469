@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.0_0_8ae1ecfb" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -420,10 +420,26 @@ l</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Check the Fridge/Freezer temperature</seg>
+      </tuv>
+      <tuv lang="es" changeid="Lenovo" changedate="20220521T110006Z" creationid="Lenovo" creationdate="20220521T110006Z">
+        <seg>Compruebe la temperatura del Frigorífico/Congelador</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Check the temperature control setting.</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220504T181219Z" creationid="waddasauria" creationdate="20220504T181219Z">
         <seg>Revisa los ajustes de control de temperatura. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Check the temperature of the frozen food cabinet in the shop where you buy your frozen foods.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Lenovo" changedate="20220521T110214Z" creationid="Lenovo" creationdate="20220521T110214Z">
+        <seg>Compruebe la temperatura del armario de alimentos congelados de la tienda donde los compre. </seg>
       </tuv>
     </tu>
     <tu>
@@ -939,6 +955,14 @@ l</seg>
       <tuv lang="es" changeid="waddasauria" changedate="20220521T082137Z" creationid="waddasauria" creationdate="20220521T082137Z">
         <seg> Es responsabilidad del consumidor cumplir con las leyes federales y locales al desechar este producto.
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It should show a temperature lower than -18℃.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Lenovo" changedate="20220521T110316Z" creationid="Lenovo" creationdate="20220521T110316Z">
+        <seg>Debería indicar una temperatura inferior a -18℃. </seg>
       </tuv>
     </tu>
     <tu>
@@ -1793,6 +1817,14 @@ El ajuste en la sección del congelador está entre "MIN" y "MAX" en la nevera
       </tuv>
       <tuv lang="es" changeid="Lenovo" changedate="20220521T104649Z" creationid="Lenovo" creationdate="20220521T104649Z">
         <seg>Esta es la parte más húmeda del frigorífico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This is usually the period stated as “Best, Before”, found on the front of the packaging.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Lenovo" changedate="20220521T105906Z" creationid="Lenovo" creationdate="20220521T105906Z">
+        <seg>Suele ser el periodo indicado como "Mejor, antes", que se encuentra en la parte delantera del envase.</seg>
       </tuv>
     </tu>
     <tu>
