@@ -2524,6 +2524,14 @@ El ajuste en la sección del congelador está entre "MIN" y "MAX" en la nevera
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The solution should be about 2 tablespoons of baking soda to a pint of water.</seg>
+      </tuv>
+      <tuv lang="es" changeid="true" changedate="20220521T142603Z" creationid="true" creationdate="20220521T142603Z">
+        <seg>La solución debe ser de unas 2 cucharadas de bicarbonato de sodio por cada medio litro de agua.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The storage life of frozen foods varies and the recommended storage time should not be exceeded.</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220521T110122Z" creationid="waddasauria" creationdate="20220521T110122Z">
@@ -2868,6 +2876,14 @@ El ajuste en la sección del congelador está entre "MIN" y "MAX" en la nevera
       </tuv>
       <tuv lang="es" changeid="Lenovo" changedate="20220521T111639Z" creationid="Lenovo" creationdate="20220521T111639Z">
         <seg>Intente mantener los alimentos congelados juntos mientras hace la compra, y en el viaje de vuelta a casa, ya que esto ayudará a mantener los alimentos más frescos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Turn off the power, unplug the appliance, and remove all items including shelves and rack.</seg>
+      </tuv>
+      <tuv lang="es" changeid="true" changedate="20220521T142340Z" creationid="true" creationdate="20220521T142340Z">
+        <seg>Apague el aparato, desenchúfelo y retire todos los enseres, incluidos los estantes y la estantería.</seg>
       </tuv>
     </tu>
     <tu>
