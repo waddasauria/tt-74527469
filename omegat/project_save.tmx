@@ -553,10 +553,18 @@ l</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>– catering and similar non-retail applications.</seg>
+      </tuv>
+      <tuv lang="es" changeid="waddasauria" changedate="20220521T082537Z" creationid="waddasauria" creationdate="20220521T082537Z">
+        <seg>–  restauración y entornos similares que no sean de venta al por menor..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>– farm houses and by clients in hotels, motels and other residential type environments.</seg>
       </tuv>
-      <tuv lang="es" changeid="waddasauria" changedate="20220521T082410Z" creationid="waddasauria" creationdate="20220521T082410Z">
-        <seg>– casas de campo y por clientes en hoteles, moteles y otros entornos residenciales
+      <tuv lang="es" changeid="waddasauria" changedate="20220521T082507Z" creationid="waddasauria" creationdate="20220521T082410Z">
+        <seg>– casas de campo y clientes en hoteles, moteles y otros entornos residenciales
 .</seg>
       </tuv>
     </tu>
