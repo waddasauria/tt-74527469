@@ -1422,6 +1422,14 @@ l</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If the internal temperature of the Fridge/Freezer compartment is -18℃ or less when the power returns, your food is safe.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Lenovo" changedate="20220521T161317Z" creationid="Lenovo" creationdate="20220521T161317Z">
+        <seg>Si la temperatura interna del compartimento del frigorífico/congelador es de -18℃ o menos cuando vuelve la corriente, sus alimentos están seguros.&lt;segmento 0315 ¶&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If the loading amount is too large, the quality of freezing is reduced which affects the quality of frozen foods.</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220521T111306Z" creationid="waddasauria" creationdate="20220521T110811Z">
@@ -2004,6 +2012,14 @@ l</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220504T180454Z" creationid="waddasauria" creationdate="20220504T180454Z">
         <seg>Fallo eléctrico </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Power cut</seg>
+      </tuv>
+      <tuv lang="es" changeid="Lenovo" changedate="20220521T161203Z" creationid="Lenovo" creationdate="20220521T161203Z">
+        <seg>Corte de electricidad</seg>
       </tuv>
     </tu>
     <tu>
@@ -2673,6 +2689,14 @@ l</seg>
       </tuv>
       <tuv lang="es" changeid="Lenovo" changedate="20220518T103756Z" creationid="Lenovo" creationdate="20220518T103756Z">
         <seg>La primera vez que encienda la unidad, ajuste el control de temperatura a "MAX" en la sección del refrigerador y "MAX" en la sección del congelador.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The food in your Fridge/Freezer will remain frozen for approx 16 hours with the door closed.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Lenovo" changedate="20220521T161457Z" creationid="Lenovo" creationdate="20220521T161457Z">
+        <seg>Los alimentos de su frigorífico/congelador permanecerán congelados durante aproximadamente 16 horas con la puerta cerrada.</seg>
       </tuv>
     </tu>
     <tu>
