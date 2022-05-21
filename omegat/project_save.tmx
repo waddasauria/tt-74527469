@@ -396,6 +396,14 @@ l</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Before installing, please carefully read the instruction in the end in order to avoid a certain number of problems.</seg>
+      </tuv>
+      <tuv lang="es" changeid="true" changedate="20220521T121126Z" creationid="true" creationdate="20220521T121126Z">
+        <seg>Antes de la instalación, lea atentamente las instrucciones del final para evitar un conjunto de problemas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Before plugging in YOU MUST</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220521T102243Z" creationid="Lenovo" creationdate="20220518T104900Z">
@@ -653,6 +661,14 @@ l</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Cutout Dimensions</seg>
+      </tuv>
+      <tuv lang="es" changeid="true" changedate="20220521T121144Z" creationid="true" creationdate="20220521T121144Z">
+        <seg>Dimensiones de la caja</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>DANGER: Risk of child becoming trapped in new wine cooler, old wine cooler/refrigeration unit, or large boxes.</seg>
       </tuv>
       <tuv lang="es" changeid="true" changedate="20220521T115923Z" creationid="true" creationdate="20220521T115923Z">
@@ -669,6 +685,14 @@ l</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Depth of housing    mm  700</seg>
+      </tuv>
+      <tuv lang="es" changeid="true" changedate="20220521T121448Z" creationid="true" creationdate="20220521T121448Z">
+        <seg>Profundidad de la caja    mm  700</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Description</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220521T084559Z" creationid="waddasauria" creationdate="20220521T084559Z">
@@ -681,6 +705,14 @@ l</seg>
       </tuv>
       <tuv lang="es" changeid="Lenovo" changedate="20220521T115840Z" creationid="Lenovo" creationdate="20220521T115840Z">
         <seg>Zona de Desarrollo,Anhui,P.R China</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Dimensions of the recess</seg>
+      </tuv>
+      <tuv lang="es" changeid="true" changedate="20220521T121306Z" creationid="true" creationdate="20220521T121306Z">
+        <seg>Dimensiones del encaje</seg>
       </tuv>
     </tu>
     <tu>
@@ -767,8 +799,8 @@ l</seg>
       <tuv lang="en">
         <seg>Do not under any circumstances cut or remove the third ground prong over cord supplied.</seg>
       </tuv>
-      <tuv lang="es" changeid="Lenovo" changedate="20220518T095620Z" creationid="Lenovo" creationdate="20220518T095620Z">
-        <seg>No corte ni retire bajo ninguna circunstancia la tercera clavija (tierra) del cable de alimentación.</seg>
+      <tuv lang="es" changeid="true" changedate="20220521T121937Z" creationid="Lenovo" creationdate="20220518T095620Z">
+        <seg>En ningún caso corte o retire la tercera clavija (a tierra) del cable de alimentación.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1021,6 +1053,14 @@ l</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Height of housing    mm  1960</seg>
+      </tuv>
+      <tuv lang="es" changeid="true" changedate="20220521T121407Z" creationid="true" creationdate="20220521T121407Z">
+        <seg>Altura de la caja    mm  1960</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>I&lt;t0/&gt;F THE UNIT IS UNPLUGGED, has LOSt POWER, OR is TURNED OFF, YOU MUST WAIT 3 TO 5 MINUTES BEFORE RESTARTING THE UNIT.</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220521T103940Z" creationid="waddasauria" creationdate="20220521T103940Z">
@@ -1186,6 +1226,14 @@ l</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220521T063716Z" creationid="waddasauria" creationdate="20220521T063716Z">
         <seg>Instale siguiendo las instrucciones del fabricante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Installation</seg>
+      </tuv>
+      <tuv lang="es" changeid="true" changedate="20220521T121100Z" creationid="true" creationdate="20220521T121100Z">
+        <seg>Instalación</seg>
       </tuv>
     </tu>
     <tu>
@@ -2023,8 +2071,8 @@ l</seg>
       <tuv lang="en">
         <seg>The power cord of this appliance is equipped with a three pins plug which mates with standard three pins wall outlets to minimize the possibility of electrical shock.</seg>
       </tuv>
-      <tuv lang="es" changeid="Lenovo" changedate="20220519T160523Z" creationid="Lenovo" creationdate="20220517T142104Z">
-        <seg>En ningún caso corte o retire la tercera clavija de tierra del cable suministrado. Por seguridad personal,(..).
+      <tuv lang="es" changeid="true" changedate="20220521T121833Z" creationid="Lenovo" creationdate="20220517T142104Z">
+        <seg>El cable de alimentación de este aparato está equipado con un enchufe de tres clavijas, que se acopla a las tomas de corriente estándar de las tres clavijas para minimizar la posibilidad de una descarga eléctrica.
 
 Este aparato requiere una toma de corriente estándar de 115 voltios AC~60Hz con tres clavijas.
 Haga que un electricista cualificado revise la toma de corriente y el circuito para asegurarse de que la toma de corriente está correctamente conectada a tierra.
@@ -2232,6 +2280,14 @@ El ajuste en la sección del congelador está entre "MIN" y "MAX" en la nevera
       </tuv>
       <tuv lang="es" changeid="Lenovo" changedate="20220518T105113Z" creationid="Lenovo" creationdate="20220518T105113Z">
         <seg>Este aparato requiere una toma de corriente estándar de 115 voltios AC~60Hz con tres clavijas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This appliance should be properly grounded for your safety.</seg>
+      </tuv>
+      <tuv lang="es" changeid="true" changedate="20220521T121559Z" creationid="true" creationdate="20220521T121559Z">
+        <seg>Este aparato debe estar correctamente puesto a tierra para su seguridad.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2722,6 +2778,14 @@ El ajuste en la sección del congelador está entre "MIN" y "MAX" en la nevera
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Width of housing    mm  850</seg>
+      </tuv>
+      <tuv lang="es" changeid="true" changedate="20220521T121513Z" creationid="true" creationdate="20220521T121513Z">
+        <seg>Anchura de la caja    mm  850</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Wine Cooler does not operate.</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220504T180752Z" creationid="waddasauria" creationdate="20220504T180752Z">
@@ -2782,6 +2846,14 @@ El ajuste en la sección del congelador está entre "MIN" y "MAX" en la nevera
       </tuv>
       <tuv lang="es" changeid="Lenovo" changedate="20220521T105617Z" creationid="Lenovo" creationdate="20220521T105617Z">
         <seg>Su congelador es de 4 estrellas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Your product has been designed built-in or free standing installation.</seg>
+      </tuv>
+      <tuv lang="es" changeid="true" changedate="20220521T121225Z" creationid="true" creationdate="20220521T121225Z">
+        <seg>Su producto ha sido diseñado para ser incorporado o instalado libremente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3042,6 +3114,14 @@ El ajuste en la sección del congelador está entre "MIN" y "MAX" en la nevera
       </tuv>
       <tuv lang="es" changeid="true" changedate="20220515T230202Z" creationid="true" creationdate="20220515T230202Z">
         <seg>⑧Cajón inferior</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>⑨Handle of down drawer</seg>
+      </tuv>
+      <tuv lang="es" changeid="true" changedate="20220521T121041Z" creationid="true" creationdate="20220521T121041Z">
+        <seg>⑨Asa del cajón inferior</seg>
       </tuv>
     </tu>
     <tu>
