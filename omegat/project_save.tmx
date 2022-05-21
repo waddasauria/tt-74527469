@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.0_0_8ae1ecfb" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -872,8 +872,8 @@ l</seg>
       <tuv lang="en">
         <seg>If the loading amount is too large, the quality of freezing is reduced which affects the quality of frozen foods.</seg>
       </tuv>
-      <tuv lang="es" changeid="waddasauria" changedate="20220521T110852Z" creationid="waddasauria" creationdate="20220521T110811Z">
-        <seg>Si la cantidad de producto congelado es excesiva, la calidad de la congelación se reduce, lo cual afecta a la calidad de los alimentos congelados. s.</seg>
+      <tuv lang="es" changeid="waddasauria" changedate="20220521T111306Z" creationid="waddasauria" creationdate="20220521T110811Z">
+        <seg>Si la cantidad de producto congelado es excesiva, la calidad de la congelación se reduce, lo cual afecta a la calidad de los alimentos congelados</seg>
       </tuv>
     </tu>
     <tu>
