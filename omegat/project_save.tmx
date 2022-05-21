@@ -2095,6 +2095,14 @@ El ajuste en la sección del congelador está entre "MIN" y "MAX" en la nevera
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This will lower the temperature in the Freezer (approx -30℃), freezing your food quicker and helping to keep the goodness in.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Lenovo" changedate="20220521T115705Z" creationid="Lenovo" creationdate="20220521T115705Z">
+        <seg>Esto reducirá la temperatura en el Congelador (aproximadamente -30℃), congelando su comida más rápido y ayudando a mantener su calidad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This will stop them dripping onto, or touching other foods.</seg>
       </tuv>
       <tuv lang="es" changeid="Lenovo" changedate="20220521T105350Z" creationid="Lenovo" creationdate="20220521T105350Z">
