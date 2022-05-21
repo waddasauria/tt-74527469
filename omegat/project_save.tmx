@@ -210,6 +210,15 @@ l</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Consult a qualified electrician or service person if</seg>
+      </tuv>
+      <tuv lang="es" changeid="waddasauria" changedate="20220521T084336Z" creationid="waddasauria" creationdate="20220521T084336Z">
+        <seg>Consulte a un electricista o técnico cualificado si 
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Contents                                     Page#</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220520T162020Z" creationid="waddasauria" creationdate="20220520T162020Z">
@@ -276,8 +285,8 @@ l</seg>
       <tuv lang="en">
         <seg>Grounding requirement</seg>
       </tuv>
-      <tuv lang="es" changeid="waddasauria" changedate="20220521T083951Z" creationid="waddasauria" creationdate="20220521T083951Z">
-        <seg>Requisitos de conexión a tierra</seg>
+      <tuv lang="es" changeid="waddasauria" changedate="20220521T084025Z" creationid="waddasauria" creationdate="20220521T083951Z">
+        <seg>Requisitos de toma de tierra</seg>
       </tuv>
     </tu>
     <tu>
@@ -310,6 +319,14 @@ l</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220521T065117Z" creationid="waddasauria" creationdate="20220521T065047Z">
         <seg>Si el enchufe incluído no encaja en su toma de corriente, consulte a un electricista para </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Incorrect use of the grounding plug can result in a risk of electric shock.</seg>
+      </tuv>
+      <tuv lang="es" changeid="waddasauria" changedate="20220521T084308Z" creationid="waddasauria" creationdate="20220521T084308Z">
+        <seg>El uso incorrecto de la clavija de conexión a tierra puede provocar riesgo de descarga eléctrica..</seg>
       </tuv>
     </tu>
     <tu>
@@ -413,6 +430,14 @@ l</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The plug must be inserted into an outlet that is correctly installed and grounded.</seg>
+      </tuv>
+      <tuv lang="es" changeid="waddasauria" changedate="20220521T084225Z" creationid="waddasauria" creationdate="20220521T084204Z">
+        <seg>El enchufe debe insertarse en una toma de corriente instalada correctamente y con conexión a tierra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The wide blade or the third</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220521T064924Z" creationid="waddasauria" creationdate="20220521T064924Z">
@@ -506,8 +531,8 @@ l</seg>
       <tuv lang="en">
         <seg>Your refrigerator is equipped with a cord having a grounding wire with a grounding</seg>
       </tuv>
-      <tuv lang="es" changeid="waddasauria" changedate="20220521T084016Z" creationid="waddasauria" creationdate="20220521T084016Z">
-        <seg>Su Your refrigerator is equipped with a cord having a grounding wire with a grounding</seg>
+      <tuv lang="es" changeid="waddasauria" changedate="20220521T084136Z" creationid="waddasauria" creationdate="20220521T084016Z">
+        <seg>Su frigorífico tiene equipado un cable</seg>
       </tuv>
     </tu>
     <tu>
@@ -533,6 +558,14 @@ l</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220521T074907Z" creationid="waddasauria" creationdate="20220521T074907Z">
         <seg>congelamiento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>plug.</seg>
+      </tuv>
+      <tuv lang="es" changeid="waddasauria" changedate="20220521T084143Z" creationid="waddasauria" creationdate="20220521T084143Z">
+        <seg>para la conexión a tierra.</seg>
       </tuv>
     </tu>
     <tu>
