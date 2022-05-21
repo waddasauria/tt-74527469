@@ -556,6 +556,14 @@ l</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Do not, under any circumstances, cut or remove the third ground prong from the power cord supplied.</seg>
+      </tuv>
+      <tuv lang="es" changeid="waddasauria" changedate="20220521T103042Z" creationid="waddasauria" creationdate="20220521T103042Z">
+        <seg>En ningún caso corte o retire la tercera clavija de tierra del cable de alimentación proporcionado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Down</seg>
       </tuv>
       <tuv lang="es" changeid="Lenovo" changedate="20220518T101342Z" creationid="Lenovo" creationdate="20220518T101342Z">
@@ -1413,6 +1421,15 @@ El ajuste en la sección del congelador está entre "MIN" y "MAX" en la nevera
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The power cord of this refrigerator is equipped with a three-prong plug which mates with standard three prong wall outlets to minimize the possibility of electrical shock.</seg>
+      </tuv>
+      <tuv lang="es" changeid="waddasauria" changedate="20220521T103025Z" creationid="waddasauria" creationdate="20220521T103025Z">
+        <seg> El cable de alimentación de este frigorífico está equipado con un enchufe de tres clavijas que se acopla a las tomas de corriente estándar (de tres clavijas) para reducir la posibilidad de  descarga eléctrica.
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The range of the temperature controls are from position “MIN” to “MAX” the coldest in refrigerator section and from position “MIN” the warmest to “MAX” the coldest.</seg>
       </tuv>
       <tuv lang="es" changeid="Lenovo" changedate="20220518T103953Z" creationid="Lenovo" creationdate="20220518T103953Z">
@@ -1513,6 +1530,14 @@ El ajuste en la sección del congelador está entre "MIN" y "MAX" en la nevera
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220504T155205Z" creationid="waddasauria" creationdate="20220504T155205Z">
         <seg>Aquí debe guardar los alimentos que vayan a conservarse por más tiempo si se mantienen fríos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This refrigerator requires a standard&lt;t0/&gt;115V A.C.</seg>
+      </tuv>
+      <tuv lang="es" changeid="waddasauria" changedate="20220521T103116Z" creationid="waddasauria" creationdate="20220521T103116Z">
+        <seg>Este frigorífico requiere una toma de corriente estándar de 115 V C.A.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1879,6 +1904,15 @@ El ajuste en la sección del congelador está entre "MIN" y "MAX" en la nevera
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220521T064452Z" creationid="waddasauria" creationdate="20220521T064452Z">
         <seg>más ancha que la otra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>~/60Hz &lt;t1/&gt;electrical outlet with three-prong ground.</seg>
+      </tuv>
+      <tuv lang="es" changeid="waddasauria" changedate="20220521T103235Z" creationid="waddasauria" creationdate="20220521T103133Z">
+        <seg>~/60 Hz&lt;t1/&gt; con toma de tierra de tres polos.
+</seg>
       </tuv>
     </tu>
     <tu>
