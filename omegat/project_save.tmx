@@ -3322,6 +3322,14 @@ El ajuste en la sección del congelador está entre "MIN" y "MAX" en la nevera
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use standard non-abrasive detergent diluted in warm water to clean the Fridge/Freezer exterior.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Lenovo" changedate="20220521T154220Z" creationid="Lenovo" creationdate="20220521T154220Z">
+        <seg>Utilice un detergente estándar no abrasivo diluido en agua caliente para limpiar el exterior del frigorífico/congelador.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Used to lower (cool) the set temperature by 1℃ or 1℉ when “flash”.</seg>
       </tuv>
       <tuv lang="es" changeid="Lenovo" changedate="20220518T101455Z" creationid="Lenovo" creationdate="20220518T101455Z">
