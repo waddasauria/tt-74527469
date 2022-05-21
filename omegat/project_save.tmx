@@ -2179,6 +2179,14 @@ l</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Repairs carried out by inexperienced persons may cause injury or serious malfunctioning.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Lenovo" changedate="20220521T160730Z" creationid="Lenovo" creationdate="20220521T160730Z">
+        <seg>Las reparaciones realizadas por personas inexpertas pueden provocar lesiones o graves fallos de funcionamiento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Replace with LED light that is the same shape and size.</seg>
       </tuv>
       <tuv lang="es" changeid="Lenovo" changedate="20220521T104416Z" creationid="Lenovo" creationdate="20220521T104416Z">
@@ -2239,6 +2247,14 @@ l</seg>
       </tuv>
       <tuv lang="es" changeid="true" changedate="20220521T134605Z" creationid="true" creationdate="20220521T134605Z">
         <seg>Seleccione el ajuste de visualización de la temperatura en grados Fahrenheit o Celsius.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Servicing</seg>
+      </tuv>
+      <tuv lang="es" changeid="Lenovo" changedate="20220521T160510Z" creationid="Lenovo" creationdate="20220521T160510Z">
+        <seg>Reparaciones</seg>
       </tuv>
     </tu>
     <tu>
@@ -3053,6 +3069,14 @@ El ajuste en la sección del congelador está entre "MIN" y "MAX" en la nevera
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This product should be serviced by an authorized engineer and only genuine spare parts should be used.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Lenovo" changedate="20220521T160551Z" creationid="Lenovo" creationdate="20220521T160551Z">
+        <seg>Este producto debe ser revisado por un ingeniero autorizado y sólo deben utilizarse piezas de repuesto originales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This provides the best performance and also prevent overloading house wiring circuits that could cause a fire hazard from overheated.</seg>
       </tuv>
       <tuv lang="es" changeid="true" changedate="20220521T122210Z" creationid="true" creationdate="20220521T122210Z">
@@ -3308,6 +3332,14 @@ El ajuste en la sección del congelador está entre "MIN" y "MAX" en la nevera
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220505T072136Z" creationid="waddasauria" creationdate="20220504T181418Z">
         <seg>Se enciende y se apaga con frecuencia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Under no circumstances should you attempt to repair the appliance yourself.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Lenovo" changedate="20220521T160656Z" creationid="Lenovo" creationdate="20220521T160656Z">
+        <seg>En ningún caso debe intentar autoreparar el aparato.</seg>
       </tuv>
     </tu>
     <tu>
