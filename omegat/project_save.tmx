@@ -2879,6 +2879,14 @@ El ajuste en la sección del congelador está entre "MIN" y "MAX" en la nevera
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To prevent odour and mold growth, leave the door open slightly : blocking it open if necessary.</seg>
+      </tuv>
+      <tuv lang="es" changeid="true" changedate="20220521T143937Z" creationid="true" creationdate="20220521T143937Z">
+        <seg>Para evitar la aparición de olores y moho, deje la puerta ligeramente abierta: si es necesario, bloquéela en esta posición.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To prevent transfer of flavors and drying out, food should be separately packed or covered.</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220504T153328Z" creationid="waddasauria" creationdate="20220504T153328Z">
