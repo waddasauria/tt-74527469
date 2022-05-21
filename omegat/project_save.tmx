@@ -1230,6 +1230,14 @@ l</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If the socket is no longer accessible once the appliance has been built-in, suitable measures must be taken during electrical installation to ensure that the appliance can be disconnected from the mains.</seg>
+      </tuv>
+      <tuv lang="es" changeid="true" changedate="20220521T131608Z" creationid="true" creationdate="20220521T131608Z">
+        <seg>Si una vez montado el aparato ya no se puede acceder a la toma de corriente, hay que tomar las medidas adecuadas durante la instalación eléctrica para garantizar que el aparato se pueda desconectar de la red.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If there are instructions on the packet, carefully follow these instructions regarding storage times.</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220521T110314Z" creationid="waddasauria" creationdate="20220521T110314Z">
