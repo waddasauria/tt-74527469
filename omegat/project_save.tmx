@@ -66,8 +66,8 @@ l</seg>
       <tuv lang="en">
         <seg>3.WARNING&lt;t0/&gt;–Do not use mechanical devices or other means to accelerate the defrosting process, other than those recommended by the manufacturer.</seg>
       </tuv>
-      <tuv lang="es" changeid="waddasauria" changedate="20220521T074920Z" creationid="waddasauria" creationdate="20220521T074920Z">
-        <seg>3.ADVERTENCIA&lt;t0/&gt;–Do not use mechanical devices or other means to accelerate the defrosting process, other than those recommended by the manufacturer.</seg>
+      <tuv lang="es" changeid="waddasauria" changedate="20220521T080251Z" creationid="waddasauria" creationdate="20220521T074920Z">
+        <seg>3.ADVERTENCIA&lt;t0/&gt;– No utilice dispositivos mecánicos u otros medios que no sean los recomendados por el fabricante para acelerar el proceso de descongelación.</seg>
       </tuv>
     </tu>
     <tu>
@@ -82,16 +82,16 @@ l</seg>
       <tuv lang="en">
         <seg>4.WARNING&lt;t0/&gt;–Do not damage the refrigerant circuit.</seg>
       </tuv>
-      <tuv lang="es" changeid="waddasauria" changedate="20220521T074932Z" creationid="waddasauria" creationdate="20220521T074932Z">
-        <seg>4.ADVERTENCIA&lt;t0/&gt;–Do not damage the refrigerant circuit.</seg>
+      <tuv lang="es" changeid="waddasauria" changedate="20220521T080306Z" creationid="waddasauria" creationdate="20220521T074932Z">
+        <seg>4.ADVERTENCIA&lt;t0/&gt;–No dañe el circuito refigerante.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>5.WARNING&lt;t0/&gt;–Do not damage the refrigerant tubing when handling, moving, or using your refrigerator.</seg>
       </tuv>
-      <tuv lang="es" changeid="waddasauria" changedate="20220521T074940Z" creationid="waddasauria" creationdate="20220521T074940Z">
-        <seg>5.ADVERTENCIA&lt;t0/&gt;–Do not damage the refrigerant tubing when handling, moving, or using your refrigerator.</seg>
+      <tuv lang="es" changeid="waddasauria" changedate="20220521T080337Z" creationid="waddasauria" creationdate="20220521T074940Z">
+        <seg>5.ADVERTENCIA&lt;t0/&gt;–No dañe la tubería refrigerante cuando manipule, traslade o utilice su frigorífico.</seg>
       </tuv>
     </tu>
     <tu>
@@ -106,8 +106,8 @@ l</seg>
       <tuv lang="en">
         <seg>6.WARNING&lt;t0/&gt;–DANGER—Never allow children to play with, operate, or crawl inside your refrigerator.</seg>
       </tuv>
-      <tuv lang="es" changeid="waddasauria" changedate="20220521T074955Z" creationid="waddasauria" creationdate="20220521T074955Z">
-        <seg>6.ADVERTENCIA&lt;t0/&gt;–DANGER—Never allow children to play with, operate, or crawl inside your refrigerator.</seg>
+      <tuv lang="es" changeid="waddasauria" changedate="20220521T080446Z" creationid="waddasauria" creationdate="20220521T074955Z">
+        <seg>6.ADVERTENCIA&lt;t0/&gt;–PELIGRO—Nunca permita que los niños jueguen, operen o se metan dentro de su refrigerador</seg>
       </tuv>
     </tu>
     <tu>
