@@ -901,6 +901,14 @@ l</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Electrical fuse protection of at least 10 amperes must be provided.</seg>
+      </tuv>
+      <tuv lang="es" changeid="true" changedate="20220521T131330Z" creationid="true" creationdate="20220521T131330Z">
+        <seg>Debe haber una protección eléctrica de al menos 10 amperios.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>External environment may require a higher setting.</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220504T181242Z" creationid="waddasauria" creationdate="20220504T181242Z">
