@@ -2508,6 +2508,14 @@ l</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The Fridge/Freezer is exceptionally warm</seg>
+      </tuv>
+      <tuv lang="es" changeid="Lenovo" changedate="20220521T161743Z" creationid="Lenovo" creationdate="20220521T161743Z">
+        <seg>El frigorífico/congelador está excepcionalmente caliente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The LED display will show the setting temperature when “flash”; Display will show the actual temperature for the drawer refrigerators when normal.</seg>
       </tuv>
       <tuv lang="es" changeid="true" changedate="20220521T135642Z" creationid="true" creationdate="20220521T135642Z">
@@ -2600,6 +2608,14 @@ l</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220504T181121Z" creationid="waddasauria" creationdate="20220504T181121Z">
         <seg>El cortacircuitos se ha activado o hay un fusible quemado. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The compressor may not be working.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Lenovo" changedate="20220521T161819Z" creationid="Lenovo" creationdate="20220521T161819Z">
+        <seg>Es posible que el compresor no funcione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3791,6 +3807,14 @@ El ajuste en la sección del congelador está entre "MIN" y "MAX" en la nevera
       </tuv>
       <tuv lang="es" changeid="Lenovo" changedate="20220519T145415Z" creationid="Lenovo" creationdate="20220519T145415Z">
         <seg>Solo se podrá ajustar la temperatura cuando el número "parpadee".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You may have accidentally&lt;t0/&gt; &lt;t1/&gt;set the refrigerator temperature to a higher position.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Lenovo" changedate="20220521T161914Z" creationid="Lenovo" creationdate="20220521T161914Z">
+        <seg>Es posible que haya ajustado accidentalmente&lt;t0/&gt; &lt;t1/&gt;la temperatura del frigorífico a una posición más alta.</seg>
       </tuv>
     </tu>
     <tu>
