@@ -3908,6 +3908,14 @@ El ajuste en la sección del congelador está entre "MIN" y "MAX" en la nevera
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>·You can use the space in the Freezer most efficiently if you freeze liquids(or solids with liquids, such as stew) in square blocks.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Lenovo" changedate="20220521T155052Z" creationid="Lenovo" creationdate="20220521T155052Z">
+        <seg>·Puede utilizar el espacio del congelador de forma más eficiente si congela los líquidos (o los sólidos con líquidos, como el estofado) en bloques cuadrados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>– bed and breakfast type environments.</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220521T082459Z" creationid="waddasauria" creationdate="20220521T082459Z">
