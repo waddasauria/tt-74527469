@@ -274,6 +274,14 @@ l</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Grounding requirement</seg>
+      </tuv>
+      <tuv lang="es" changeid="waddasauria" changedate="20220521T083951Z" creationid="waddasauria" creationdate="20220521T083951Z">
+        <seg>Requisitos de conexión a tierra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>IMPORTANT SAFETY INSTRUCTIONS</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220521T063215Z" creationid="waddasauria" creationdate="20220521T063215Z">
@@ -492,6 +500,22 @@ l</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220521T080929Z" creationid="waddasauria" creationdate="20220521T080148Z">
         <seg>ADVERTENCIA&lt;t0/&gt;—No utilice aparatos eléctricos dentro de los compartimentos de almacenamiento de alimentos a menos que sean aquellos recomendados por el fabricante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Your refrigerator is equipped with a cord having a grounding wire with a grounding</seg>
+      </tuv>
+      <tuv lang="es" changeid="waddasauria" changedate="20220521T084016Z" creationid="waddasauria" creationdate="20220521T084016Z">
+        <seg>Su Your refrigerator is equipped with a cord having a grounding wire with a grounding</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Your refrigerator must be grounded.</seg>
+      </tuv>
+      <tuv lang="es" changeid="waddasauria" changedate="20220521T084001Z" creationid="waddasauria" creationdate="20220521T084001Z">
+        <seg>Su frigorífico debe estar conectado a tierra.</seg>
       </tuv>
     </tu>
     <tu>
