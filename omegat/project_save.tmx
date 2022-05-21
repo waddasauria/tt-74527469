@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.0_0_8ae1ecfb" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1128,6 +1128,14 @@ l</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Place frozen food into the freezer as quickly as possible after purchase.</seg>
+      </tuv>
+      <tuv lang="es" changeid="waddasauria" changedate="20220521T110256Z" creationid="waddasauria" creationdate="20220521T110256Z">
+        <seg>Coloque los alimentos congelados en el congelador lo antes posible después de comprarlos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Place your refrigerator on a floor that is strong enough to support the refrigerator when it is fully loaded.</seg>
       </tuv>
       <tuv lang="es" changeid="true" changedate="20220515T221650Z" creationid="true" creationdate="20220515T221650Z">
@@ -1168,10 +1176,27 @@ l</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Pre-packed commercially frozen food should be stored in accordance with the frozen foods manufacturer’s instructions for a three star frozen food storage compartment or home freezer.</seg>
+      </tuv>
+      <tuv lang="es" changeid="waddasauria" changedate="20220521T110203Z" creationid="waddasauria" creationdate="20220521T110203Z">
+        <seg>Los alimentos preenvasados congelados  deben almacenarse de acuerdo con las instrucciones del fabricante para un compartimento de almacenamiento de alimentos congelados de tres estrellas o un congelador doméstico.
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Press this button, press &lt;t0/&gt; to set temperature, the number of temperature will   flash once you press the button.</seg>
       </tuv>
       <tuv lang="es" changeid="Lenovo" changedate="20220519T145334Z" creationid="Lenovo" creationdate="20220519T145231Z">
         <seg>Pulse este botón, pulse &lt;t0/&gt; para ajustar la temperatura,el número de la temperatura parpadeará una vez pulse el botón.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Proper use of the appliance, adequately packed food, correct temperature and taking into account hygienic precautions will substantially influence the quality of freezing the food or storing of the frozen foods.</seg>
+      </tuv>
+      <tuv lang="es" changeid="waddasauria" changedate="20220521T105422Z" creationid="waddasauria" creationdate="20220521T105422Z">
+        <seg>El buen uso del electrodoméstico, el empaquetado adecuado de los alimentos, la temperatura correcta y el tener en cuenta las advertencias respecto a la higiene influirán en la calidad de congelación y el almacenamiento de los alimentos. </seg>
       </tuv>
     </tu>
     <tu>
@@ -1203,9 +1228,9 @@ l</seg>
       <tuv lang="en">
         <seg>Recommended thermostat setting for ice making is position “COLD”.</seg>
       </tuv>
-      <tuv lang="es" changeid="waddasauria" changedate="20220521T104102Z" creationid="waddasauria" creationdate="20220521T104102Z">
+      <tuv lang="es" changeid="waddasauria" changedate="20220521T105148Z" creationid="waddasauria" creationdate="20220521T104102Z">
         <seg>El ajuste del termostato recomendado para hacer hielo es la posición "COLD". 
-.</seg>
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -1667,6 +1692,14 @@ El ajuste en la sección del congelador está entre "MIN" y "MAX" en la nevera
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The storage life of frozen foods varies and the recommended storage time should not be exceeded.</seg>
+      </tuv>
+      <tuv lang="es" changeid="waddasauria" changedate="20220521T110122Z" creationid="waddasauria" creationdate="20220521T110122Z">
+        <seg>El tiempo de conserva de los alimentos congelados varía y no debe superarse el tiempo de almacenamiento recomendado..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The temperature control is located at the rear of each section (refrigerator / freezer).</seg>
       </tuv>
       <tuv lang="es" changeid="Lenovo" changedate="20220518T103629Z" creationid="Lenovo" creationdate="20220518T103629Z">
@@ -1719,6 +1752,15 @@ El ajuste en la sección del congelador está entre "MIN" y "MAX" en la nevera
       </tuv>
       <tuv lang="es" changeid="Lenovo" changedate="20220518T105113Z" creationid="Lenovo" creationdate="20220518T105113Z">
         <seg>Este aparato requiere una toma de corriente estándar de 115 voltios AC~60Hz con tres clavijas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This compartment is designed for the long-term storage of frozen food.</seg>
+      </tuv>
+      <tuv lang="es" changeid="waddasauria" changedate="20220521T105448Z" creationid="waddasauria" creationdate="20220521T105448Z">
+        <seg>Este compartimento está diseñado para almacenad alimentos congelados a largo plazo.  
+.</seg>
       </tuv>
     </tu>
     <tu>
