@@ -757,6 +757,14 @@ l</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For some foods, thawing before cooking is unnecessary.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Lenovo" changedate="20220521T114756Z" creationid="Lenovo" creationdate="20220521T114756Z">
+        <seg>En el caso de algunos alimentos, no es necesario descongelarlos antes de cocinarlos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Freezer Basket</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220521T094101Z" creationid="waddasauria" creationdate="20220521T094101Z">
@@ -1548,6 +1556,14 @@ l</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Thawing frozen food</seg>
+      </tuv>
+      <tuv lang="es" changeid="Lenovo" changedate="20220521T114719Z" creationid="Lenovo" creationdate="20220521T114719Z">
+        <seg>Descongelación de alimentos congelados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The LED display will show the setting temperature when “flash”; Display will show the actual temperature for the upper chamber when normal.</seg>
       </tuv>
       <tuv lang="es" changeid="Lenovo" changedate="20220518T100832Z" creationid="Lenovo" creationdate="20220518T100832Z">
@@ -2174,6 +2190,14 @@ El ajuste en la sección del congelador está entre "MIN" y "MAX" en la nevera
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220521T104043Z" creationid="waddasauria" creationdate="20220521T104043Z">
         <seg>Cómo utilizar la cubitera</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Vegetables and pasta can be added directly to boiling water or steam cooked.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Lenovo" changedate="20220521T114836Z" creationid="Lenovo" creationdate="20220521T114836Z">
+        <seg>Las verduras y la pasta pueden añadirse directamente al agua hirviendo o cocinarse al vapor.</seg>
       </tuv>
     </tu>
     <tu>
