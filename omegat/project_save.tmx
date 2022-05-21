@@ -80,6 +80,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Do not attempt to modify or extend the power cord of your refrigerator.</seg>
+      </tuv>
+      <tuv lang="es" changeid="waddasauria" changedate="20220521T065751Z" creationid="waddasauria" creationdate="20220521T065751Z">
+        <seg>No intente modificar o alargar el cable de alimentación de su frigorífico. .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Do not install near any heat sources, such as radiators, heat registers, stoves, or other apparatus (including amplifiers) that produce heat.</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220521T063952Z" creationid="waddasauria" creationdate="20220521T063952Z">
@@ -156,6 +164,15 @@
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220521T063153Z" creationid="waddasauria" creationdate="20220521T063153Z">
         <seg>Modelo.:CQRB09Y1GD1RW/CQRB09Y1GD1RS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Protect the power cord from being walked on or pinched, particularly at plugs, convenience receptacles, and the point where it exits from your refrigerator.</seg>
+      </tuv>
+      <tuv lang="es" changeid="waddasauria" changedate="20220521T065721Z" creationid="waddasauria" creationdate="20220521T065721Z">
+        <seg> Proteja el cable de alimentación para que nadie lo pise pellizque, sobre todo en los enchufes, en las tomas de corriente y en el punto en el que sale del frigorífico.
+</seg>
       </tuv>
     </tu>
     <tu>
