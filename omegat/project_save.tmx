@@ -725,6 +725,14 @@ l</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Correct Disposal of this product</seg>
+      </tuv>
+      <tuv lang="es" changeid="Lenovo" changedate="20220521T151803Z" creationid="Lenovo" creationdate="20220521T151803Z">
+        <seg>Eliminación correcta de este producto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Crisper</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220521T084908Z" creationid="waddasauria" creationdate="20220521T084908Z">
@@ -2865,6 +2873,14 @@ El ajuste en la sección del congelador está entre "MIN" y "MAX" en la nevera
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220504T155205Z" creationid="waddasauria" creationdate="20220504T155205Z">
         <seg>Aquí debe guardar los alimentos que vayan a conservarse por más tiempo si se mantienen fríos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This marking indicates that this product should not be disposed with other household wastes throughout the EU.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Lenovo" changedate="20220521T151950Z" creationid="Lenovo" creationdate="20220521T151950Z">
+        <seg>Esta marca indica que este producto no debe eliminarse con otros residuos domésticos en toda la UE.</seg>
       </tuv>
     </tu>
     <tu>
