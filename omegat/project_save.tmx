@@ -1258,6 +1258,14 @@ l</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Salad bin</seg>
+      </tuv>
+      <tuv lang="es" changeid="Lenovo" changedate="20220521T104748Z" creationid="Lenovo" creationdate="20220521T104748Z">
+        <seg>Papelera para ensalada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Servicing is required when your refrigerator has been damaged in any way, such as the power-supply cord or plug is damaged, liquid has been spilled or objects have fallen into your refrigerator, your refrigerator has been exposed to rain or moisture, does not operate normally, or has been dropped.</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220521T073713Z" creationid="waddasauria" creationdate="20220521T073713Z">
@@ -1863,6 +1871,14 @@ El ajuste en la sección del congelador está entre "MIN" y "MAX" en la nevera
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Unwashed whole lettuce, whole tomatoes, radishes etc can be stored here.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Lenovo" changedate="20220521T105000Z" creationid="Lenovo" creationdate="20220521T105000Z">
+        <seg>Aquí puede guardar lechugas enteras sin lavar, tomates enteros, rábanos, etc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Up</seg>
       </tuv>
       <tuv lang="es" changeid="Lenovo" changedate="20220518T101113Z" creationid="Lenovo" creationdate="20220518T101113Z">
@@ -1908,6 +1924,14 @@ El ajuste en la sección del congelador está entre "MIN" y "MAX" en la nevera
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220521T104043Z" creationid="waddasauria" creationdate="20220521T104043Z">
         <seg>Cómo utilizar la cubitera</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Vegetables, fruit, fresh salad items eg.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Lenovo" changedate="20220521T104848Z" creationid="Lenovo" creationdate="20220521T104848Z">
+        <seg>Verduras, frutas, ensaladas frescas, por ejemplo.</seg>
       </tuv>
     </tu>
     <tu>
