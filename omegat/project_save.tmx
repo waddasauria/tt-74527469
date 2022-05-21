@@ -1460,6 +1460,14 @@ l</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Special insulated bags can be bought from most supermarkets and hardware shops.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Lenovo" changedate="20220521T114358Z" creationid="Lenovo" creationdate="20220521T114358Z">
+        <seg>En la mayoría de los supermercados y ferreterías se pueden comprar bolsas aislantes especiales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Step 1</seg>
       </tuv>
       <tuv lang="es" changeid="Lenovo" changedate="20220521T104426Z" creationid="Lenovo" creationdate="20220521T104426Z">
@@ -1864,6 +1872,14 @@ El ajuste en la sección del congelador está entre "MIN" y "MAX" en la nevera
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220521T101831Z" creationid="waddasauria" creationdate="20220521T101831Z">
         <seg>A continuación, aclare con agua tibia utilizando una esponja o paño húmedo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>These keep frozen food cold for longer.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Lenovo" changedate="20220521T114520Z" creationid="Lenovo" creationdate="20220521T114520Z">
+        <seg>Estos mantienen los alimentos congelados en frío durante más tiempo.</seg>
       </tuv>
     </tu>
     <tu>
