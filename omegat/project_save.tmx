@@ -829,6 +829,14 @@ l</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Do not use your appliance with an extension cord unless this cord has been checked and tested by a qualified technician or service person.</seg>
+      </tuv>
+      <tuv lang="es" changeid="true" changedate="20220521T131729Z" creationid="true" creationdate="20220521T131729Z">
+        <seg>No utilice su aparato con un cable alargador a menos que haya sido probado y certificado por un técnico cualificado o un servicio técnico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Do not use your refrigerator near water.</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220521T063449Z" creationid="waddasauria" creationdate="20220521T063449Z">
@@ -2097,6 +2105,14 @@ l</seg>
       </tuv>
       <tuv lang="es" changeid="Lenovo" changedate="20220521T101108Z" creationid="Lenovo" creationdate="20220521T101108Z">
         <seg>La puerta no se cerrará correctamente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The extension cord must be a VED-Listed, 3 wire grounding extension cord that has a grounding plug and outlet  and that the electrical rating of the cord is 115 volts and at least 10 amperes.</seg>
+      </tuv>
+      <tuv lang="es" changeid="true" changedate="20220521T132237Z" creationid="true" creationdate="20220521T132237Z">
+        <seg>El cable alargador debe ser un cable alargador de 3 hilos con conexión a tierra que tenga un enchufe y una toma de corriente con conexión a tierra y que la capacidad eléctrica del cable sea de 115 voltios y al menos 10 amperios.</seg>
       </tuv>
     </tu>
     <tu>
