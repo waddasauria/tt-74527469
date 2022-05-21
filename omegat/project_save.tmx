@@ -264,6 +264,14 @@ l</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t0/&gt;Set the refrigerator temperature to maximum setting&lt;t1/&gt; and wait a few minutes.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Lenovo" changedate="20220521T162022Z" creationid="Lenovo" creationdate="20220521T162022Z">
+        <seg>&lt;t0/&gt;Ponga la temperatura del frigorífico en el ajuste máximo&lt;t1/&gt; y espere unos minutos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A grounding type plug has two blades and a third grounding prong.</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220521T064946Z" creationid="waddasauria" creationdate="20220521T064916Z">
@@ -576,6 +584,22 @@ l</seg>
       </tuv>
       <tuv lang="es" changeid="Lenovo" changedate="20220521T103805Z" creationid="Lenovo" creationdate="20220521T103805Z">
         <seg>Cambio de bombilla</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Check it is plugged in and switched on.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Lenovo" changedate="20220521T162209Z" creationid="Lenovo" creationdate="20220521T162209Z">
+        <seg>Compruebe que está enchufado y encendido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Check that the fuse in the plug has not blown.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Lenovo" changedate="20220521T162236Z" creationid="Lenovo" creationdate="20220521T162236Z">
+        <seg>Compruebe que el fusible del enchufe no se ha fundido.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1530,6 +1554,14 @@ l</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220521T110314Z" creationid="waddasauria" creationdate="20220521T110314Z">
         <seg>Si hay instrucciones  respecto al tiempo de almacenamiento en el paquete, sigalas cuidadosamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If there is no humming noise, it is not working.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Lenovo" changedate="20220521T162115Z" creationid="Lenovo" creationdate="20220521T162115Z">
+        <seg>Si no hay ruido de zumbido, no funciona.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2512,6 +2544,14 @@ l</seg>
       </tuv>
       <tuv lang="es" changeid="Lenovo" changedate="20220521T161743Z" creationid="Lenovo" creationdate="20220521T161743Z">
         <seg>El frigorífico/congelador está excepcionalmente caliente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Fridge/Freezer is not working</seg>
+      </tuv>
+      <tuv lang="es" changeid="Lenovo" changedate="20220521T162146Z" creationid="Lenovo" creationdate="20220521T162146Z">
+        <seg>El frigorífico/congelador no funciona</seg>
       </tuv>
     </tu>
     <tu>
