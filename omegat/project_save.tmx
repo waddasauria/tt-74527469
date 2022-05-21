@@ -1590,6 +1590,14 @@ l</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In another appliance, such as a lamp, to see if the socket is working.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Lenovo" changedate="20220521T162355Z" creationid="Lenovo" creationdate="20220521T162355Z">
+        <seg>En otro aparato, como una lámpara, para ver si el enchufe funciona.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Incorrect use of the grounding plug can result in a risk of electric shock.</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220521T084308Z" creationid="waddasauria" creationdate="20220521T084308Z">
@@ -1715,6 +1723,14 @@ l</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220504T152943Z" creationid="waddasauria" creationdate="20220504T152943Z">
         <seg>Deje espacio entre los alimentos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Leave the Fridge/Freezer for 30 minutes.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Lenovo" changedate="20220521T162509Z" creationid="Lenovo" creationdate="20220521T162509Z">
+        <seg>Deje la nevera/congelador durante 30 minutos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2020,6 +2036,14 @@ l</seg>
       </tuv>
       <tuv lang="es" changeid="true" changedate="20220521T141702Z" creationid="true" creationdate="20220521T141658Z">
         <seg>Por favor, no coloque las botellas llenas en el estante en la salida de aire de refrigeración y retorno, o hará que la temperatura del gabinete sea desigual o que la temperatura de las botellas sea demasiado baja.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Plug</seg>
+      </tuv>
+      <tuv lang="es" changeid="Lenovo" changedate="20220521T162306Z" creationid="Lenovo" creationdate="20220521T162306Z">
+        <seg>Enchufe</seg>
       </tuv>
     </tu>
     <tu>
@@ -2552,6 +2576,14 @@ l</seg>
       </tuv>
       <tuv lang="es" changeid="Lenovo" changedate="20220521T162146Z" creationid="Lenovo" creationdate="20220521T162146Z">
         <seg>El frigorífico/congelador no funciona</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Fridge/Freezer should be placed in a well ventilated room with an ambient temperature of between 16℃and 32℃.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Lenovo" changedate="20220521T162421Z" creationid="Lenovo" creationdate="20220521T162421Z">
+        <seg>El frigorífico/congelador debe colocarse en una habitación bien ventilada con una temperatura ambiente de entre 16℃y 32℃.</seg>
       </tuv>
     </tu>
     <tu>
