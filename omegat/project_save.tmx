@@ -601,6 +601,14 @@ l</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Wire Freezer Shelf</seg>
+      </tuv>
+      <tuv lang="es" changeid="waddasauria" changedate="20220521T094051Z" creationid="waddasauria" creationdate="20220521T094051Z">
+        <seg>Estante de alambre para congelados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Your refrigerator is equipped with a cord having a grounding wire with a grounding</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220521T084136Z" creationid="waddasauria" creationdate="20220521T084016Z">
