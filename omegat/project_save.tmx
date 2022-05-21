@@ -14,10 +14,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>1.WARNING&lt;t0/&gt;–Keep ventilation openings, in both your refrigerator and the built-in structure, clear of obstruction.</seg>
+      </tuv>
+      <tuv lang="es" changeid="waddasauria" changedate="20220521T074545Z" creationid="waddasauria" creationdate="20220521T074545Z">
+        <seg>1.ADVERTENCIA&lt;t0/&gt;–Mantenga las aberturas de ventilación, tanto en su refrigerador como en la estructura incorporada, libres de obstrucciones.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>17.Refer all servicing to qualified service personnel.</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220521T070233Z" creationid="waddasauria" creationdate="20220521T070233Z">
         <seg>17.Deje que un prestador de servicios cualificado se encargue de las reparaciones.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>2.WARNING&lt;t0/&gt;–Do not touch the interior of your refrigerator with wet hands.</seg>
+      </tuv>
+      <tuv lang="es" changeid="waddasauria" changedate="20220521T074638Z" creationid="waddasauria" creationdate="20220521T074638Z">
+        <seg>2. ADVERTENCIA&lt;t0/&gt;–No toque el interior de su frigorífico con las manos mojadas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -150,6 +166,22 @@ l</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220521T063449Z" creationid="waddasauria" creationdate="20220521T063449Z">
         <seg>No utilice el frigorífico cerca del agua.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Electric Shock Hazard</seg>
+      </tuv>
+      <tuv lang="es" changeid="waddasauria" changedate="20220521T074438Z" creationid="waddasauria" creationdate="20220521T074438Z">
+        <seg>Peligro de descarga eléctrica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Failure to follow these instructions can result in electric shock, fire, or death.</seg>
+      </tuv>
+      <tuv lang="es" changeid="waddasauria" changedate="20220521T074501Z" creationid="waddasauria" creationdate="20220521T074501Z">
+        <seg>El incumplimiento de estas instrucciones puede provocar una descarga eléctrica, un incendio o incluso la muerte.</seg>
       </tuv>
     </tu>
     <tu>
