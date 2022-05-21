@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.0_0_8ae1ecfb" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -308,6 +308,14 @@ l</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Before removing the light bulb, turn off the refrigerator first and then unplug the unit from the wall outlet.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Lenovo" changedate="20220521T103940Z" creationid="Lenovo" creationdate="20220521T103940Z">
+        <seg>Antes de retirar la bombilla, apague primero el frigorífico y luego desenchufe el aparato del enchufe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Before storing foods in your Fridge/Freezer, turn the Fridge/Freezer on and wait for 24 hours, to make sure it is working properly and to allow the Fridge/Freezer to fail to the correct temperature.</seg>
       </tuv>
       <tuv lang="es" changeid="Lenovo" changedate="20220518T102939Z" creationid="Lenovo" creationdate="20220518T102939Z">
@@ -360,6 +368,14 @@ l</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220521T094141Z" creationid="waddasauria" creationdate="20220521T094141Z">
         <seg>Dispensador de latas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Changing the Light Bulb</seg>
+      </tuv>
+      <tuv lang="es" changeid="Lenovo" changedate="20220521T103805Z" creationid="Lenovo" creationdate="20220521T103805Z">
+        <seg>Cambio de bombilla</seg>
       </tuv>
     </tu>
     <tu>
@@ -609,6 +625,14 @@ l</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220504T181242Z" creationid="waddasauria" creationdate="20220504T181242Z">
         <seg>El ambiente externo quizás requiera un ajuste mayor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Failure to do so could result in electrical shock or personal injury.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Lenovo" changedate="20220521T104055Z" creationid="Lenovo" creationdate="20220521T104055Z">
+        <seg>Su incumplimiento podría provocar una descarga eléctrica o lesiones personales.</seg>
       </tuv>
     </tu>
     <tu>
