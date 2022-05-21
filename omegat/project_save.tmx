@@ -2012,6 +2012,14 @@ l</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Temperature Display for drawer refrigerators.</seg>
+      </tuv>
+      <tuv lang="es" changeid="true" changedate="20220521T135620Z" creationid="true" creationdate="20220521T135620Z">
+        <seg>Indicador de temperatura para frigoríficos de cajón.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Temperature Display for lower chamber.</seg>
       </tuv>
       <tuv lang="es" changeid="Lenovo" changedate="20220518T101013Z" creationid="Lenovo" creationdate="20220518T101013Z">
@@ -2048,6 +2056,14 @@ l</seg>
       </tuv>
       <tuv lang="es" changeid="Lenovo" changedate="20220521T114719Z" creationid="Lenovo" creationdate="20220521T114719Z">
         <seg>Descongelación de alimentos congelados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The LED display will show the setting temperature when “flash”; Display will show the actual temperature for the lower chamber when normal.</seg>
+      </tuv>
+      <tuv lang="es" changeid="true" changedate="20220521T135434Z" creationid="true" creationdate="20220521T135434Z">
+        <seg>La pantalla LED mostrará la temperatura de ajuste cuando "parpadee"; la pantalla mostrará la temperatura real de la cámara inferior cuando sea normal.</seg>
       </tuv>
     </tu>
     <tu>
