@@ -922,6 +922,22 @@ l</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Date of Purchase_____________  Purchaser_____________________</seg>
+      </tuv>
+      <tuv lang="es" changeid="true" changedate="20220521T190425Z" creationid="true" creationdate="20220521T190400Z">
+        <seg>Fecha de compra_____________  Comprador_____________________</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Dealer______________________  Suburb________________________</seg>
+      </tuv>
+      <tuv lang="es" changeid="true" changedate="20220521T190536Z" creationid="true" creationdate="20220521T190536Z">
+        <seg>Concesionario______________________  Barrio________________________</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Defrosting</seg>
       </tuv>
       <tuv lang="es" changeid="Lenovo" changedate="20220521T155310Z" creationid="Lenovo" creationdate="20220521T155310Z">
@@ -2078,6 +2094,14 @@ l</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Model No.___________________  Serial No._____________________</seg>
+      </tuv>
+      <tuv lang="es" changeid="true" changedate="20220521T190406Z" creationid="true" creationdate="20220521T190353Z">
+        <seg>El modelo número___________________  Número de serie._____________________</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>ModelNo.:CQRB09Y1GD1RW/CQRB09Y1GD1RS</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220521T063153Z" creationid="waddasauria" creationdate="20220521T063153Z">
@@ -2268,6 +2292,14 @@ l</seg>
       </tuv>
       <tuv lang="es" changeid="true" changedate="20220521T141702Z" creationid="true" creationdate="20220521T141658Z">
         <seg>Por favor, no coloque las botellas llenas en el estante en la salida de aire de refrigeración y retorno, o hará que la temperatura del gabinete sea desigual o que la temperatura de las botellas sea demasiado baja.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Please enter the information requested in the spaces provided.</seg>
+      </tuv>
+      <tuv lang="es" changeid="true" changedate="20220521T190259Z" creationid="true" creationdate="20220521T190259Z">
+        <seg>Por favor, introduzca la información solicitada en los espacios previstos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3167,6 +3199,14 @@ l</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The model and serial number can be found on the product data plate.</seg>
+      </tuv>
+      <tuv lang="es" changeid="true" changedate="20220521T190249Z" creationid="true" creationdate="20220521T190249Z">
+        <seg>El modelo y el número de serie se encuentran en la placa de datos del producto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The packaging should be airtight and shouldn’t leak since this could cause substantial vitamin loss and dehydration of foods.</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220521T110440Z" creationid="waddasauria" creationdate="20220521T110440Z">
@@ -3696,8 +3736,8 @@ El ajuste en la sección del congelador está entre "MIN" y "MAX" en la nevera
       <tuv lang="en">
         <seg>This warranty gives you specific legal rights, and you may also have other rights that vary from state to state.</seg>
       </tuv>
-      <tuv lang="es" changeid="true" changedate="20220521T190143Z" creationid="true" creationdate="20220521T190143Z">
-        <seg>Esta garantía le otorga derechos legales específicos, y también puede tener otros derechos que varían de un estado a otro.</seg>
+      <tuv lang="es" changeid="true" changedate="20220521T190209Z" creationid="true" creationdate="20220521T190143Z">
+        <seg>Esta garantía le otorga derechos legales específicos, y también tendrá otros derechos que varían de un estado a otro.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4337,6 +4377,14 @@ El ajuste en la sección del congelador está entre "MIN" y "MAX" en la nevera
       </tuv>
       <tuv lang="es" changeid="true" changedate="20220521T134046Z" creationid="true" creationdate="20220521T134046Z">
         <seg>Al utilizar la enfriadora de vinos por primera vez o al reiniciar la enfriadora de vinos después de haber estado apagada durante mucho tiempo, podría haber una variación de algunos grados entre la temperatura que usted selecciona y la que se indica en el indicador LED.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Whenever you call our customer service at 877-288-8099 (THORKITCHEN WINE COOLER) for technical information and parts sales in the United States or to request service for your appliance, please have your complete model number and serial number ready.</seg>
+      </tuv>
+      <tuv lang="es" changeid="true" changedate="20220521T190233Z" creationid="true" creationdate="20220521T190233Z">
+        <seg>Siempre que llame a nuestro servicio de atención al cliente al 877-288-8099 (THORKITCHEN WINE COOLER) para obtener información técnica y venta de piezas en Estados Unidos o para solicitar el servicio de su aparato, tenga a mano el número de modelo completo y el número de serie.</seg>
       </tuv>
     </tu>
     <tu>
