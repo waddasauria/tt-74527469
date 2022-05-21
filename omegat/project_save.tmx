@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.0_0_8ae1ecfb" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -280,6 +280,30 @@ l</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220521T101304Z" creationid="waddasauria" creationdate="20220521T101304Z">
         <seg>Ante cualquier pregunta relacionada con la alimentación y/o la conexión a tierra debe contactar con un electricista profesional o con un centro de servicio autorizado. .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>As shown in Figure step 1, remove the lamp cover;</seg>
+      </tuv>
+      <tuv lang="es" changeid="Lenovo" changedate="20220521T104134Z" creationid="Lenovo" creationdate="20220521T104134Z">
+        <seg>Como se muestra en el paso 1 de la figura, retire la cubierta de la lámpara;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>As shown in Figure step 2, use left hand to press the LED light panel to inside along the direction of arrow B &lt;t0/&gt; &lt;t1/&gt;and pull out the circuit boards along the direction of “arrow C” with flat had screwdriver.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Lenovo" changedate="20220521T104234Z" creationid="Lenovo" creationdate="20220521T104234Z">
+        <seg>Como se indica en el paso 2 de la figura, utilice la mano izquierda para presionar el panel de luz LED hacia el interior a lo largo de la dirección de la flecha B &lt;t0/&gt; &lt;t1/&gt;y saque las placas de circuito a lo largo de la dirección de la "flecha C" con un destornillador plano.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>As shown in Figure step 3, hold down of wire terminal with left hand and remove the LED lamp circuit with right hand seizing the other wire terminal .</seg>
+      </tuv>
+      <tuv lang="es" changeid="Lenovo" changedate="20220521T104313Z" creationid="Lenovo" creationdate="20220521T104313Z">
+        <seg>Como se indica en el paso 3 de la figura, sujete el terminal del cable con la mano izquierda y retire el circuito de la lámpara LED con la mano derecha sujetando el otro terminal del cable.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1190,6 +1214,14 @@ l</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220521T084706Z" creationid="waddasauria" creationdate="20220521T084706Z">
         <seg>Control&lt;t0/&gt; &lt;t1/&gt;de temperatura del frigorífico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Replace with LED light that is the same shape and size.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Lenovo" changedate="20220521T104416Z" creationid="Lenovo" creationdate="20220521T104416Z">
+        <seg>Sustitúyalo por una luz LED de la misma forma y tamaño.</seg>
       </tuv>
     </tu>
     <tu>
