@@ -420,6 +420,14 @@ l</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Be sure the appliance stays secure in the upright position during transportation.</seg>
+      </tuv>
+      <tuv lang="es" changeid="true" changedate="20220521T144411Z" creationid="true" creationdate="20220521T144411Z">
+        <seg>Asegúrese de que el aparato se mantiene en posición vertical durante el transporte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Before Using Your Wine Cooler</seg>
       </tuv>
       <tuv lang="es" changeid="true" changedate="20220521T120321Z" creationid="true" creationdate="20220521T120321Z">
@@ -2035,6 +2043,14 @@ l</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Securely tape down all loose items ( shelves) inside your appliance.</seg>
+      </tuv>
+      <tuv lang="es" changeid="true" changedate="20220521T144213Z" creationid="true" creationdate="20220521T144213Z">
+        <seg>Asegure con cinta adhesiva todos los objetos sueltos (estantes) dentro de su aparato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Select the temperature display setting in Fahrenheit or Celsius degree.</seg>
       </tuv>
       <tuv lang="es" changeid="true" changedate="20220521T134605Z" creationid="true" creationdate="20220521T134605Z">
@@ -2176,6 +2192,14 @@ l</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220504T145915Z" creationid="waddasauria" creationdate="20220504T145915Z">
         <seg>Presta especial atención a la carne y al pescado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Tape the door shut.</seg>
+      </tuv>
+      <tuv lang="es" changeid="true" changedate="20220521T144312Z" creationid="true" creationdate="20220521T144312Z">
+        <seg>Cierra la puerta con cinta adhesiva.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2956,6 +2980,14 @@ El ajuste en la sección del congelador está entre "MIN" y "MAX" en la nevera
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220521T070114Z" creationid="waddasauria" creationdate="20220521T070114Z">
         <seg>Apague su frigorífico antes de desenchufarlo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Turn the adjustable leg up to the base to avoid damage.</seg>
+      </tuv>
+      <tuv lang="es" changeid="true" changedate="20220521T144250Z" creationid="true" creationdate="20220521T144250Z">
+        <seg>Gire la pata ajustable hasta la base para evitar daños.</seg>
       </tuv>
     </tu>
     <tu>
