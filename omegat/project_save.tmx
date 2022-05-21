@@ -22,6 +22,15 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>20Your refrigerator is not intended for use by persons (including children) with reduced physical, sensory, or mental</seg>
+      </tuv>
+      <tuv lang="es" changeid="waddasauria" changedate="20220521T074058Z" creationid="waddasauria" creationdate="20220521T074058Z">
+        <seg>20. 20Su frigorífico no está destinado a ser utilizado por personas (incluidos niños) con capacidades diferentes, ya sean físicas, sensoriales o mentales. 
+l</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>3.Heed all warnings.</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220521T063410Z" creationid="waddasauria" creationdate="20220521T063410Z">
@@ -140,6 +149,14 @@
       </tuv>
       <tuv lang="es" changeid="Lenovo" changedate="20220520T161734Z" creationid="Lenovo" creationdate="20220520T161734Z">
         <seg>MANUAL DE INSTRUCCIONES</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the power cord is too short, have a qualified electrician install an outlet near your refrigerator.</seg>
+      </tuv>
+      <tuv lang="es" changeid="waddasauria" changedate="20220521T073922Z" creationid="waddasauria" creationdate="20220521T073922Z">
+        <seg>Si el cable de alimentación es demasiado corto, llame a un electricista cualificado para que instale una toma de corriente cerca de su frigorífico.</seg>
       </tuv>
     </tu>
     <tu>
@@ -284,10 +301,29 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use of an extension cord can negatively affect your refrigerator’s performance.</seg>
+      </tuv>
+      <tuv lang="es" changeid="waddasauria" changedate="20220521T073947Z" creationid="waddasauria" creationdate="20220521T073947Z">
+        <seg>El uso de una alargadera puede afectar negativamente al rendimiento de su frigorífico.
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>WARNING 1 Read these instructions&lt;t0/&gt;.</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220521T063247Z" creationid="waddasauria" creationdate="20220521T063247Z">
         <seg>ADVERTENCIA 1 Lea estas instrucciones&lt;t0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>capabilities, or lack of experience and knowledge, unless they have been given supervision or instruction concerning</seg>
+      </tuv>
+      <tuv lang="es" changeid="waddasauria" changedate="20220521T074123Z" creationid="waddasauria" creationdate="20220521T074123Z">
+        <seg>o la falta de experiencia y conocimientos, a menos que se les haya dado supervisión o instrucción sobre 
+uso de su frigorífico por una persona responsable de su seguridad.
+</seg>
       </tuv>
     </tu>
     <tu>
