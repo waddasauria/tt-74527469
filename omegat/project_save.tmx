@@ -227,6 +227,22 @@ l</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Crisper</seg>
+      </tuv>
+      <tuv lang="es" changeid="waddasauria" changedate="20220521T084908Z" creationid="waddasauria" creationdate="20220521T084908Z">
+        <seg>Cajón para verduras</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Crisper Cover</seg>
+      </tuv>
+      <tuv lang="es" changeid="waddasauria" changedate="20220521T084912Z" creationid="waddasauria" creationdate="20220521T084829Z">
+        <seg>Cubierta del cajón para verduras</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Description</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220521T084559Z" creationid="waddasauria" creationdate="20220521T084559Z">
@@ -287,6 +303,14 @@ l</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220521T074501Z" creationid="waddasauria" creationdate="20220521T074501Z">
         <seg>El incumplimiento de estas instrucciones puede provocar una descarga eléctrica, un incendio o incluso la muerte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Freezer Temperature Control</seg>
+      </tuv>
+      <tuv lang="es" changeid="waddasauria" changedate="20220521T084719Z" creationid="waddasauria" creationdate="20220521T084719Z">
+        <seg>Control de temperatura del congelador</seg>
       </tuv>
     </tu>
     <tu>
@@ -425,6 +449,22 @@ l</seg>
       <tuv lang="es" changeid="waddasauria" changedate="20220521T065721Z" creationid="waddasauria" creationdate="20220521T065721Z">
         <seg> Proteja el cable de alimentación para que nadie lo pise pellizque, sobre todo en los enchufes, en las tomas de corriente y en el punto en el que sale del frigorífico.
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Refrigerator Shelves (2)</seg>
+      </tuv>
+      <tuv lang="es" changeid="waddasauria" changedate="20220521T084637Z" creationid="waddasauria" creationdate="20220521T084637Z">
+        <seg>Estantes del frigorífico (2) </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Refrigerator&lt;t0/&gt; &lt;t1/&gt;Temperature Control</seg>
+      </tuv>
+      <tuv lang="es" changeid="waddasauria" changedate="20220521T084706Z" creationid="waddasauria" creationdate="20220521T084706Z">
+        <seg>Control&lt;t0/&gt; &lt;t1/&gt;de temperatura del frigorífico</seg>
       </tuv>
     </tu>
     <tu>
