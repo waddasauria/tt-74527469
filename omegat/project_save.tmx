@@ -3269,6 +3269,14 @@ El ajuste en la sección del congelador está entre "MIN" y "MAX" en la nevera
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The removal and reinstallation of your wine cooler if it is installed in an inaccessible location or is not installed in accordance with published installation instructions.</seg>
+      </tuv>
+      <tuv lang="es" changeid="true" changedate="20220521T185129Z" creationid="true" creationdate="20220521T185129Z">
+        <seg>La retirada y reinstalación de su enfriadora de vino si está instalada en un lugar inaccesible o no está instalada de acuerdo con las instrucciones de instalación publicadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The room temperature is hotter than normal.</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220505T072153Z" creationid="waddasauria" creationdate="20220504T181434Z">
@@ -3634,6 +3642,14 @@ El ajuste en la sección del congelador está entre "MIN" y "MAX" en la nevera
       </tuv>
       <tuv lang="es" changeid="true" changedate="20220521T182752Z" creationid="true" creationdate="20220521T182752Z">
         <seg>Esta garantía se aplica a los productos adquiridos y situados en los Estados Unidos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This warranty is void if the factory applied serial number has been altered or removed from your wine cooler.</seg>
+      </tuv>
+      <tuv lang="es" changeid="true" changedate="20220521T185303Z" creationid="true" creationdate="20220521T185303Z">
+        <seg>Esta garantía no es válida si el número de serie aplicado en fábrica ha sido alterado o eliminado de su enfriadora de vino.</seg>
       </tuv>
     </tu>
     <tu>
