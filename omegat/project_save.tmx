@@ -120,6 +120,22 @@ l</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>8.&lt;t0/&gt;Unplug your refrigerator before carrying out user maintenance on it.</seg>
+      </tuv>
+      <tuv lang="es" changeid="waddasauria" changedate="20220521T081014Z" creationid="waddasauria" creationdate="20220521T081014Z">
+        <seg>8.&lt;t0/&gt;Desenchufe su frigorífico antes de llevar a cabo su mantenimiento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>9.&lt;t0/&gt;If a component part is damaged, it must be replaced by the manufacturer, its service agent, or similar qualified persons in order to avoid a hazard.</seg>
+      </tuv>
+      <tuv lang="es" changeid="waddasauria" changedate="20220521T081617Z" creationid="waddasauria" creationdate="20220521T081617Z">
+        <seg>9.&lt;t0/&gt;Si un componente está dañado, debe ser sustituido por el fabricante, su agente de servicio o un profesional similar con el fin de evitar un peligro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>9.Do not defeat the safety purpose of the polarized or grounding-type plug.</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220521T064351Z" creationid="waddasauria" creationdate="20220521T064351Z">
@@ -433,8 +449,8 @@ l</seg>
       <tuv lang="en">
         <seg>WARNING&lt;t0/&gt;—Do not use electrical appliances inside the food storage compartments of the appliance unless they are of the type recommended by the manufacturer.</seg>
       </tuv>
-      <tuv lang="es" changeid="waddasauria" changedate="20220521T080148Z" creationid="waddasauria" creationdate="20220521T080148Z">
-        <seg>ADVERTENCIA&lt;t0/&gt;—Do not use electrical appliances inside the food storage compartments of the appliance unless they are of the type recommended by the manufacturer.</seg>
+      <tuv lang="es" changeid="waddasauria" changedate="20220521T080929Z" creationid="waddasauria" creationdate="20220521T080148Z">
+        <seg>ADVERTENCIA&lt;t0/&gt;—No utilice aparatos eléctricos dentro de los compartimentos de almacenamiento de alimentos a menos que sean aquellos recomendados por el fabricante.</seg>
       </tuv>
     </tu>
     <tu>
