@@ -2128,6 +2128,14 @@ El ajuste en la sección del congelador está entre "MIN" y "MAX" en la nevera
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You will be able to store each item of frozen food for the period shown against the 4 star rating.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Lenovo" changedate="20220521T105744Z" creationid="Lenovo" creationdate="20220521T105744Z">
+        <seg>Podrá almacenar cada artículo de comida congelada durante el periodo indicado en la clasificación de 4 estrellas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Your Freezer is 4 star</seg>
       </tuv>
       <tuv lang="es" changeid="Lenovo" changedate="20220521T105617Z" creationid="Lenovo" creationdate="20220521T105617Z">
