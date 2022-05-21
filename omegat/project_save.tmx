@@ -112,6 +112,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Do not use extension cords or ungrounded (two prong) adapters.</seg>
+      </tuv>
+      <tuv lang="es" changeid="waddasauria" changedate="20220521T073841Z" creationid="waddasauria" creationdate="20220521T073841Z">
+        <seg>No utilice alargadores ni adaptadores de dos clavijas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Do not use your refrigerator near water.</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220521T063449Z" creationid="waddasauria" creationdate="20220521T063449Z">
@@ -238,6 +246,15 @@
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220521T070023Z" creationid="waddasauria" creationdate="20220521T070023Z">
         <seg>Esto podría provocar una descarga eléctrica .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To reduce the risk of fire or electric shock, do not expose your refrigerator to rain, moisture, dripping, or splashing, and no objects filled with liquids should be placed on top of it.</seg>
+      </tuv>
+      <tuv lang="es" changeid="waddasauria" changedate="20220521T073755Z" creationid="waddasauria" creationdate="20220521T073755Z">
+        <seg>Para reducir el riesgo de incendio o de descarga eléctrica, no exponga su frigorífico a  lluvia, humedad, goteo o salpicaduras, y no coloque sobre él objetos llenos de líquidos.
+</seg>
       </tuv>
     </tu>
     <tu>
