@@ -144,6 +144,14 @@ l</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>8 Standard Shelves&amp;two drawer</seg>
+      </tuv>
+      <tuv lang="es" changeid="true" changedate="20220521T115641Z" creationid="true" creationdate="20220521T115641Z">
+        <seg>8 estantes estándar y dos cajones</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>8.&lt;t0/&gt;Unplug your refrigerator before carrying out user maintenance on it.</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220521T081014Z" creationid="waddasauria" creationdate="20220521T081014Z">
@@ -400,6 +408,14 @@ l</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220521T094141Z" creationid="waddasauria" creationdate="20220521T094141Z">
         <seg>Dispensador de latas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Care and maintenance                          9</seg>
+      </tuv>
+      <tuv lang="es" changeid="true" changedate="20220521T115423Z" creationid="true" creationdate="20220521T115423Z">
+        <seg>Cuidado y mantenimiento                          9</seg>
       </tuv>
     </tu>
     <tu>
@@ -1046,6 +1062,14 @@ l</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Instruction Manual</seg>
+      </tuv>
+      <tuv lang="es" changeid="true" changedate="20220521T115612Z" creationid="true" creationdate="20220521T115612Z">
+        <seg>Manual de instrucciones</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Interior LED Light</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220521T084611Z" creationid="waddasauria" creationdate="20220521T084611Z">
@@ -1107,6 +1131,14 @@ l</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220521T063308Z" creationid="waddasauria" creationdate="20220521T063308Z">
         <seg>Guarde estas instrucciones.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Layout and storage                             9</seg>
+      </tuv>
+      <tuv lang="es" changeid="true" changedate="20220521T115410Z" creationid="true" creationdate="20220521T115410Z">
+        <seg>Disposición y almacenamiento                           9</seg>
       </tuv>
     </tu>
     <tu>
@@ -1328,6 +1360,14 @@ l</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Points of intentions                             7</seg>
+      </tuv>
+      <tuv lang="es" changeid="true" changedate="20220521T115323Z" creationid="true" creationdate="20220521T115323Z">
+        <seg>Aspectos de intenciones                            7</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Power</seg>
       </tuv>
       <tuv lang="es" changeid="Lenovo" changedate="20220518T101527Z" creationid="Lenovo" creationdate="20220518T101527Z">
@@ -1365,6 +1405,14 @@ l</seg>
       </tuv>
       <tuv lang="es" changeid="Lenovo" changedate="20220519T145334Z" creationid="Lenovo" creationdate="20220519T145231Z">
         <seg>Pulse este botón, pulse &lt;t0/&gt; para ajustar la temperatura,el número de la temperatura parpadeará una vez pulse el botón.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Product parameters                            9</seg>
+      </tuv>
+      <tuv lang="es" changeid="true" changedate="20220521T115348Z" creationid="true" creationdate="20220521T115348Z">
+        <seg>Parámetros del producto                          9</seg>
       </tuv>
     </tu>
     <tu>
@@ -2160,6 +2208,14 @@ El ajuste en la sección del congelador está entre "MIN" y "MAX" en la nevera
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Troubleshooting guide                          11</seg>
+      </tuv>
+      <tuv lang="es" changeid="true" changedate="20220521T115437Z" creationid="true" creationdate="20220521T115437Z">
+        <seg>Guía para la resolución de problemas                         11</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Try to keep frozen food together whilst shopping, and on the journey home as this will help to keep the food cooler.</seg>
       </tuv>
       <tuv lang="es" changeid="Lenovo" changedate="20220521T111639Z" creationid="Lenovo" creationdate="20220521T111639Z">
@@ -2324,8 +2380,8 @@ El ajuste en la sección del congelador está entre "MIN" y "MAX" en la nevera
       <tuv lang="en">
         <seg>WARNING: To reduce the risk of fire, electric shock or personal injury ,  unplug or disconnect the appliance from the power supply before servicing.</seg>
       </tuv>
-      <tuv lang="es" changeid="true" changedate="20220515T225349Z" creationid="true" creationdate="20220515T225349Z">
-        <seg>ADVERTENCIA: Al objeto de reducir el riesgo de incendio, choque eléctrico o lesiones personales, desenchufe o desconecte el aparato de la red eléctrica antes de proceder a su mantenimiento.</seg>
+      <tuv lang="es" changeid="true" changedate="20220521T115812Z" creationid="true" creationdate="20220515T225349Z">
+        <seg>ADVERTENCIA: Para reducir el riesgo de incendio, descarga eléctrica o accidentes personales, desenchufe o desconecte el aparato de la red eléctrica antes de realizar el mantenimiento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2350,6 +2406,14 @@ El ajuste en la sección del congelador está entre "MIN" y "MAX" en la nevera
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220504T145752Z" creationid="waddasauria" creationdate="20220504T145752Z">
         <seg>CUANDO LA UNIDAD SE COLOQUE EN UN ESPACIO DONDE LA TEMPERATURA BAJE MÁS DE DIEZ GRADOS, AJUSTE LOS CONTROLES DEL SELECTOR DE TEMPERATURA AL "MÁXIMO" TANTO EN EL FRIGORÍFICO COMO EN LAS SECCIONES DEL CONGELADOR.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Warranty                          12</seg>
+      </tuv>
+      <tuv lang="es" changeid="true" changedate="20220521T115450Z" creationid="true" creationdate="20220521T115450Z">
+        <seg>Garantía                          12</seg>
       </tuv>
     </tu>
     <tu>
@@ -2754,6 +2818,22 @@ El ajuste en la sección del congelador está entre "MIN" y "MAX" en la nevera
       </tuv>
       <tuv lang="es" changeid="true" changedate="20220521T115152Z" creationid="true" creationdate="20220521T115152Z">
         <seg>● &lt;t0/&gt;Instrucciones importantes de seguridad                   3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>● Important Safety Instructions</seg>
+      </tuv>
+      <tuv lang="es" changeid="true" changedate="20220521T115715Z" creationid="true" creationdate="20220521T115715Z">
+        <seg>● Instrucciones importantes de seguridad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>● Wine Cooler package Contents</seg>
+      </tuv>
+      <tuv lang="es" changeid="true" changedate="20220521T115539Z" creationid="true" creationdate="20220521T115539Z">
+        <seg>● Contenido del paquete de la enfriadora de vino</seg>
       </tuv>
     </tu>
     <tu>
