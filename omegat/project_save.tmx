@@ -1561,8 +1561,8 @@ l</seg>
       <tuv lang="en">
         <seg>Many bottles may differ in size and dimensions.</seg>
       </tuv>
-      <tuv lang="es" changeid="true" changedate="20220521T141341Z" creationid="true" creationdate="20220521T141341Z">
-        <seg>El tamaño y las dimensiones de las botellas pueden variar..</seg>
+      <tuv lang="es" changeid="true" changedate="20220521T141345Z" creationid="true" creationdate="20220521T141341Z">
+        <seg>El tamaño y las dimensiones de las botellas pueden variar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2040,6 +2040,14 @@ l</seg>
       </tuv>
       <tuv lang="es" changeid="Lenovo" changedate="20220521T111724Z" creationid="Lenovo" creationdate="20220521T111724Z">
         <seg>Almacene los alimentos directamente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Such as actual number of bottles you may be able to store may vary.</seg>
+      </tuv>
+      <tuv lang="es" changeid="true" changedate="20220521T141545Z" creationid="true" creationdate="20220521T141545Z">
+        <seg>Por ejemplo, el número concreto de botellas que puede almacenar puede variar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3078,6 +3086,14 @@ El ajuste en la sección del congelador está entre "MIN" y "MAX" en la nevera
       </tuv>
       <tuv lang="es" changeid="true" changedate="20220521T122658Z" creationid="true" creationdate="20220521T122658Z">
         <seg>Al trasladar el aparato, tenga cuidado de no dañar el cable de alimentación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When placing the bottles into the wine cooler, make sure there is no contact with the back inner surface.</seg>
+      </tuv>
+      <tuv lang="es" changeid="true" changedate="20220521T141623Z" creationid="true" creationdate="20220521T141623Z">
+        <seg>Al colocar las botellas en el refrigerador de vino, asegúrese de que no haya contacto con la superficie interior trasera.</seg>
       </tuv>
     </tu>
     <tu>
