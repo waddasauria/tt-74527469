@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>* “CAUTION – Risk Of Fire Or Explosion.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Lenovo" changedate="20220521T120117Z" creationid="Lenovo" creationdate="20220521T120117Z">
+        <seg>* "PRECAUCIÓN - Riesgo de incendio o explosión.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>1.Read these instructions.</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220521T063300Z" creationid="waddasauria" creationdate="20220521T063300Z">
@@ -589,6 +597,14 @@ l</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Development Zone,Anhui,P.R China</seg>
+      </tuv>
+      <tuv lang="es" changeid="Lenovo" changedate="20220521T115840Z" creationid="Lenovo" creationdate="20220521T115840Z">
+        <seg>Zona de Desarrollo,Anhui,P.R China</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Direct sunlight may affect the acrylic coating and heat sources may increase electrical consumption.</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220521T094442Z" creationid="waddasauria" creationdate="20220521T094442Z">
@@ -705,6 +721,14 @@ l</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220521T104228Z" creationid="waddasauria" creationdate="20220521T104228Z">
         <seg>Seque la bandeja, de lo contrario podría pegarse al fondo del congelador.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Economy&amp;Technology</seg>
+      </tuv>
+      <tuv lang="es" changeid="Lenovo" changedate="20220521T115802Z" creationid="Lenovo" creationdate="20220521T115802Z">
+        <seg>Economía y Tecnología</seg>
       </tuv>
     </tu>
     <tu>
@@ -1171,6 +1195,14 @@ l</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220521T094406Z" creationid="waddasauria" creationdate="20220521T094406Z">
         <seg>Coloque el frigorífico  lejos de la luz solar directa y de fuentes de calor (estufa, calentador, radiador, etc.). .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mailbox: meilingkf@163.com</seg>
+      </tuv>
+      <tuv lang="es" changeid="Lenovo" changedate="20220521T120000Z" creationid="Lenovo" creationdate="20220521T120000Z">
+        <seg>Correo ellectrónico: meilingkf@163.com</seg>
       </tuv>
     </tu>
     <tu>
