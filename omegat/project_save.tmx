@@ -3564,10 +3564,26 @@ El ajuste en la sección del congelador está entre "MIN" y "MAX" en la nevera
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>·Consider how you want to cook the food before freezing it.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Lenovo" changedate="20220521T150310Z" creationid="Lenovo" creationdate="20220521T150310Z">
+        <seg>·Piense cómo quiere cocinar los alimentos antes de congelarlos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>·Desserts, eg.</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220504T160854Z" creationid="waddasauria" creationdate="20220504T160854Z">
         <seg>·Postres, por ejemplo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>·Don’t freeze food in metal containers as you may want to microwave it straight from the Freezer.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Lenovo" changedate="20220521T150428Z" creationid="Lenovo" creationdate="20220521T150428Z">
+        <seg>·No congele los alimentos en recipientes metálicos, ya que es posible que quiera calentarlos en el microondas directamente desde el congelador.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3608,6 +3624,14 @@ El ajuste en la sección del congelador está entre "MIN" y "MAX" en la nevera
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220504T155811Z" creationid="waddasauria" creationdate="20220504T155811Z">
         <seg>· Los alimentos crudos y sin cocer siempre deben envolverse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>·Use special Freezer bags available from supermarkets, Freezer film, polythene bags, plastic containers, aluminum foil for acidic foods(such as citrus fruits).</seg>
+      </tuv>
+      <tuv lang="es" changeid="Lenovo" changedate="20220521T150736Z" creationid="Lenovo" creationdate="20220521T150736Z">
+        <seg>·Utilice bolsas de congelación especiales disponibles en los supermercados, film de congelación, bolsas de polietileno, contenedores de plástico, papel de aluminio para los alimentos ácidos (como los cítricos).</seg>
       </tuv>
     </tu>
     <tu>
