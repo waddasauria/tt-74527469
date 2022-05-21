@@ -186,6 +186,14 @@ l</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Adjust the feet to keep the refrigerator level.</seg>
+      </tuv>
+      <tuv lang="es" changeid="waddasauria" changedate="20220521T094328Z" creationid="waddasauria" creationdate="20220521T094328Z">
+        <seg>Ajuste las patas para mantener el frigorífico nivelado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>All refrigeration products contain refrigerants, which under the guidelines of federal law must be removed before disposal.</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220521T082057Z" creationid="waddasauria" creationdate="20220521T081952Z">
@@ -194,10 +202,34 @@ l</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Allow 5 inches of space between the back and sides of the refrigerator, which allows the proper air ventilation.</seg>
+      </tuv>
+      <tuv lang="es" changeid="waddasauria" changedate="20220521T094308Z" creationid="waddasauria" creationdate="20220521T094308Z">
+        <seg>Deje un espacio de 5 pulgadas entre la parte trasera y los laterales del frigorífico. Esto permite que el aire circule correctamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Before you throw away your old refrigerator:</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220521T080531Z" creationid="waddasauria" creationdate="20220521T080531Z">
         <seg>Antes de tirar su viejo frigorífico:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Bottle Storage Bin</seg>
+      </tuv>
+      <tuv lang="es" changeid="waddasauria" changedate="20220521T094201Z" creationid="waddasauria" creationdate="20220521T094201Z">
+        <seg>Contenedor para almacenar botellas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Can Dispenser</seg>
+      </tuv>
+      <tuv lang="es" changeid="waddasauria" changedate="20220521T094141Z" creationid="waddasauria" creationdate="20220521T094141Z">
+        <seg>Dispensador de latas</seg>
       </tuv>
     </tu>
     <tu>
@@ -307,6 +339,14 @@ l</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Freezer Basket</seg>
+      </tuv>
+      <tuv lang="es" changeid="waddasauria" changedate="20220521T094101Z" creationid="waddasauria" creationdate="20220521T094101Z">
+        <seg>Cesta del congelador</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Freezer Temperature Control</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220521T084719Z" creationid="waddasauria" creationdate="20220521T084719Z">
@@ -327,6 +367,14 @@ l</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220521T063215Z" creationid="waddasauria" creationdate="20220521T063215Z">
         <seg>INSTRUCCIONES DE SEGURIDAD IMPORTANTES</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>INSTALLATION</seg>
+      </tuv>
+      <tuv lang="es" changeid="waddasauria" changedate="20220521T094212Z" creationid="waddasauria" creationdate="20220521T094212Z">
+        <seg>INSTALLACIÓN</seg>
       </tuv>
     </tu>
     <tu>
@@ -383,6 +431,14 @@ l</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220520T161537Z" creationid="waddasauria" creationdate="20220520T161537Z">
         <seg>Instalación                                    5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Installing Your Refrigerator</seg>
+      </tuv>
+      <tuv lang="es" changeid="waddasauria" changedate="20220521T094224Z" creationid="waddasauria" creationdate="20220521T094224Z">
+        <seg>Instalación de su frigorífico</seg>
       </tuv>
     </tu>
     <tu>
@@ -449,6 +505,14 @@ l</seg>
       <tuv lang="es" changeid="waddasauria" changedate="20220521T065721Z" creationid="waddasauria" creationdate="20220521T065721Z">
         <seg> Proteja el cable de alimentación para que nadie lo pise pellizque, sobre todo en los enchufes, en las tomas de corriente y en el punto en el que sale del frigorífico.
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Refrigerator Door Racks(2)</seg>
+      </tuv>
+      <tuv lang="es" changeid="waddasauria" changedate="20220521T094128Z" creationid="waddasauria" creationdate="20220521T094128Z">
+        <seg>Estantes de la puerta del frigorífico(2)</seg>
       </tuv>
     </tu>
     <tu>
