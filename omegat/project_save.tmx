@@ -1061,6 +1061,14 @@ l</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>However you should do this sparingly to conserve energy.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Lenovo" changedate="20220521T121757Z" creationid="Lenovo" creationdate="20220521T121757Z">
+        <seg>Sin embargo, debe hacerlo con moderación para conservar la energía.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>I&lt;t0/&gt;F THE UNIT IS UNPLUGGED, has LOSt POWER, OR is TURNED OFF, YOU MUST WAIT 3 TO 5 MINUTES BEFORE RESTARTING THE UNIT.</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220521T103940Z" creationid="waddasauria" creationdate="20220521T103940Z">
@@ -1613,6 +1621,14 @@ l</seg>
       <tuv lang="es" changeid="waddasauria" changedate="20220521T110203Z" creationid="waddasauria" creationdate="20220521T110203Z">
         <seg>Los alimentos preenvasados congelados  deben almacenarse de acuerdo con las instrucciones del fabricante para un compartimento de almacenamiento de alimentos congelados de tres estrellas o un congelador doméstico.
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Preparations for freezing</seg>
+      </tuv>
+      <tuv lang="es" changeid="Lenovo" changedate="20220521T121928Z" creationid="Lenovo" creationdate="20220521T121928Z">
+        <seg>Preparativos para la congelación</seg>
       </tuv>
     </tu>
     <tu>
@@ -2960,6 +2976,14 @@ El ajuste en la sección del congelador está entre "MIN" y "MAX" en la nevera
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220504T160854Z" creationid="waddasauria" creationdate="20220504T160854Z">
         <seg>·Postres, por ejemplo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>·Leave cooked food to cool completely.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Lenovo" changedate="20220521T122020Z" creationid="Lenovo" creationdate="20220521T122020Z">
+        <seg>·Deje enfriar completamente los alimentos cocinados.</seg>
       </tuv>
     </tu>
     <tu>
