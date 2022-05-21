@@ -404,6 +404,14 @@ l</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Attempting to restart the wine cooler before this time has elapsed may prevent the wine cooler from starting..</seg>
+      </tuv>
+      <tuv lang="es" changeid="true" changedate="20220521T143416Z" creationid="true" creationdate="20220521T143416Z">
+        <seg>Si se intenta reiniciar la enfriadora de vinos antes de que haya transcurrido este tiempo, es posible que el refrigerador de vino no se ponga en marcha..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Avoid locating the refrigerator in moist areas.</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220521T094836Z" creationid="waddasauria" creationdate="20220521T094836Z">
@@ -1328,8 +1336,8 @@ l</seg>
       <tuv lang="en">
         <seg>If the unit is unplugged, loses power,or is turned off you must wait 3to 5 minutes before restarting.</seg>
       </tuv>
-      <tuv lang="es" changeid="true" changedate="20220521T143310Z" creationid="true" creationdate="20220521T143310Z">
-        <seg>Si la unidad se desenchufa, pierde potencia o se apaga, debe esperar de 3 a 5 minutos antes de reiniciar..</seg>
+      <tuv lang="es" changeid="true" changedate="20220521T143317Z" creationid="true" creationdate="20220521T143310Z">
+        <seg>Si la unidad se desenchufa, pierde potencia o se apaga, debe esperar de 3 a 5 minutos antes de reiniciarla.</seg>
       </tuv>
     </tu>
     <tu>
