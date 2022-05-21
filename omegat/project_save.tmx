@@ -3444,6 +3444,14 @@ El ajuste en la sección del congelador está entre "MIN" y "MAX" en la nevera
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This product has been manufactured by Thor Group&lt;t0/&gt;, 13831 Oaks Ave, Chino, California 91710&lt;t1/&gt;.</seg>
+      </tuv>
+      <tuv lang="es" changeid="true" changedate="20220521T182550Z" creationid="true" creationdate="20220521T182550Z">
+        <seg>Este producto ha sido fabricado por Thor Group&lt;t0/&gt;, 13831 Oaks Ave, Chino, California 91710&lt;t1/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This product should be serviced by an authorized engineer and only genuine spare parts should be used.</seg>
       </tuv>
       <tuv lang="es" changeid="Lenovo" changedate="20220521T160551Z" creationid="Lenovo" creationdate="20220521T160551Z">
