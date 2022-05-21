@@ -6,10 +6,34 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en">
+        <seg>1.Read these instructions.</seg>
+      </tuv>
+      <tuv lang="es" changeid="waddasauria" changedate="20220521T063300Z" creationid="waddasauria" creationdate="20220521T063300Z">
+        <seg>1.Lea estas instrucciones.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>3.Heed all warnings.</seg>
+      </tuv>
+      <tuv lang="es" changeid="waddasauria" changedate="20220521T063410Z" creationid="waddasauria" creationdate="20220521T063410Z">
+        <seg>3.Tenga en cuenta todas las advertencias.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Contents                                     Page#</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220520T162020Z" creationid="waddasauria" creationdate="20220520T162020Z">
         <seg>Contenidos                                    Page#</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>IMPORTANT SAFETY INSTRUCTIONS</seg>
+      </tuv>
+      <tuv lang="es" changeid="waddasauria" changedate="20220521T063215Z" creationid="waddasauria" creationdate="20220521T063215Z">
+        <seg>INSTRUCCIONES DE SEGURIDAD IMPORTANTES</seg>
       </tuv>
     </tu>
     <tu>
@@ -30,10 +54,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Keep these instructions.</seg>
+      </tuv>
+      <tuv lang="es" changeid="waddasauria" changedate="20220521T063308Z" creationid="waddasauria" creationdate="20220521T063308Z">
+        <seg>Guarde estas instrucciones.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Light</seg>
       </tuv>
       <tuv lang="es" changeid="true" changedate="20220520T161702Z" creationid="true" creationdate="20220520T161702Z">
         <seg>Luz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ModelNo.:CQRB09Y1GD1RW/CQRB09Y1GD1RS</seg>
+      </tuv>
+      <tuv lang="es" changeid="waddasauria" changedate="20220521T063153Z" creationid="waddasauria" creationdate="20220521T063153Z">
+        <seg>Modelo.:CQRB09Y1GD1RW/CQRB09Y1GD1RS</seg>
       </tuv>
     </tu>
     <tu>
@@ -50,6 +90,14 @@
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220520T161526Z" creationid="waddasauria" creationdate="20220520T161526Z">
         <seg>Ajuste de temperatura                            8</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>WARNING 1 Read these instructions&lt;t0/&gt;.</seg>
+      </tuv>
+      <tuv lang="es" changeid="waddasauria" changedate="20220521T063247Z" creationid="waddasauria" creationdate="20220521T063247Z">
+        <seg>ADVERTENCIA 1 Lea estas instrucciones&lt;t0/&gt;.</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
