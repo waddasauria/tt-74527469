@@ -1988,6 +1988,30 @@ l</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Symbol of drawer refrigerators.</seg>
+      </tuv>
+      <tuv lang="es" changeid="true" changedate="20220521T140217Z" creationid="true" creationdate="20220521T140217Z">
+        <seg>Símbolo de los frigoríficos de cajón.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Symbol of lower chamber.</seg>
+      </tuv>
+      <tuv lang="es" changeid="true" changedate="20220521T140206Z" creationid="true" creationdate="20220521T140206Z">
+        <seg>Símbolo de la cámara inferior.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Symbol of upper chamber.</seg>
+      </tuv>
+      <tuv lang="es" changeid="true" changedate="20220521T140150Z" creationid="true" creationdate="20220521T140150Z">
+        <seg>Símbolo de la cámara superior.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>TABLE OF CONTENTS</seg>
       </tuv>
       <tuv lang="es" changeid="true" changedate="20220521T115017Z" creationid="true" creationdate="20220521T115017Z">
@@ -3466,6 +3490,14 @@ El ajuste en la sección del congelador está entre "MIN" y "MAX" en la nevera
       </tuv>
       <tuv lang="es" changeid="true" changedate="20220521T132250Z" creationid="true" creationdate="20220521T132250Z">
         <seg>●FUNCIONAMIENTO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>●Product Parameters</seg>
+      </tuv>
+      <tuv lang="es" changeid="true" changedate="20220521T140449Z" creationid="true" creationdate="20220521T140449Z">
+        <seg>●Parámetros del producto</seg>
       </tuv>
     </tu>
     <tu>
