@@ -331,6 +331,15 @@ l</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>After the Fridge/Freezer is in place it needs to be left for 4 hours.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Lenovo" changedate="20220521T163807Z" creationid="Lenovo" creationdate="20220521T163807Z">
+        <seg>Una vez colocado el frigorífico/congelador, debe dejarse durante 4 horas.
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>All Safety Precautions Must be Followed”.</seg>
       </tuv>
       <tuv lang="es" changeid="Lenovo" changedate="20220521T120247Z" creationid="Lenovo" creationdate="20220521T120247Z">
@@ -697,6 +706,15 @@ l</seg>
       </tuv>
       <tuv lang="es" changeid="true" changedate="20220521T120646Z" creationid="true" creationdate="20220521T120646Z">
         <seg>Limpie la superficie interior con agua tibia utilizando un paño suave.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Clean the refrigerator.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Lenovo" changedate="20220521T163948Z" creationid="Lenovo" creationdate="20220521T163948Z">
+        <seg>Limpie el frigorífico.
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -1109,6 +1127,15 @@ l</seg>
       </tuv>
       <tuv lang="es" changeid="Lenovo" changedate="20220521T111833Z" creationid="Lenovo" creationdate="20220521T111833Z">
         <seg>No compre alimentos congelados a menos que pueda congelarlos de inmediato. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Don’t cover or block the vents or grilles of your appliance.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Lenovo" changedate="20220521T163850Z" creationid="Lenovo" creationdate="20220521T163850Z">
+        <seg>No cubra ni bloquee las rejillas de ventilación o las rejillas de su aparato.
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -1824,6 +1851,15 @@ l</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Leave the lid open slightly to avoid possible formation of condensation, mold, or odors.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Lenovo" changedate="20220521T164008Z" creationid="Lenovo" creationdate="20220521T164008Z">
+        <seg>Deje la tapa ligeramente abierta para evitar la posible formación de condensación, moho u olores.
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Leveling the Fridge/Freezer</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220521T101539Z" creationid="waddasauria" creationdate="20220521T101539Z">
@@ -1869,6 +1905,14 @@ l</seg>
       </tuv>
       <tuv lang="es" changeid="true" changedate="20220521T143806Z" creationid="true" creationdate="20220521T143806Z">
         <seg>Ausencias prolongadas: Si el aparato no se va a utilizar durante varios meses, quite todos los objetos, apague el aparato y desenchúfelo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Long vacations: If the appliance will not be used for several months, remove all food and unplug the power cord.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Lenovo" changedate="20220521T164140Z" creationid="Lenovo" creationdate="20220521T164140Z">
+        <seg>Vacaciones largas: Si el aparato no se va a utilizar durante varios meses, retire todos los alimentos y desenchufe el cable de alimentación.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2367,6 +2411,15 @@ l</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Remove all the food.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Lenovo" changedate="20220521T163935Z" creationid="Lenovo" creationdate="20220521T163935Z">
+        <seg>Retire todos los alimentos.
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Remove the exterior and interior packaging.</seg>
       </tuv>
       <tuv lang="es" changeid="true" changedate="20220521T120336Z" creationid="true" creationdate="20220521T120336Z">
@@ -2492,6 +2545,15 @@ l</seg>
       </tuv>
       <tuv lang="es" changeid="true" changedate="20220521T143624Z" creationid="true" creationdate="20220521T143624Z">
         <seg>Vacaciones cortas: Puede dejar el la enfriadora de vinos encendida y sin vigilancia en ausencias inferiores a tres semanas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Short vacations: Leave the refrigerator operating during vacations of less than three weeks.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Lenovo" changedate="20220521T164113Z" creationid="Lenovo" creationdate="20220521T164113Z">
+        <seg>Vacaciones cortas: Deje el frigorífico en funcionamiento durante las vacaciones de menos de tres semanas.
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -3160,6 +3222,15 @@ El ajuste en la sección del congelador está entre "MIN" y "MAX" en la nevera
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The unit should not be accessible to child’s play.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Lenovo" changedate="20220521T164056Z" creationid="Lenovo" creationdate="20220521T164056Z">
+        <seg>El aparato no debe ser accesible al alcance de los niños.
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The wide blade or the third</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220521T064924Z" creationid="waddasauria" creationdate="20220521T064924Z">
@@ -3212,6 +3283,15 @@ El ajuste en la sección del congelador está entre "MIN" y "MAX" en la nevera
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220504T153142Z" creationid="waddasauria" creationdate="20220504T153142Z">
         <seg>Esto permite que el aire frío circule alrededor del frigorífico, asegurando que todas sus partes se mantengan frías.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This allows time for the coolant to settle.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Lenovo" changedate="20220521T163824Z" creationid="Lenovo" creationdate="20220521T163824Z">
+        <seg>Esto da tiempo a que el refrigerante se asiente.
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -3277,6 +3357,14 @@ El ajuste en la sección del congelador está entre "MIN" y "MAX" en la nevera
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220521T070023Z" creationid="waddasauria" creationdate="20220521T070023Z">
         <seg>Esto podría provocar una descarga eléctrica .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This is known as “performing” Pour the liquid into a polythene bag which is inside a square sided container.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Lenovo" changedate="20220521T164351Z" creationid="Lenovo" creationdate="20220521T164351Z">
+        <seg>Esto se conoce como "realizar" el vertido del líquido en una bolsa de polietileno que esté dentro de un recipiente de lados cuadrados.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3608,6 +3696,15 @@ El ajuste en la sección del congelador está entre "MIN" y "MAX" en la nevera
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Turn off the refrigerator first and then unplug the unit from the wall outlet.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Lenovo" changedate="20220521T163921Z" creationid="Lenovo" creationdate="20220521T163921Z">
+        <seg>Apague primero el frigorífico y luego desenchufe el aparato de la toma de corriente.
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Turn off your refrigerator before unplugging it.</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220521T070114Z" creationid="waddasauria" creationdate="20220521T070114Z">
@@ -3677,6 +3774,15 @@ El ajuste en la sección del congelador está entre "MIN" y "MAX" en la nevera
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220521T110445Z" creationid="waddasauria" creationdate="20220521T110422Z">
         <seg>Utilice un envase adecuado y envuelva los alimentos correctamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use extreme caution in the case of children.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Lenovo" changedate="20220521T164022Z" creationid="Lenovo" creationdate="20220521T164022Z">
+        <seg>Extreme las precauciones en el caso de los niños.
+</seg>
       </tuv>
     </tu>
     <tu>
