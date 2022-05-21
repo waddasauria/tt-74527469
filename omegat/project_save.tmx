@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.0_0_8ae1ecfb" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -396,6 +396,14 @@ l</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Carefully select food you intend to freeze, it should be of adequate quality and suitable for freezing.</seg>
+      </tuv>
+      <tuv lang="es" changeid="waddasauria" changedate="20220521T110357Z" creationid="waddasauria" creationdate="20220521T110357Z">
+        <seg>Seleccione con cuidado los alimentos que vaya a congelar, deben ser de una calidad adecuada y aptos para su congelación..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Changing the Light Bulb</seg>
       </tuv>
       <tuv lang="es" changeid="Lenovo" changedate="20220521T103805Z" creationid="Lenovo" creationdate="20220521T103805Z">
@@ -717,6 +725,14 @@ l</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Foils and bags should be soft enough to tightly wrap around the foods.</seg>
+      </tuv>
+      <tuv lang="es" changeid="waddasauria" changedate="20220521T110535Z" creationid="waddasauria" creationdate="20220521T110535Z">
+        <seg>El papel film y las bolsas deben ser lo suficientementesuaves como para poder envolver ños alimentos con firmeza.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Freezer Basket</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220521T094101Z" creationid="waddasauria" creationdate="20220521T094101Z">
@@ -1027,6 +1043,14 @@ l</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220521T065936Z" creationid="waddasauria" creationdate="20220521T065936Z">
         <seg>Asegúrese de que la corriente alterna disponible se ajusta a los requisitos de voltaje de su frigorífico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mark packages with following data: kind and amount of foods and the date of loading.</seg>
+      </tuv>
+      <tuv lang="es" changeid="waddasauria" changedate="20220521T110728Z" creationid="waddasauria" creationdate="20220521T110728Z">
+        <seg>Indique estos datos en los envases: tipo y cantidad de alimentos y la fecha de carga.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1581,6 +1605,14 @@ l</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The packaging should be airtight and shouldn’t leak since this could cause substantial vitamin loss and dehydration of foods.</seg>
+      </tuv>
+      <tuv lang="es" changeid="waddasauria" changedate="20220521T110440Z" creationid="waddasauria" creationdate="20220521T110440Z">
+        <seg>El envase debe ser hermético y no debe tener fugas, ya que esto podría causar una pérdida sustancial de vitaminas y la deshidratación de los alimentos..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The plug must be inserted into an outlet that is correctly installed and grounded.</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220521T084225Z" creationid="waddasauria" creationdate="20220521T084204Z">
@@ -2001,6 +2033,14 @@ El ajuste en la sección del congelador está entre "MIN" y "MAX" en la nevera
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use correct packaging and wrap it tight.</seg>
+      </tuv>
+      <tuv lang="es" changeid="waddasauria" changedate="20220521T110445Z" creationid="waddasauria" creationdate="20220521T110422Z">
+        <seg>Utilice un envase adecuado y envuelva los alimentos correctamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use of an extension cord can negatively affect the performance of the unit.</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220521T103720Z" creationid="waddasauria" creationdate="20220521T103720Z">
@@ -2134,6 +2174,14 @@ El ajuste en la sección del congelador está entre "MIN" y "MAX" en la nevera
       </tuv>
       <tuv lang="es" changeid="Lenovo" changedate="20220518T105617Z" creationid="Lenovo" creationdate="20220518T105617Z">
         <seg>Si se encuentra un enchufe de pared estándar de 2 pines, será su responsabilidad y obligación reemplazarlo por  un enchufe de pared de 3 pines debidamente conectado a tierra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When preparing foods to be frozen, consider sanitary precautions.</seg>
+      </tuv>
+      <tuv lang="es" changeid="waddasauria" changedate="20220521T110557Z" creationid="waddasauria" creationdate="20220521T110557Z">
+        <seg>Al preparar los alimentos que se van a congelar, tenga en cuenta las advertencias sanitarias.</seg>
       </tuv>
     </tu>
     <tu>
