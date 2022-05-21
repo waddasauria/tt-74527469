@@ -218,6 +218,14 @@ l</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Avoid locating the refrigerator in moist areas.</seg>
+      </tuv>
+      <tuv lang="es" changeid="waddasauria" changedate="20220521T094836Z" creationid="waddasauria" creationdate="20220521T094836Z">
+        <seg>Evite colocar el frigorífico en zonas húmedas. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Before you throw away your old refrigerator:</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220521T080531Z" creationid="waddasauria" creationdate="20220521T080531Z">
@@ -524,6 +532,14 @@ l</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Plug the refrigerator into dedicated, properly installed-grounded wall outlet.</seg>
+      </tuv>
+      <tuv lang="es" changeid="waddasauria" changedate="20220521T094922Z" creationid="waddasauria" creationdate="20220521T094922Z">
+        <seg>Conecte el frigorífico a una toma de corriente específica con conexión a tierra correctamente instalada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Protect the power cord from being walked on or pinched, particularly at plugs, convenience receptacles, and the point where it exits from your refrigerator.</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220521T065721Z" creationid="waddasauria" creationdate="20220521T065721Z">
@@ -618,6 +634,15 @@ l</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220521T070023Z" creationid="waddasauria" creationdate="20220521T070023Z">
         <seg>Esto podría provocar una descarga eléctrica .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This unit is not designed for use in a garage or any other outside installation.</seg>
+      </tuv>
+      <tuv lang="es" changeid="waddasauria" changedate="20220521T094813Z" creationid="waddasauria" creationdate="20220521T094807Z">
+        <seg>Este electrodoméstico no está diseñado para ser utilizado en un garaje o cualquier otra espacio exterior.
+</seg>
       </tuv>
     </tu>
     <tu>
