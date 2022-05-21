@@ -725,6 +725,14 @@ l</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Contact the local store where your purchase was made.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Lenovo" changedate="20220521T160811Z" creationid="Lenovo" creationdate="20220521T160811Z">
+        <seg>Póngase en contacto con la tienda local en la que realizó la compra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Contents                                     Page#</seg>
       </tuv>
       <tuv lang="es" changeid="true" changedate="20220521T115026Z" creationid="waddasauria" creationdate="20220520T162020Z">
@@ -3280,6 +3288,15 @@ El ajuste en la sección del congelador está entre "MIN" y "MAX" en la nevera
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Trouble Shooting</seg>
+      </tuv>
+      <tuv lang="es" changeid="Lenovo" changedate="20220521T161049Z" creationid="Lenovo" creationdate="20220521T161049Z">
+        <seg>Solución de problemas
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Troubleshooting guide                          11</seg>
       </tuv>
       <tuv lang="es" changeid="true" changedate="20220521T115437Z" creationid="true" creationdate="20220521T115437Z">
@@ -3630,6 +3647,14 @@ El ajuste en la sección del congelador está entre "MIN" y "MAX" en la nevera
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220504T154414Z" creationid="waddasauria" creationdate="20220504T154414Z">
         <seg>Cuando vuelva de hacer la compra, clasifique la comida que va a guardar en su frigorífico antes de abrir la puerta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When the appliance is not in use for long periods, disconnect from the electricity supply, empty all foods and clean the appliance, leaving the door ajar to prevent unpleasant smells.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Lenovo" changedate="20220521T160943Z" creationid="Lenovo" creationdate="20220521T160943Z">
+        <seg>Cuando el aparato no se utilice durante mucho tiempo, desconéctelo de la red eléctrica, vacíe todos los alimentos y limpie el aparato, dejando la puerta entreabierta para evitar olores desagradables.</seg>
       </tuv>
     </tu>
     <tu>
