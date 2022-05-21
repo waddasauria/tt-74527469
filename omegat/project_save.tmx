@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>17.Refer all servicing to qualified service personnel.</seg>
+      </tuv>
+      <tuv lang="es" changeid="waddasauria" changedate="20220521T070233Z" creationid="waddasauria" creationdate="20220521T070233Z">
+        <seg>17.Deje que un prestador de servicios cualificado se encargue de las reparaciones.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>3.Heed all warnings.</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220521T063410Z" creationid="waddasauria" creationdate="20220521T063410Z">
@@ -193,6 +201,15 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Servicing is required when your refrigerator has been damaged in any way, such as the power-supply cord or plug is damaged, liquid has been spilled or objects have fallen into your refrigerator, your refrigerator has been exposed to rain or moisture, does not operate normally, or has been dropped.</seg>
+      </tuv>
+      <tuv lang="es" changeid="waddasauria" changedate="20220521T073713Z" creationid="waddasauria" creationdate="20220521T073713Z">
+        <seg> El servicio es necesario cuando sufrigorífico ha sido dañado de alguna manera, como por ejemplo si el cable de alimentación o el enchufe están dañados, si se ha derramado líquido o han caído objetos dentro de su frigorífico, si su frigorífico ha estado expuesto a la lluvia o a la humedad, si no normalmente no funciona o si se ha caído.
+.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Temperature Setting</seg>
       </tuv>
       <tuv lang="es" changeid="true" changedate="20220520T161719Z" creationid="true" creationdate="20220520T161719Z">
@@ -221,6 +238,22 @@
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220521T070023Z" creationid="waddasauria" creationdate="20220521T070023Z">
         <seg>Esto podría provocar una descarga eléctrica .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Turn off your refrigerator before unplugging it.</seg>
+      </tuv>
+      <tuv lang="es" changeid="waddasauria" changedate="20220521T070114Z" creationid="waddasauria" creationdate="20220521T070114Z">
+        <seg>Apague su frigorífico antes de desenchufarlo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unplug the power cord by holding the plug, never by pulling the cord.</seg>
+      </tuv>
+      <tuv lang="es" changeid="waddasauria" changedate="20220521T070052Z" creationid="waddasauria" creationdate="20220521T070052Z">
+        <seg>Desenchufe el cable de alimentación sujetando el enchufe, y nunca tirando del cable.</seg>
       </tuv>
     </tu>
     <tu>
