@@ -54,6 +54,16 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A polarized plug has two blades with one</seg>
+      </tuv>
+      <tuv lang="es" changeid="waddasauria" changedate="20220521T064815Z" creationid="waddasauria" creationdate="20220521T064445Z">
+        <seg>Un enchufe polarizado tiene dos clavijas, con una 
+
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Contents                                     Page#</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220520T162020Z" creationid="waddasauria" creationdate="20220520T162020Z">
@@ -154,6 +164,14 @@
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220521T063247Z" creationid="waddasauria" creationdate="20220521T063247Z">
         <seg>ADVERTENCIA 1 Lea estas instrucciones&lt;t0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>wider than the other.</seg>
+      </tuv>
+      <tuv lang="es" changeid="waddasauria" changedate="20220521T064452Z" creationid="waddasauria" creationdate="20220521T064452Z">
+        <seg>más ancha que la otra.</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
