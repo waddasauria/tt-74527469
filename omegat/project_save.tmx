@@ -685,6 +685,14 @@ l</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>I&lt;t0/&gt;F THE UNIT IS UNPLUGGED, has LOSt POWER, OR is TURNED OFF, YOU MUST WAIT 3 TO 5 MINUTES BEFORE RESTARTING THE UNIT.</seg>
+      </tuv>
+      <tuv lang="es" changeid="waddasauria" changedate="20220521T103940Z" creationid="waddasauria" creationdate="20220521T103940Z">
+        <seg>SI&lt;t0/&gt; EL ELECTRODOMÉSTICO ESTÁ DESENCHUFADO,  HA PERDIDO POTENCIA O SE HA APAGADO, DEBE ESPERAR DE 3 A 5 MINUTOS ANTES DE REINICIARLO.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>IMPORTANT SAFETY INSTRUCTIONS</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220521T063215Z" creationid="waddasauria" creationdate="20220521T063215Z">
