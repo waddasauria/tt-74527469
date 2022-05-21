@@ -415,6 +415,14 @@ l</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>WARNING&lt;t0/&gt;—Do not use electrical appliances inside the food storage compartments of the appliance unless they are of the type recommended by the manufacturer.</seg>
+      </tuv>
+      <tuv lang="es" changeid="waddasauria" changedate="20220521T080148Z" creationid="waddasauria" creationdate="20220521T080148Z">
+        <seg>ADVERTENCIA&lt;t0/&gt;—Do not use electrical appliances inside the food storage compartments of the appliance unless they are of the type recommended by the manufacturer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>capabilities, or lack of experience and knowledge, unless they have been given supervision or instruction concerning</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220521T074217Z" creationid="waddasauria" creationdate="20220521T074123Z">
