@@ -3114,6 +3114,22 @@ El ajuste en la sección del congelador está entre "MIN" y "MAX" en la nevera
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Wash the outside cabinet with warm water and mild liquid detergent.</seg>
+      </tuv>
+      <tuv lang="es" changeid="true" changedate="20220521T142815Z" creationid="true" creationdate="20220521T142815Z">
+        <seg>Lave  el armario exterior con agua tibia y detergente líquido suave.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Wash the shelves with a mild detergent solution.</seg>
+      </tuv>
+      <tuv lang="es" changeid="true" changedate="20220521T142644Z" creationid="true" creationdate="20220521T142644Z">
+        <seg>Lave los estantes con una solución de detergente suave.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>When a standard 2 pins wall outlet is encountered, it is your responsibility and obligation to have it replaced with a properly grounded 3 pins wall outlet.</seg>
       </tuv>
       <tuv lang="es" changeid="Lenovo" changedate="20220518T105617Z" creationid="Lenovo" creationdate="20220518T105617Z">
@@ -3222,6 +3238,14 @@ El ajuste en la sección del congelador está entre "MIN" y "MAX" en la nevera
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220504T153233Z" creationid="waddasauria" creationdate="20220504T153233Z">
         <seg>¡Envuelva la comida!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Wring excess water out of the sponge or cloth when cleaning any area of the controls.</seg>
+      </tuv>
+      <tuv lang="es" changeid="true" changedate="20220521T142756Z" creationid="true" creationdate="20220521T142756Z">
+        <seg>Escurra el exceso de agua de la esponja o del paño cuando limpie cualquier zona de los cuadros de mando.</seg>
       </tuv>
     </tu>
     <tu>
