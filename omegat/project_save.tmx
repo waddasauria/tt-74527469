@@ -24,8 +24,8 @@
       <tuv lang="en">
         <seg>10.&lt;t0/&gt;Follow local regulations regarding disposal of your refrigerator due to flammable refrigerant and gas.</seg>
       </tuv>
-      <tuv lang="es" changeid="waddasauria" changedate="20220521T081912Z" creationid="waddasauria" creationdate="20220521T081912Z">
-        <seg>10.&lt;t0/&gt;Antes de deshacerse de su frigorífico, siga las regulaciones locales al respecto, debido a los enfriadores inflamables y al gas.</seg>
+      <tuv lang="es" changeid="waddasauria" changedate="20220521T082011Z" creationid="waddasauria" creationdate="20220521T081912Z">
+        <seg>10.&lt;t0/&gt;Antes de deshacerse de su frigorífico, siga las regulaciones locales al respecto, debido a que el frigorífico contiene gases inflamables y refrigerantes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -170,6 +170,14 @@ l</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>All refrigeration products contain refrigerants, which under the guidelines of federal law must be removed before disposal.</seg>
+      </tuv>
+      <tuv lang="es" changeid="waddasauria" changedate="20220521T082057Z" creationid="waddasauria" creationdate="20220521T081952Z">
+        <seg>Todos los productos de refrigeración contienen gases refrigerantes, que deben ser eliminados antes de deshechar el frigorífico segúnlas directrices de la ley federal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Before you throw away your old refrigerator:</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220521T080531Z" creationid="waddasauria" creationdate="20220521T080531Z">
@@ -294,6 +302,15 @@ l</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220520T161537Z" creationid="waddasauria" creationdate="20220520T161537Z">
         <seg>Instalación                                    5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It is the consumer's responsibility to comply with federal and local regulations when disposing of this product.</seg>
+      </tuv>
+      <tuv lang="es" changeid="waddasauria" changedate="20220521T082137Z" creationid="waddasauria" creationdate="20220521T082137Z">
+        <seg> Es responsabilidad del consumidor cumplir con las leyes federales y locales al desechar este producto.
+</seg>
       </tuv>
     </tu>
     <tu>
