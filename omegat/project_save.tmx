@@ -732,6 +732,15 @@ l</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Condensation appears on the outside of the Fridge/Freezer</seg>
+      </tuv>
+      <tuv lang="es" changeid="Lenovo" changedate="20220521T162635Z" creationid="Lenovo" creationdate="20220521T162635Z">
+        <seg>Aparece condensación en el exterior del frigorífico/congelador
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Consult Repair Manual/Owner’s Guide Before Attempting To Service This Product.</seg>
       </tuv>
       <tuv lang="es" changeid="Lenovo" changedate="20220521T151408Z" creationid="Lenovo" creationdate="20220521T151408Z">
@@ -1333,6 +1342,15 @@ l</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>GURGLING, WHOOSHING</seg>
+      </tuv>
+      <tuv lang="es" changeid="Lenovo" changedate="20220521T163014Z" creationid="Lenovo" creationdate="20220521T163014Z">
+        <seg>GORGOTEO, SILBIDO
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Grounding requirement</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220521T084025Z" creationid="waddasauria" creationdate="20220521T083951Z">
@@ -1514,6 +1532,15 @@ l</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220504T180701Z" creationid="waddasauria" creationdate="20220504T180701Z">
         <seg>Si el electrodoméstico va a apagarse por un periodo de tiempo más largo, necesita tomar otras medidas para proteger su contenido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the problem continues contact the local store where your purchase was made.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Lenovo" changedate="20220521T162811Z" creationid="Lenovo" creationdate="20220521T162811Z">
+        <seg>Si el problema continúa, póngase en contacto con el establecimiento donde realizó la compra.
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -3205,6 +3232,15 @@ El ajuste en la sección del congelador está entre "MIN" y "MAX" en la nevera
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This may be due to a change in the room temperature.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Lenovo" changedate="20220521T162704Z" creationid="Lenovo" creationdate="20220521T162704Z">
+        <seg>Esto puede deberse a un cambio en la temperatura ambiente.
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This product should be serviced by an authorized engineer and only genuine spare parts should be used.</seg>
       </tuv>
       <tuv lang="es" changeid="Lenovo" changedate="20220521T160551Z" creationid="Lenovo" creationdate="20220521T160551Z">
@@ -3831,6 +3867,15 @@ El ajuste en la sección del congelador está entre "MIN" y "MAX" en la nevera
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220504T181143Z" creationid="waddasauria" creationdate="20220504T181143Z">
         <seg>El enfriador de vinos no está lo suficientemente frío. .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Wipe off any residue of moisture.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Lenovo" changedate="20220521T162740Z" creationid="Lenovo" creationdate="20220521T162740Z">
+        <seg>Limpie cualquier residuo de humedad.
+</seg>
       </tuv>
     </tu>
     <tu>
