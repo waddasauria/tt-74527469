@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.0_0_8ae1ecfb" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -258,6 +258,14 @@ l</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Any questions concerning power and/or grounding should be directed toward a certified electrician or an authorized service center.</seg>
+      </tuv>
+      <tuv lang="es" changeid="waddasauria" changedate="20220521T101304Z" creationid="waddasauria" creationdate="20220521T101304Z">
+        <seg>Ante cualquier pregunta relacionada con la alimentación y/o la conexión a tierra debe contactar con un electricista profesional o con un centro de servicio autorizado. .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Avoid locating the refrigerator in moist areas.</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220521T094836Z" creationid="waddasauria" creationdate="20220521T094836Z">
@@ -495,6 +503,14 @@ l</seg>
       </tuv>
       <tuv lang="es" changeid="true" changedate="20220515T230028Z" creationid="true" creationdate="20220515T230028Z">
         <seg>Tampoco lo almacene cerca de gasolina u otros vapores inflamables.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Do not under any circumstances cut or remove the third (ground) prong from the power cord.</seg>
+      </tuv>
+      <tuv lang="es" changeid="waddasauria" changedate="20220521T101215Z" creationid="waddasauria" creationdate="20220521T101215Z">
+        <seg>No corte o retire la tercera clavija del cable de alimentación bajo ninguna circunstancia. </seg>
       </tuv>
     </tu>
     <tu>
@@ -1447,6 +1463,15 @@ El ajuste en la sección del congelador está entre "MIN" y "MAX" en la nevera
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220521T094813Z" creationid="waddasauria" creationdate="20220521T094807Z">
         <seg>Este electrodoméstico no está diseñado para ser utilizado en un garaje o cualquier otra espacio exterior.
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This unit is not designed to be installed in an RV or used with an inverter.</seg>
+      </tuv>
+      <tuv lang="es" changeid="waddasauria" changedate="20220521T101429Z" creationid="waddasauria" creationdate="20220521T101429Z">
+        <seg> Este electrodoméstico no está diseñado para ser instalado en caravanas ni para utilizarse con un inversor.
 </seg>
       </tuv>
     </tu>
