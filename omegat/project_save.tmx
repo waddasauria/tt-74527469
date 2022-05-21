@@ -406,8 +406,8 @@ l</seg>
       <tuv lang="en">
         <seg>Attempting to restart the wine cooler before this time has elapsed may prevent the wine cooler from starting..</seg>
       </tuv>
-      <tuv lang="es" changeid="true" changedate="20220521T143416Z" creationid="true" creationdate="20220521T143416Z">
-        <seg>Si se intenta reiniciar la enfriadora de vinos antes de que haya transcurrido este tiempo, es posible que el refrigerador de vino no se ponga en marcha..</seg>
+      <tuv lang="es" changeid="true" changedate="20220521T143420Z" creationid="true" creationdate="20220521T143416Z">
+        <seg>Si se intenta reiniciar la enfriadora de vinos antes de que haya transcurrido este tiempo, es posible que el refrigerador de vino no se ponga en marcha.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1543,6 +1543,14 @@ l</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Long absences: If the appliance will not be used for several months, remove all items, turn off the appliance and unplug.</seg>
+      </tuv>
+      <tuv lang="es" changeid="true" changedate="20220521T143806Z" creationid="true" creationdate="20220521T143806Z">
+        <seg>Ausencias prolongadas: Si el aparato no se va a utilizar durante varios meses, quite todos los objetos, apague el aparato y desenchúfelo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Mailbox: meilingkf@163.com</seg>
       </tuv>
       <tuv lang="es" changeid="Lenovo" changedate="20220521T120000Z" creationid="Lenovo" creationdate="20220521T120000Z">
@@ -2040,6 +2048,14 @@ l</seg>
       </tuv>
       <tuv lang="es" changeid="Lenovo" changedate="20220518T103528Z" creationid="Lenovo" creationdate="20220518T103528Z">
         <seg>Ajuste del Control de Temperatura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Short holidays: You may leave the Wine Cooler powered on and unattended for absences of less than three weeks.</seg>
+      </tuv>
+      <tuv lang="es" changeid="true" changedate="20220521T143624Z" creationid="true" creationdate="20220521T143624Z">
+        <seg>Vacaciones cortas: Puede dejar el la enfriadora de vinos encendida y sin vigilancia en ausencias inferiores a tres semanas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3014,6 +3030,14 @@ El ajuste en la sección del congelador está entre "MIN" y "MAX" en la nevera
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220521T104043Z" creationid="waddasauria" creationdate="20220521T104043Z">
         <seg>Cómo utilizar la cubitera</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Vacation Time</seg>
+      </tuv>
+      <tuv lang="es" changeid="true" changedate="20220521T143521Z" creationid="true" creationdate="20220521T143521Z">
+        <seg>En tiempo de vacaciones</seg>
       </tuv>
     </tu>
     <tu>
