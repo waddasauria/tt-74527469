@@ -293,8 +293,8 @@ l</seg>
       <tuv lang="en">
         <seg>Before plugging in YOU MUST</seg>
       </tuv>
-      <tuv lang="es" changeid="Lenovo" changedate="20220518T104900Z" creationid="Lenovo" creationdate="20220518T104900Z">
-        <seg>Antes de enchufarlo DEBE</seg>
+      <tuv lang="es" changeid="waddasauria" changedate="20220521T102243Z" creationid="Lenovo" creationdate="20220518T104900Z">
+        <seg>Antes de encender el frigorífico DEBE</seg>
       </tuv>
     </tu>
     <tu>
@@ -309,8 +309,8 @@ l</seg>
       <tuv lang="en">
         <seg>Before switching on!</seg>
       </tuv>
-      <tuv lang="es" changeid="Lenovo" changedate="20220518T102419Z" creationid="Lenovo" creationdate="20220518T102419Z">
-        <seg>Antes de encenderlo!</seg>
+      <tuv lang="es" changeid="waddasauria" changedate="20220521T102233Z" creationid="Lenovo" creationdate="20220518T102419Z">
+        <seg>¡Antes de encenderlo!</seg>
       </tuv>
     </tu>
     <tu>
@@ -365,8 +365,8 @@ l</seg>
       <tuv lang="en">
         <seg>Check that you have a socket which is compatible with the plug supplied with the Fridge/Freezer.</seg>
       </tuv>
-      <tuv lang="es" changeid="Lenovo" changedate="20220518T104756Z" creationid="Lenovo" creationdate="20220518T104756Z">
-        <seg>Compruebe que dispone de una toma de corriente compatible con el enchufe suministrado con el frigorífico/congelador.</seg>
+      <tuv lang="es" changeid="waddasauria" changedate="20220521T102218Z" creationid="Lenovo" creationdate="20220518T104756Z">
+        <seg>Comprobar que dispone de una toma de corriente compatible con el enchufe suministrado con el frigorífico/congelador.</seg>
       </tuv>
     </tu>
     <tu>
