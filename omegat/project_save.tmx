@@ -363,6 +363,15 @@ l</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Also avoid direct sunlight in out-buildings or sun lounges.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Lenovo" changedate="20220521T163553Z" creationid="Lenovo" creationdate="20220521T163553Z">
+        <seg>Evite también la luz directa del sol en los edificios exteriores o en las tumbonas.
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Also protect outside of appliance with a blanket, or similar item.</seg>
       </tuv>
       <tuv lang="es" changeid="true" changedate="20220521T144450Z" creationid="true" creationdate="20220521T144450Z">
@@ -790,6 +799,15 @@ l</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Cooker, boiler or radiator.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Lenovo" changedate="20220521T163516Z" creationid="Lenovo" creationdate="20220521T163516Z">
+        <seg>Cocina, caldera o radiador.
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Cool area</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220504T154532Z" creationid="waddasauria" creationdate="20220504T154532Z">
@@ -986,6 +1004,15 @@ l</seg>
       </tuv>
       <tuv lang="es" changeid="true" changedate="20220515T230028Z" creationid="true" creationdate="20220515T230028Z">
         <seg>Tampoco lo almacene cerca de gasolina u otros vapores inflamables.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Do not turn on the Fridge/Freezer for 4 hours</seg>
+      </tuv>
+      <tuv lang="es" changeid="Lenovo" changedate="20220521T163743Z" creationid="Lenovo" creationdate="20220521T163743Z">
+        <seg>No encienda el Frigorífico/Congelador durante 4 horas
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -1473,6 +1500,15 @@ l</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If the Fridge/Freezer is not level, the doors and magnetic seal alignments will be affected and may cause your Fridge/Freezer to work incorrectly.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Lenovo" changedate="20220521T163723Z" creationid="Lenovo" creationdate="20220521T163723Z">
+        <seg>Si el Frigorífico/Congelador no está nivelado, la alineación de las puertas y de la junta magnética se verá afectada y puede hacer que su Frigorífico/Congelador funcione incorrectamente.
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If the appliance is switched off at any time, wait 30 minutes before switching back on to allow the coolant fluid to settle.</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220521T102309Z" creationid="Lenovo" creationdate="20220518T104420Z">
@@ -1865,6 +1901,15 @@ l</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220521T065936Z" creationid="waddasauria" creationdate="20220521T065936Z">
         <seg>Asegúrese de que la corriente alterna disponible se ajusta a los requisitos de voltaje de su frigorífico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Make sure the Fridge/Freezer is level.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Lenovo" changedate="20220521T163636Z" creationid="Lenovo" creationdate="20220521T163636Z">
+        <seg>Asegúrese de que el frigorífico/congelador esté nivelado.
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -3665,6 +3710,15 @@ El ajuste en la sección del congelador está entre "MIN" y "MAX" en la nevera
       </tuv>
       <tuv lang="es" changeid="Lenovo" changedate="20220521T154220Z" creationid="Lenovo" creationdate="20220521T154220Z">
         <seg>Utilice un detergente estándar no abrasivo diluido en agua caliente para limpiar el exterior del frigorífico/congelador.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the rotating leveling feet at the front.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Lenovo" changedate="20220521T163652Z" creationid="Lenovo" creationdate="20220521T163652Z">
+        <seg>Utilice las patas de nivelación giratorias de la parte delantera.
+</seg>
       </tuv>
     </tu>
     <tu>
