@@ -1326,6 +1326,14 @@ l</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If the unit is unplugged, loses power,or is turned off you must wait 3to 5 minutes before restarting.</seg>
+      </tuv>
+      <tuv lang="es" changeid="true" changedate="20220521T143310Z" creationid="true" creationdate="20220521T143310Z">
+        <seg>Si la unidad se desenchufa, pierde potencia o se apaga, debe esperar de 3 a 5 minutos antes de reiniciar..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If the unit is unplugged, power lost, or turned off, you must wait 3 to 5 minutes before restarting the unit.</seg>
       </tuv>
       <tuv lang="es" changeid="true" changedate="20220521T134437Z" creationid="true" creationdate="20220521T134437Z">
@@ -1951,6 +1959,14 @@ l</seg>
       </tuv>
       <tuv lang="es" changeid="Lenovo" changedate="20220521T104416Z" creationid="Lenovo" creationdate="20220521T104416Z">
         <seg>Sustitúyalo por una luz LED de la misma forma y tamaño.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Rinse well and wipe dry with a clean soft cloth.</seg>
+      </tuv>
+      <tuv lang="es" changeid="true" changedate="20220521T142930Z" creationid="true" creationdate="20220521T142930Z">
+        <seg>Aclarar bien y secar con un paño suave y limpio.</seg>
       </tuv>
     </tu>
     <tu>
