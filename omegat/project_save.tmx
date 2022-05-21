@@ -146,6 +146,14 @@ l</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Before you throw away your old refrigerator:</seg>
+      </tuv>
+      <tuv lang="es" changeid="waddasauria" changedate="20220521T080531Z" creationid="waddasauria" creationdate="20220521T080531Z">
+        <seg>Antes de tirar su viejo frigorífico:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Children should be supervised to ensure that they do not play with your refrigerator.</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220521T074307Z" creationid="waddasauria" creationdate="20220521T074307Z">
@@ -303,6 +311,14 @@ l</seg>
       <tuv lang="es" changeid="waddasauria" changedate="20220521T065721Z" creationid="waddasauria" creationdate="20220521T065721Z">
         <seg> Proteja el cable de alimentación para que nadie lo pise pellizque, sobre todo en los enchufes, en las tomas de corriente y en el punto en el que sale del frigorífico.
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Risk of child entrapment.</seg>
+      </tuv>
+      <tuv lang="es" changeid="waddasauria" changedate="20220521T080515Z" creationid="waddasauria" creationdate="20220521T080515Z">
+        <seg>Riesgo de que el niño quede atrapado dentro del frigorífico.</seg>
       </tuv>
     </tu>
     <tu>
@@ -468,6 +484,22 @@ l</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220521T064452Z" creationid="waddasauria" creationdate="20220521T064452Z">
         <seg>más ancha que la otra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>• Leave the shelves in place so that children may not easily climb inside.</seg>
+      </tuv>
+      <tuv lang="es" changeid="waddasauria" changedate="20220521T080619Z" creationid="waddasauria" creationdate="20220521T080619Z">
+        <seg>• Deje los estantes en su sitio para que los niños no puedan trepar dentro fácilmente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>• Take off the door.</seg>
+      </tuv>
+      <tuv lang="es" changeid="waddasauria" changedate="20220521T080542Z" creationid="waddasauria" creationdate="20220521T080542Z">
+        <seg>• Retire la puerta.</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
