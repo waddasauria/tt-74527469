@@ -1404,6 +1404,14 @@ l</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Full warranty for Parts and Labor: first year parts and labor, second year only parts.</seg>
+      </tuv>
+      <tuv lang="es" changeid="true" changedate="20220521T183344Z" creationid="true" creationdate="20220521T183344Z">
+        <seg>Garantía completa de piezas y mano de obra: primer año de piezas y mano de obra, segundo año sólo de piezas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>GURGLING, WHOOSHING</seg>
       </tuv>
       <tuv lang="es" changeid="Lenovo" changedate="20220521T163014Z" creationid="Lenovo" creationdate="20220521T163014Z">
@@ -3993,6 +4001,14 @@ El ajuste en la sección del congelador está entre "MIN" y "MAX" en la nevera
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220504T145752Z" creationid="waddasauria" creationdate="20220504T145752Z">
         <seg>CUANDO LA UNIDAD SE COLOQUE EN UN ESPACIO DONDE LA TEMPERATURA BAJE MÁS DE DIEZ GRADOS, AJUSTE LOS CONTROLES DEL SELECTOR DE TEMPERATURA AL "MÁXIMO" TANTO EN EL FRIGORÍFICO COMO EN LAS SECCIONES DEL CONGELADOR.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Warranties and Duration</seg>
+      </tuv>
+      <tuv lang="es" changeid="true" changedate="20220521T183013Z" creationid="true" creationdate="20220521T183013Z">
+        <seg>Garantías y duración</seg>
       </tuv>
     </tu>
     <tu>
