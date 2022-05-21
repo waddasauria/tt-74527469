@@ -862,6 +862,14 @@ l</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If the loading amount is too large, the quality of freezing is reduced which affects the quality of frozen foods.</seg>
+      </tuv>
+      <tuv lang="es" changeid="waddasauria" changedate="20220521T110852Z" creationid="waddasauria" creationdate="20220521T110811Z">
+        <seg>Si la cantidad de producto congelado es excesiva, la calidad de la congelación se reduce, lo cual afecta a la calidad de los alimentos congelados. s.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If the power cord is damaged, have it replaced by a qualified electrician or an authorized service center.</seg>
       </tuv>
       <tuv lang="es" changeid="true" changedate="20220515T230435Z" creationid="true" creationdate="20220515T230435Z">
@@ -966,6 +974,14 @@ l</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It is extremely important that the food is frozen as quickly as possible.</seg>
+      </tuv>
+      <tuv lang="es" changeid="waddasauria" changedate="20220521T110759Z" creationid="waddasauria" creationdate="20220521T110747Z">
+        <seg>Es muy importante que congele los alimentos lo antes posible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It is the consumer's responsibility to comply with federal and local regulations when disposing of this product.</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220521T082137Z" creationid="waddasauria" creationdate="20220521T082137Z">
@@ -1049,8 +1065,8 @@ l</seg>
       <tuv lang="en">
         <seg>Mark packages with following data: kind and amount of foods and the date of loading.</seg>
       </tuv>
-      <tuv lang="es" changeid="waddasauria" changedate="20220521T110728Z" creationid="waddasauria" creationdate="20220521T110728Z">
-        <seg>Indique estos datos en los envases: tipo y cantidad de alimentos y la fecha de carga.</seg>
+      <tuv lang="es" changeid="waddasauria" changedate="20220521T110819Z" creationid="waddasauria" creationdate="20220521T110728Z">
+        <seg>Indique estos datos en los envases: tipo y cantidad de alimentos y la fecha de almacenamiento.</seg>
       </tuv>
     </tu>
     <tu>
