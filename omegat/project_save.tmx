@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.0_0_8ae1ecfb" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -605,6 +605,14 @@ l</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Dry the tray, otherwise it may stick to the bottom of the freezer.</seg>
+      </tuv>
+      <tuv lang="es" changeid="waddasauria" changedate="20220521T104228Z" creationid="waddasauria" creationdate="20220521T104228Z">
+        <seg>Seque la bandeja, de lo contrario podría pegarse al fondo del congelador.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Electric Shock Hazard</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220521T074438Z" creationid="waddasauria" creationdate="20220521T074438Z">
@@ -649,6 +657,14 @@ l</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220504T155414Z" creationid="waddasauria" creationdate="20220504T155414Z">
         <seg>Grasas, .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Fill the ice cube tray (two thirds of it) with cold water or with any liquid suitable for freezing and place the tray on the bottom of the freezer to freeze properly.</seg>
+      </tuv>
+      <tuv lang="es" changeid="waddasauria" changedate="20220521T104201Z" creationid="waddasauria" creationdate="20220521T104150Z">
+        <seg>Llene dos tercios de la bandeja de cubitos de hielo con agua fría o con cualquier líquido apto para la congelación y coloque la bandeja en el fondo del congelador para que se congele correctamente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -713,6 +729,15 @@ l</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220521T103940Z" creationid="waddasauria" creationdate="20220521T103940Z">
         <seg>SI&lt;t0/&gt; EL ELECTRODOMÉSTICO ESTÁ DESENCHUFADO,  HA PERDIDO POTENCIA O SE HA APAGADO, DEBE ESPERAR DE 3 A 5 MINUTOS ANTES DE REINICIARLO.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>IF YOU ATTEMPT TO RESTART BEFORE THIS TIME DELAY, THE REFrIGERATOR-FREEZER WILL NOT START.</seg>
+      </tuv>
+      <tuv lang="es" changeid="waddasauria" changedate="20220521T104025Z" creationid="waddasauria" creationdate="20220521T104025Z">
+        <seg> SI INTENTA REINICIARLO ANTES DE QUE PASE ESTE, EL FRIGORÍFICO-CONGELADOR NO SE ENCENDERÁ.
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -1128,6 +1153,15 @@ l</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Recommended thermostat setting for ice making is position “COLD”.</seg>
+      </tuv>
+      <tuv lang="es" changeid="waddasauria" changedate="20220521T104102Z" creationid="waddasauria" creationdate="20220521T104102Z">
+        <seg>El ajuste del termostato recomendado para hacer hielo es la posición "COLD". 
+.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Refrigerator Door Racks(2)</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220521T094128Z" creationid="waddasauria" creationdate="20220521T094128Z">
@@ -1269,6 +1303,14 @@ l</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220504T180839Z" creationid="waddasauria" creationdate="20220504T180839Z">
         <seg>El electrodoméstico está apagado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The best method to get ice cubes out of the tray is to hold the tray under cold tap water for a second.</seg>
+      </tuv>
+      <tuv lang="es" changeid="waddasauria" changedate="20220521T104333Z" creationid="waddasauria" creationdate="20220521T104333Z">
+        <seg>El mejor método para sacar los cubitos de hielo de la bandeja es ponerla bajo el grifo con agua fría durante un segundo..</seg>
       </tuv>
     </tu>
     <tu>
@@ -1770,6 +1812,14 @@ El ajuste en la sección del congelador está entre "MIN" y "MAX" en la nevera
       </tuv>
       <tuv lang="es" changeid="Lenovo" changedate="20220518T101331Z" creationid="Lenovo" creationdate="20220518T101331Z">
         <seg>Se usa para elevar (calentar) la temperatura establecida &lt;t0/&gt; por 1 º C o 1º F cuando "parpadee"...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Using Your Ice Cube Tray</seg>
+      </tuv>
+      <tuv lang="es" changeid="waddasauria" changedate="20220521T104043Z" creationid="waddasauria" creationdate="20220521T104043Z">
+        <seg>Cómo utilizar la cubitera</seg>
       </tuv>
     </tu>
     <tu>
