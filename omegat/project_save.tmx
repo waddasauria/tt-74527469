@@ -24,9 +24,18 @@
       <tuv lang="en">
         <seg>20Your refrigerator is not intended for use by persons (including children) with reduced physical, sensory, or mental</seg>
       </tuv>
-      <tuv lang="es" changeid="waddasauria" changedate="20220521T074058Z" creationid="waddasauria" creationdate="20220521T074058Z">
-        <seg>20. 20Su frigorífico no está destinado a ser utilizado por personas (incluidos niños) con capacidades diferentes, ya sean físicas, sensoriales o mentales. 
+      <tuv lang="es" changeid="waddasauria" changedate="20220521T074128Z" creationid="waddasauria" creationdate="20220521T074058Z">
+        <seg>20. Su frigorífico no está destinado a ser utilizado por personas (incluidos niños) con capacidades diferentes, ya sean físicas, sensoriales o mentales. 
 l</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>22If the power cord is damaged, it must be replaced by the manufacturer, its service agent, or similarly qualified person, inorder to avoid a hazard.</seg>
+      </tuv>
+      <tuv lang="es" changeid="waddasauria" changedate="20220521T074406Z" creationid="waddasauria" creationdate="20220521T074348Z">
+        <seg>22 Si el cable de alimentación está dañado, debe ser sustituido por el fabricante, su agente de servicio, o una persona igualmente cualificada, para evitar el peligro.
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -85,6 +94,14 @@ l</seg>
         <seg>Un enchufe polarizado tiene dos clavijas, con una 
 
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Children should be supervised to ensure that they do not play with your refrigerator.</seg>
+      </tuv>
+      <tuv lang="es" changeid="waddasauria" changedate="20220521T074307Z" creationid="waddasauria" creationdate="20220521T074307Z">
+        <seg>Los niños deben ser supervisados para asegurar que no jueguen con el frigorífico.</seg>
       </tuv>
     </tu>
     <tu>
@@ -310,6 +327,14 @@ l</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>WARNING</seg>
+      </tuv>
+      <tuv lang="es" changeid="waddasauria" changedate="20220521T074425Z" creationid="waddasauria" creationdate="20220521T074425Z">
+        <seg>ADVERTENCIA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>WARNING 1 Read these instructions&lt;t0/&gt;.</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220521T063247Z" creationid="waddasauria" creationdate="20220521T063247Z">
@@ -320,9 +345,8 @@ l</seg>
       <tuv lang="en">
         <seg>capabilities, or lack of experience and knowledge, unless they have been given supervision or instruction concerning</seg>
       </tuv>
-      <tuv lang="es" changeid="waddasauria" changedate="20220521T074123Z" creationid="waddasauria" creationdate="20220521T074123Z">
-        <seg>o la falta de experiencia y conocimientos, a menos que se les haya dado supervisión o instrucción sobre 
-uso de su frigorífico por una persona responsable de su seguridad.
+      <tuv lang="es" changeid="waddasauria" changedate="20220521T074217Z" creationid="waddasauria" creationdate="20220521T074123Z">
+        <seg>o  falta de experiencia y conocimientos, a menos que sean supervisados o instruidos sobre el  
 </seg>
       </tuv>
     </tu>
@@ -340,6 +364,14 @@ uso de su frigorífico por una persona responsable de su seguridad.
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220521T065624Z" creationid="waddasauria" creationdate="20220521T065110Z">
         <seg>sustituir la toma de corriente que ha quedado obsoleta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>use of your refrigerator by a person responsible for their safety.</seg>
+      </tuv>
+      <tuv lang="es" changeid="waddasauria" changedate="20220521T074236Z" creationid="waddasauria" creationdate="20220521T074236Z">
+        <seg>el uso del frigorífico por parte de una persona responsable de su seguridad.</seg>
       </tuv>
     </tu>
     <tu>
