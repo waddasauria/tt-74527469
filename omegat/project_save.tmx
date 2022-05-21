@@ -2548,6 +2548,14 @@ l</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Service to instruct you on how to use your wine cooler to correct house wiring, replace or repair house fuses, service to correct the installation of your wine cooler.</seg>
+      </tuv>
+      <tuv lang="es" changeid="true" changedate="20220521T184254Z" creationid="true" creationdate="20220521T184254Z">
+        <seg>Servicio para instruirle en el uso de su enfriadora de vino para la corrección del cableado de la casa, reemplazar o reparar los fusibles de la casa, servicio para corregir la instalación de su enfriadora de vino.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Servicing</seg>
       </tuv>
       <tuv lang="es" changeid="Lenovo" changedate="20220521T160510Z" creationid="Lenovo" creationdate="20220521T160510Z">
@@ -3483,6 +3491,14 @@ El ajuste en la sección del congelador está entre "MIN" y "MAX" en la nevera
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This limited warranty does not cover:</seg>
+      </tuv>
+      <tuv lang="es" changeid="true" changedate="20220521T183858Z" creationid="true" creationdate="20220521T183858Z">
+        <seg>Esta garantía limitada no cubre:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This marking indicates that this product should not be disposed with other household wastes throughout the EU.</seg>
       </tuv>
       <tuv lang="es" changeid="Lenovo" changedate="20220521T151950Z" creationid="Lenovo" creationdate="20220521T151950Z">
@@ -3610,6 +3626,14 @@ El ajuste en la sección del congelador está entre "MIN" y "MAX" en la nevera
       </tuv>
       <tuv lang="es" changeid="true" changedate="20220521T182606Z" creationid="true" creationdate="20220521T182606Z">
         <seg>Thor Group rechaza todas las garantías expresas, excepto las siguientes:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Thor Group will not pay for:</seg>
+      </tuv>
+      <tuv lang="es" changeid="true" changedate="20220521T183844Z" creationid="true" creationdate="20220521T183844Z">
+        <seg>Thor Group no pagará:</seg>
       </tuv>
     </tu>
     <tu>
