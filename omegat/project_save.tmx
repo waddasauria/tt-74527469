@@ -1681,6 +1681,15 @@ l</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It has become more pronounced since the introduction of CFC free gases.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Lenovo" changedate="20220521T163113Z" creationid="Lenovo" creationdate="20220521T163113Z">
+        <seg>Se ha vuelto más pronunciado desde la introducción de los gases sin CFC.
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It is extremely important that the food is frozen as quickly as possible.</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220521T110759Z" creationid="waddasauria" creationdate="20220521T110747Z">
@@ -3103,6 +3112,14 @@ El ajuste en la sección del congelador está entre "MIN" y "MAX" en la nevera
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>These noises are caused by the circulation of the refrigerant liquid in the cooling system.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Lenovo" changedate="20220521T163045Z" creationid="Lenovo" creationdate="20220521T163045Z">
+        <seg>Estos ruidos son causados por la circulación del líquido refrigerante en el sistema de refrigeración.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>They can take this product for environmental safe recycling.</seg>
       </tuv>
       <tuv lang="es" changeid="Lenovo" changedate="20220521T152423Z" creationid="Lenovo" creationdate="20220521T152247Z">
@@ -3188,6 +3205,15 @@ El ajuste en la sección del congelador está entre "MIN" y "MAX" en la nevera
       </tuv>
       <tuv lang="es" changeid="true" changedate="20220521T134058Z" creationid="true" creationdate="20220521T134058Z">
         <seg>Esto es normal y se debe a la duración del tiempo de activación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This is not a fault and will not affect the performance of your Fridge/Freezer.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Lenovo" changedate="20220521T163133Z" creationid="Lenovo" creationdate="20220521T163133Z">
+        <seg>No se trata de una avería y no afecta al rendimiento de su frigorífico/congelador.
+</seg>
       </tuv>
     </tu>
     <tu>
