@@ -749,6 +749,14 @@ l</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>First, estimate the amount of food you will be freezing.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Lenovo" changedate="20220521T115409Z" creationid="Lenovo" creationdate="20220521T115409Z">
+        <seg>Primero, calcule la cantidad de alimentos que va a congelar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Foils and bags should be soft enough to tightly wrap around the foods.</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220521T110907Z" creationid="waddasauria" creationdate="20220521T110535Z">
@@ -761,6 +769,14 @@ l</seg>
       </tuv>
       <tuv lang="es" changeid="Lenovo" changedate="20220521T114756Z" creationid="Lenovo" creationdate="20220521T114756Z">
         <seg>En el caso de algunos alimentos, no es necesario descongelarlos antes de cocinarlos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Freeze food in small quantities, it freezes faster, takes less time to thaw and enables you to eat it in the quantity you need.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Lenovo" changedate="20220521T115245Z" creationid="Lenovo" creationdate="20220521T115245Z">
+        <seg>Congele los alimentos en pequeñas cantidades, se congelan más rápido, tardan menos en descongelarse y puede consumirlos en la cantidad necesaria.</seg>
       </tuv>
     </tu>
     <tu>
@@ -789,10 +805,34 @@ l</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Freezing fresh foods</seg>
+      </tuv>
+      <tuv lang="es" changeid="Lenovo" changedate="20220521T115339Z" creationid="Lenovo" creationdate="20220521T115339Z">
+        <seg>Congelación de alimentos frescos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Freezing fresh foods, useful tips</seg>
+      </tuv>
+      <tuv lang="es" changeid="Lenovo" changedate="20220521T115038Z" creationid="Lenovo" creationdate="20220521T115038Z">
+        <seg>Congelación de alimentos frescos, consejos útiles</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Fromage frais, home-prepared food and leftovers or cream cakes.</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220504T161054Z" creationid="waddasauria" creationdate="20220504T161054Z">
         <seg>Queso fresco, comida casera, sobras o pasreles de crema. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Frozen sauces and soups can be put into a saucepan and heated gently until thawed.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Lenovo" changedate="20220521T115002Z" creationid="Lenovo" creationdate="20220521T115002Z">
+        <seg>Las salsas y sopas congeladas pueden introducirse en una cacerola y calentarse suavemente hasta que se descongelen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -954,6 +994,14 @@ l</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220521T110314Z" creationid="waddasauria" creationdate="20220521T110314Z">
         <seg>Si hay instrucciones  respecto al tiempo de almacenamiento en el paquete, sigalas cuidadosamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you are freezing large amounts of fresh food, remember to turn the control dial to Max.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Lenovo" changedate="20220521T115506Z" creationid="Lenovo" creationdate="20220521T115506Z">
+        <seg>Si va a congelar grandes cantidades de alimentos frescos, recuerde poner el dial de control en Max.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2182,6 +2230,14 @@ El ajuste en la sección del congelador está entre "MIN" y "MAX" en la nevera
       <tuv lang="es" changeid="waddasauria" changedate="20220521T073947Z" creationid="waddasauria" creationdate="20220521T073947Z">
         <seg>El uso de una alargadera puede afectar negativamente al rendimiento de su frigorífico.
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use quality food and handle it as little as possible.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Lenovo" changedate="20220521T115110Z" creationid="Lenovo" creationdate="20220521T115110Z">
+        <seg>Utilice alimentos de calidad y manipúlelos lo menos posible.</seg>
       </tuv>
     </tu>
     <tu>
