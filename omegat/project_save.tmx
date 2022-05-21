@@ -813,6 +813,14 @@ l</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Dispose Of Property In Accordance With Federal Or Local Regulations.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Lenovo" changedate="20220521T152540Z" creationid="Lenovo" creationdate="20220521T152540Z">
+        <seg>Disponer de los bienes de acuerdo con la normativa federal o local.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Do Not Puncture Refrigerant Tubing”.</seg>
       </tuv>
       <tuv lang="es" changeid="Lenovo" changedate="20220521T120827Z" creationid="Lenovo" creationdate="20220521T120827Z">
@@ -2774,8 +2782,8 @@ El ajuste en la sección del congelador está entre "MIN" y "MAX" en la nevera
       <tuv lang="en">
         <seg>They can take this product for environmental safe recycling.</seg>
       </tuv>
-      <tuv lang="es" changeid="Lenovo" changedate="20220521T152247Z" creationid="Lenovo" creationdate="20220521T152247Z">
-        <seg>Pueden tomar este producto para el reciclaje seguro del medio ambiente.</seg>
+      <tuv lang="es" changeid="Lenovo" changedate="20220521T152423Z" creationid="Lenovo" creationdate="20220521T152247Z">
+        <seg>Este producto se puede aprovechar para el reciclaje seguro del medio ambiente.</seg>
       </tuv>
     </tu>
     <tu>
