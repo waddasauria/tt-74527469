@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.0_0_8ae1ecfb" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
+    <tu>
+      <tuv lang="en">
+        <seg>(See the graphics shown above).</seg>
+      </tuv>
+      <tuv lang="es" changeid="Lenovo" changedate="20220518T103711Z" creationid="Lenovo" creationdate="20220518T103711Z">
+        <seg>(Observe los gráficos mostrados arriba).</seg>
+      </tuv>
+    </tu>
     <tu>
       <tuv lang="en">
         <seg>1.Read these instructions.</seg>
@@ -176,6 +184,14 @@ l</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A large amount of contents has been added to the Wine Cooler.</seg>
+      </tuv>
+      <tuv lang="es" changeid="waddasauria" changedate="20220505T072221Z" creationid="waddasauria" creationdate="20220504T181459Z">
+        <seg>Se ha añadido una gran cantidad de contenido al frigorífico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A polarized plug has two blades with one</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220521T064815Z" creationid="waddasauria" creationdate="20220521T064445Z">
@@ -186,10 +202,26 @@ l</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>AMBIENT TEMPERATURES BELOW 50ºF (10ºC) WILL AFFECT THE OPERATION OF YOUR REFRIGERATOR.</seg>
+      </tuv>
+      <tuv lang="es" changeid="waddasauria" changedate="20220504T145459Z" creationid="waddasauria" creationdate="20220504T145459Z">
+        <seg>TEMPERATURAS AMBIENTES POR DEBAJO DE 10 GRADOS AFECTARÁN AL FUNCIONAMIENTO DE SU FRIGORÍFICO.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Adjust the feet to keep the refrigerator level.</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220521T094328Z" creationid="waddasauria" creationdate="20220521T094328Z">
         <seg>Ajuste las patas para mantener el frigorífico nivelado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>After 24 to 48 hours, adjust the temperature control to the setting that best suits your needs.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Lenovo" changedate="20220518T104101Z" creationid="Lenovo" creationdate="20220518T104101Z">
+        <seg>Después de 24 a 48 horas, ajuste el control de la temperatura a la configuración que mejor se adapte a sus necesidades.</seg>
       </tuv>
     </tu>
     <tu>
@@ -210,6 +242,14 @@ l</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Allow pre-cooked food to cool down before placing in the Fridge.</seg>
+      </tuv>
+      <tuv lang="es" changeid="waddasauria" changedate="20220504T153457Z" creationid="waddasauria" creationdate="20220504T153457Z">
+        <seg>Deje que la comida precocinada se enfríe antes de colocarla en el frigorífico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Ambient temperature below 50°F or above 85°F will hinder the performance of this appliance.</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220521T094737Z" creationid="waddasauria" creationdate="20220521T094737Z">
@@ -226,10 +266,50 @@ l</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Before filling your Fridge/Freezer</seg>
+      </tuv>
+      <tuv lang="es" changeid="Lenovo" changedate="20220518T102846Z" creationid="Lenovo" creationdate="20220518T102846Z">
+        <seg>Antes de llenar el frigorífico/congelador</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Before plugging in YOU MUST</seg>
+      </tuv>
+      <tuv lang="es" changeid="Lenovo" changedate="20220518T104900Z" creationid="Lenovo" creationdate="20220518T104900Z">
+        <seg>Antes de enchufarlo DEBE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Before storing foods in your Fridge/Freezer, turn the Fridge/Freezer on and wait for 24 hours, to make sure it is working properly and to allow the Fridge/Freezer to fail to the correct temperature.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Lenovo" changedate="20220518T102939Z" creationid="Lenovo" creationdate="20220518T102939Z">
+        <seg>Antes de guardar alimentos en su frigorífico/congelador, encienda el frigorífico/congelador y espere 24 horas, para asegurarse de que funciona correctamente y permitir que el frigorífico/congelador no alcance la temperatura adecuada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Before switching on!</seg>
+      </tuv>
+      <tuv lang="es" changeid="Lenovo" changedate="20220518T102419Z" creationid="Lenovo" creationdate="20220518T102419Z">
+        <seg>Antes de encenderlo!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Before you throw away your old refrigerator:</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220521T080531Z" creationid="waddasauria" creationdate="20220521T080531Z">
         <seg>Antes de tirar su viejo frigorífico:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Before you throw away your old wine cooler:1.take off the door.</seg>
+      </tuv>
+      <tuv lang="es" changeid="true" changedate="20220515T225558Z" creationid="true" creationdate="20220515T225558Z">
+        <seg>Antes de tirar tu vieja nevera de vino:1. Desmonta la puerta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -242,6 +322,14 @@ l</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Butter, margarine, low-fat speads, cooking fats and lard.</seg>
+      </tuv>
+      <tuv lang="es" changeid="waddasauria" changedate="20220504T155655Z" creationid="waddasauria" creationdate="20220504T155451Z">
+        <seg>Mantequilla, margarina, mantequilla baja en grase, grasas para cocinar y manteca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Can Dispenser</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220521T094141Z" creationid="waddasauria" creationdate="20220521T094141Z">
@@ -250,10 +338,58 @@ l</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Check that the voltage marked on the product corresponds with your supply voltage.</seg>
+      </tuv>
+      <tuv lang="es" changeid="true" changedate="20220515T230351Z" creationid="true" creationdate="20220515T230351Z">
+        <seg>Asegúrese de que la tensión marcada en el producto se corresponde con la tensión de alimentación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Check that you have a socket which is compatible with the plug supplied with the Fridge/Freezer.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Lenovo" changedate="20220518T104756Z" creationid="Lenovo" creationdate="20220518T104756Z">
+        <seg>Compruebe que dispone de una toma de corriente compatible con el enchufe suministrado con el frigorífico/congelador.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Check the temperature control setting.</seg>
+      </tuv>
+      <tuv lang="es" changeid="waddasauria" changedate="20220504T181219Z" creationid="waddasauria" creationdate="20220504T181219Z">
+        <seg>Revisa los ajustes de control de temperatura. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Check to assure that the Wine Cooler is level.</seg>
+      </tuv>
+      <tuv lang="es" changeid="waddasauria" changedate="20220505T074311Z" creationid="waddasauria" creationdate="20220505T074311Z">
+        <seg>Asegúrese de que el enfriador de vinos está nivelado..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Children should be supervised to ensure that they do not play with your refrigerator.</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220521T074307Z" creationid="waddasauria" creationdate="20220521T074307Z">
         <seg>Los niños deben ser supervisados para asegurar que no jueguen con el frigorífico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Cleaning your wine cooler</seg>
+      </tuv>
+      <tuv lang="es" changeid="Lenovo" changedate="20220519T155320Z" creationid="Lenovo" creationdate="20220518T101608Z">
+        <seg>Limpie su nevera de vino</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Coldest area</seg>
+      </tuv>
+      <tuv lang="es" changeid="waddasauria" changedate="20220504T155703Z" creationid="waddasauria" creationdate="20220504T155703Z">
+        <seg>Área más fría</seg>
       </tuv>
     </tu>
     <tu>
@@ -275,6 +411,22 @@ l</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Cooked meats should always be stored on a shelf above raw meats to avoid bacterial transfer.</seg>
+      </tuv>
+      <tuv lang="es" changeid="waddasauria" changedate="20220504T152612Z" creationid="waddasauria" creationdate="20220504T152540Z">
+        <seg>La carne cocinada debe guardarse siempre en una balda sobre la carne cruda para evitar el paso de bacterias.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Cool area</seg>
+      </tuv>
+      <tuv lang="es" changeid="waddasauria" changedate="20220504T154532Z" creationid="waddasauria" creationdate="20220504T154532Z">
+        <seg>Área fresca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Crisper</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220521T084908Z" creationid="waddasauria" creationdate="20220521T084908Z">
@@ -287,6 +439,14 @@ l</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220521T084912Z" creationid="waddasauria" creationdate="20220521T084829Z">
         <seg>Cubierta del cajón para verduras</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>DO NOT SWITCH ON UNTIL FOUR HOURS AFTER MOVING THE FRIDGE/FREEZER.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Lenovo" changedate="20220518T104729Z" creationid="Lenovo" creationdate="20220518T104729Z">
+        <seg>NO ENCENDER HASTA CUATRO HORAS DESPUÉS DE HABER TRASLADADO EL FRIGORÍFICO/CONGELADOR.</seg>
       </tuv>
     </tu>
     <tu>
@@ -331,6 +491,22 @@ l</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Do not store near gasoline or any other flammable vapors.</seg>
+      </tuv>
+      <tuv lang="es" changeid="true" changedate="20220515T230028Z" creationid="true" creationdate="20220515T230028Z">
+        <seg>Tampoco lo almacene cerca de gasolina u otros vapores inflamables.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Do not under any circumstances cut or remove the third ground prong over cord supplied.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Lenovo" changedate="20220518T095620Z" creationid="Lenovo" creationdate="20220518T095620Z">
+        <seg>No corte ni retire bajo ninguna circunstancia la tercera clavija (tierra) del cable de alimentación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Do not use extension cords or ungrounded (two prong) adapters.</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220521T073841Z" creationid="waddasauria" creationdate="20220521T073841Z">
@@ -347,6 +523,14 @@ l</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Down</seg>
+      </tuv>
+      <tuv lang="es" changeid="Lenovo" changedate="20220518T101342Z" creationid="Lenovo" creationdate="20220518T101342Z">
+        <seg>Abajo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Electric Shock Hazard</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220521T074438Z" creationid="waddasauria" creationdate="20220521T074438Z">
@@ -355,10 +539,34 @@ l</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Electrical Connection</seg>
+      </tuv>
+      <tuv lang="es" changeid="Lenovo" changedate="20220518T102955Z" creationid="Lenovo" creationdate="20220518T102955Z">
+        <seg>Conexión eléctrica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>External environment may require a higher setting.</seg>
+      </tuv>
+      <tuv lang="es" changeid="waddasauria" changedate="20220504T181242Z" creationid="waddasauria" creationdate="20220504T181242Z">
+        <seg>El ambiente externo quizás requiera un ajuste mayor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Failure to follow these instructions can result in electric shock, fire, or death.</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220521T074501Z" creationid="waddasauria" creationdate="20220521T074501Z">
         <seg>El incumplimiento de estas instrucciones puede provocar una descarga eléctrica, un incendio o incluso la muerte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Fats, eg.</seg>
+      </tuv>
+      <tuv lang="es" changeid="waddasauria" changedate="20220504T155414Z" creationid="waddasauria" creationdate="20220504T155414Z">
+        <seg>Grasas, .</seg>
       </tuv>
     </tu>
     <tu>
@@ -379,10 +587,42 @@ l</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Fromage frais, home-prepared food and leftovers or cream cakes.</seg>
+      </tuv>
+      <tuv lang="es" changeid="waddasauria" changedate="20220504T161054Z" creationid="waddasauria" creationdate="20220504T161054Z">
+        <seg>Queso fresco, comida casera, sobras o pasreles de crema. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Fruit and vegetables need not be wrapped.</seg>
+      </tuv>
+      <tuv lang="es" changeid="waddasauria" changedate="20220504T153400Z" creationid="waddasauria" creationdate="20220504T153400Z">
+        <seg>No es necesario envolver la fruta y la verdura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Grounding requirement</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220521T084025Z" creationid="waddasauria" creationdate="20220521T083951Z">
         <seg>Requisitos de toma de tierra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ham,</seg>
+      </tuv>
+      <tuv lang="es" changeid="waddasauria" changedate="20220504T160807Z" creationid="waddasauria" creationdate="20220504T160807Z">
+        <seg>Jamón,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Have the wall outlet and circuit checked by a qualified electrician to make sure the outlet is properly grounded.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Lenovo" changedate="20220518T105301Z" creationid="Lenovo" creationdate="20220518T105301Z">
+        <seg>Un electricista cualificado revisará la toma de corriente y el circuito para asegurarse de que la toma de corriente está correctamente conectada a tierra.</seg>
       </tuv>
     </tu>
     <tu>
@@ -419,6 +659,30 @@ l</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If the appliance is switched off at any time, wait 30 minutes before switching back on to allow the coolant fluid to settle.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Lenovo" changedate="20220518T104420Z" creationid="Lenovo" creationdate="20220518T104420Z">
+        <seg>Si el aparato se apaga en algún momento, espere 30 minutos antes de volver a encenderlo para que el líquido refrigerante se reestablezca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the power cord is damaged, have it replaced by a qualified electrician or an authorized service center.</seg>
+      </tuv>
+      <tuv lang="es" changeid="true" changedate="20220515T230435Z" creationid="true" creationdate="20220515T230435Z">
+        <seg>Cuando el cable de alimentación esté dañado, hágalo sustituir por un electricista cualificado o por un centro de servicio autorizado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the power cord is damaged, have it replaced by an authorized service center.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Lenovo" changedate="20220518T103212Z" creationid="Lenovo" creationdate="20220518T103212Z">
+        <seg>Si el cable de alimentación está dañado, un centro de servicio autorizado se lo reemplazará.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If the power cord is too short, have a qualified electrician install an outlet near your refrigerator.</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220521T073922Z" creationid="waddasauria" creationdate="20220521T073922Z">
@@ -427,10 +691,26 @@ l</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If the power is going to be off for a longer period of time, you need to take to take other measures to protect your contents.</seg>
+      </tuv>
+      <tuv lang="es" changeid="waddasauria" changedate="20220504T180701Z" creationid="waddasauria" creationdate="20220504T180701Z">
+        <seg>Si el electrodoméstico va a apagarse por un periodo de tiempo más largo, necesita tomar otras medidas para proteger su contenido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If the provided plug does not fit into your outlet, consult an electrician for</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220521T065117Z" creationid="waddasauria" creationdate="20220521T065047Z">
         <seg>Si el enchufe incluído no encaja en su toma de corriente, consulte a un electricista para </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Improper use of the grounded plug can result in the risk of electrical shock.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Lenovo" changedate="20220518T103047Z" creationid="Lenovo" creationdate="20220518T103047Z">
+        <seg>El uso inadecuado del enchufe con toma de tierra puede suponer un riesgo de descarga eléctrica.</seg>
       </tuv>
     </tu>
     <tu>
@@ -484,10 +764,34 @@ l</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Junked or abandoned appliances, boxes and other containers are still dangerous, even if they will just in the garage for a few days.</seg>
+      </tuv>
+      <tuv lang="es" changeid="true" changedate="20220515T225534Z" creationid="true" creationdate="20220515T225534Z">
+        <seg>Un aparato desechado o abandonado, cajas y otros contenedores siguen siendo peligrosos, incluso si sólo están en el taller durante unos días.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Keep raw meats on a plate which is large enough to collect juices and cover it with cling film or foil.</seg>
+      </tuv>
+      <tuv lang="es" changeid="waddasauria" changedate="20220504T152927Z" creationid="waddasauria" creationdate="20220504T152552Z">
+        <seg>Guarde la carne cruda en un plato que sea lo suficientemente grande como para almacenar el jugo y cúbralo con papel film o albal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Keep these instructions.</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220521T063308Z" creationid="waddasauria" creationdate="20220521T063308Z">
         <seg>Guarde estas instrucciones.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Leave space around food</seg>
+      </tuv>
+      <tuv lang="es" changeid="waddasauria" changedate="20220504T152943Z" creationid="waddasauria" creationdate="20220504T152943Z">
+        <seg>Deje espacio entre los alimentos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -516,10 +820,50 @@ l</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Milk, eggs, yogurt, fruit juices, hard cheeses eg.</seg>
+      </tuv>
+      <tuv lang="es" changeid="waddasauria" changedate="20220504T155252Z" creationid="waddasauria" creationdate="20220504T155252Z">
+        <seg>Leche, huevos, yogures, zumos de frutas, quesos duros...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>ModelNo.:CQRB09Y1GD1RW/CQRB09Y1GD1RS</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220521T063153Z" creationid="waddasauria" creationdate="20220521T063153Z">
         <seg>Modelo.:CQRB09Y1GD1RW/CQRB09Y1GD1RS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Most power failures are corrected within a few hours should not affect the temperature of your appliance if you minimize the number of times the door is opened.</seg>
+      </tuv>
+      <tuv lang="es" changeid="waddasauria" changedate="20220504T180611Z" creationid="waddasauria" creationdate="20220504T180611Z">
+        <seg>La mayoría de errores de electricidad se corrigen en unas horas, lo cual no debería afectar a la temperatura de su electrodoméstico si minimiza el número de veces que se abre la puerta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>NOTE:</seg>
+      </tuv>
+      <tuv lang="es" changeid="waddasauria" changedate="20220504T145349Z" creationid="waddasauria" creationdate="20220504T145349Z">
+        <seg>NOTA:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Never allow children to operate, play with, crawl inside the appliance.</seg>
+      </tuv>
+      <tuv lang="es" changeid="true" changedate="20220515T225650Z" creationid="true" creationdate="20220515T225650Z">
+        <seg>Evite que los niños manejen, jueguen o se arrastren por el interior del electrodoméstico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Never clean appliance parts with flammable fluids.</seg>
+      </tuv>
+      <tuv lang="es" changeid="true" changedate="20220515T225719Z" creationid="true" creationdate="20220515T225719Z">
+        <seg>No limpie en ningún caso las piezas del aparato con líquidos inflamables.</seg>
       </tuv>
     </tu>
     <tu>
@@ -532,10 +876,98 @@ l</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Not plugged in.</seg>
+      </tuv>
+      <tuv lang="es" changeid="waddasauria" changedate="20220505T072505Z" creationid="waddasauria" creationdate="20220504T180816Z">
+        <seg>No está enchufada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OPERATING YOUR REFRIGERATOR</seg>
+      </tuv>
+      <tuv lang="es" changeid="Lenovo" changedate="20220519T160629Z" creationid="Lenovo" creationdate="20220518T103327Z">
+        <seg>FUNCIONAMIENTO DE SU NEVERA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Only open the door to put food in or take it out.</seg>
+      </tuv>
+      <tuv lang="es" changeid="waddasauria" changedate="20220504T154439Z" creationid="waddasauria" creationdate="20220504T154439Z">
+        <seg>Abra la puerta solo si va a meter o sacar comida. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Opened jars and bottles of salad dressings, sauces and jams.</seg>
+      </tuv>
+      <tuv lang="es" changeid="waddasauria" changedate="20220504T155515Z" creationid="waddasauria" creationdate="20220504T155359Z">
+        <seg>Frascos abiertos, aliños para ensaladas, salsas y mermeladas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>POSSIBLE CAUSE</seg>
+      </tuv>
+      <tuv lang="es" changeid="waddasauria" changedate="20220504T180721Z" creationid="waddasauria" creationdate="20220504T180721Z">
+        <seg>POSIBLE CAUSA:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>PROBLEM</seg>
+      </tuv>
+      <tuv lang="es" changeid="waddasauria" changedate="20220504T180712Z" creationid="waddasauria" creationdate="20220504T180712Z">
+        <seg>PROBLEMA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Place your refrigerator on a floor that is strong enough to support the refrigerator when it is fully loaded.</seg>
+      </tuv>
+      <tuv lang="es" changeid="true" changedate="20220515T221650Z" creationid="true" creationdate="20220515T221650Z">
+        <seg>Coloque su frigorífico en un suelo que sea lo suficientemente fuerte como para soportar el frigorífico cuando esté completamente cargado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Plug the refrigerator into dedicated, properly installed-grounded wall outlet.</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220521T094922Z" creationid="waddasauria" creationdate="20220521T094922Z">
         <seg>Conecte el frigorífico a una toma de corriente específica con conexión a tierra correctamente instalada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Power</seg>
+      </tuv>
+      <tuv lang="es" changeid="Lenovo" changedate="20220518T101527Z" creationid="Lenovo" creationdate="20220518T101527Z">
+        <seg>Corriente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Power Failure</seg>
+      </tuv>
+      <tuv lang="es" changeid="waddasauria" changedate="20220504T180454Z" creationid="waddasauria" creationdate="20220504T180454Z">
+        <seg>Fallo eléctrico </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Pre-cooked food should be cooled properly</seg>
+      </tuv>
+      <tuv lang="es" changeid="waddasauria" changedate="20220504T153423Z" creationid="waddasauria" creationdate="20220504T153423Z">
+        <seg>La comida precocinada debe enfriarse adecuadamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Press this button, press &lt;t0/&gt; to set temperature, the number of temperature will   flash once you press the button.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Lenovo" changedate="20220519T145334Z" creationid="Lenovo" creationdate="20220519T145231Z">
+        <seg>Pulse este botón, pulse &lt;t0/&gt; para ajustar la temperatura,el número de la temperatura parpadeará una vez pulse el botón.</seg>
       </tuv>
     </tu>
     <tu>
@@ -545,6 +977,22 @@ l</seg>
       <tuv lang="es" changeid="waddasauria" changedate="20220521T065721Z" creationid="waddasauria" creationdate="20220521T065721Z">
         <seg> Proteja el cable de alimentación para que nadie lo pise pellizque, sobre todo en los enchufes, en las tomas de corriente y en el punto en el que sale del frigorífico.
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Read all instructions before using the wine cooler.</seg>
+      </tuv>
+      <tuv lang="es" changeid="true" changedate="20220515T225405Z" creationid="true" creationdate="20220515T225405Z">
+        <seg>Antes de utilizar la nevera para vinos, lea todas las instrucciones.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ready meals, meat pies, soft cheeses.</seg>
+      </tuv>
+      <tuv lang="es" changeid="waddasauria" changedate="20220504T155902Z" creationid="waddasauria" creationdate="20220504T155902Z">
+        <seg>Comida preparada, pasteles de carne, quesos blandos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -565,6 +1013,14 @@ l</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Refrigerator Temperature Control          Freezer Temperature Control</seg>
+      </tuv>
+      <tuv lang="es" changeid="Lenovo" changedate="20220519T152354Z" creationid="Lenovo" creationdate="20220519T152354Z">
+        <seg>Control de Temperatura de la Nevera      Control de Temperatura del Congelador</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Refrigerator&lt;t0/&gt; &lt;t1/&gt;Temperature Control</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220521T084706Z" creationid="waddasauria" creationdate="20220521T084706Z">
@@ -581,11 +1037,75 @@ l</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>START</seg>
+      </tuv>
+      <tuv lang="es" changeid="Lenovo" changedate="20220519T160615Z" creationid="Lenovo" creationdate="20220518T103227Z">
+        <seg>INICIO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Servicing is required when your refrigerator has been damaged in any way, such as the power-supply cord or plug is damaged, liquid has been spilled or objects have fallen into your refrigerator, your refrigerator has been exposed to rain or moisture, does not operate normally, or has been dropped.</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220521T073713Z" creationid="waddasauria" creationdate="20220521T073713Z">
         <seg> El servicio es necesario cuando sufrigorífico ha sido dañado de alguna manera, como por ejemplo si el cable de alimentación o el enchufe están dañados, si se ha derramado líquido o han caído objetos dentro de su frigorífico, si su frigorífico ha estado expuesto a la lluvia o a la humedad, si no normalmente no funciona o si se ha caído.
 .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Set temperature</seg>
+      </tuv>
+      <tuv lang="es" changeid="Lenovo" changedate="20220518T095903Z" creationid="Lenovo" creationdate="20220518T095903Z">
+        <seg>Ajuste la temperatura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Setting the Temperature Control</seg>
+      </tuv>
+      <tuv lang="es" changeid="Lenovo" changedate="20220518T103528Z" creationid="Lenovo" creationdate="20220518T103528Z">
+        <seg>Ajuste del Control de Temperatura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Shut the door!</seg>
+      </tuv>
+      <tuv lang="es" changeid="waddasauria" changedate="20220504T153558Z" creationid="waddasauria" creationdate="20220504T153558Z">
+        <seg>¡Cierre la puerta!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Take extra care with meat and fish</seg>
+      </tuv>
+      <tuv lang="es" changeid="waddasauria" changedate="20220504T145915Z" creationid="waddasauria" creationdate="20220504T145915Z">
+        <seg>Presta especial atención a la carne y al pescado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Temperature Control Panels</seg>
+      </tuv>
+      <tuv lang="es" changeid="Lenovo" changedate="20220518T103403Z" creationid="Lenovo" creationdate="20220518T103403Z">
+        <seg>Paneles de control de temperatura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Temperature Display for lower chamber.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Lenovo" changedate="20220518T101013Z" creationid="Lenovo" creationdate="20220518T101013Z">
+        <seg>Pantalla de temperatura para cámara inferior.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Temperature Display for upper chamber.；</seg>
+      </tuv>
+      <tuv lang="es" changeid="Lenovo" changedate="20220518T100731Z" creationid="Lenovo" creationdate="20220518T100731Z">
+        <seg>Pantalla de temperatura para cámara inferior.；</seg>
       </tuv>
     </tu>
     <tu>
@@ -606,6 +1126,118 @@ l</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The LED display will show the setting temperature when “flash”; Display will show the actual temperature for the upper chamber when normal.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Lenovo" changedate="20220518T100832Z" creationid="Lenovo" creationdate="20220518T100832Z">
+        <seg>La pantalla LED mostrará la temperatura de ajuste cuando "parpadee"; La pantalla mostrará la temperatura para la temperatura real del gabinete cuando sea normal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The appliance is turned off.</seg>
+      </tuv>
+      <tuv lang="es" changeid="waddasauria" changedate="20220504T180839Z" creationid="waddasauria" creationdate="20220504T180839Z">
+        <seg>El electrodoméstico está apagado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The circuit breaker tripped or a blown fuse.</seg>
+      </tuv>
+      <tuv lang="es" changeid="waddasauria" changedate="20220504T181121Z" creationid="waddasauria" creationdate="20220504T181121Z">
+        <seg>El cortacircuitos se ha activado o hay un fusible quemado. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The coolant fluid needs time to settle.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Lenovo" changedate="20220518T104533Z" creationid="Lenovo" creationdate="20220518T104533Z">
+        <seg>El líquido refrigerante necesita tiempo para asentarse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The door gasket does not seal properly</seg>
+      </tuv>
+      <tuv lang="es" changeid="waddasauria" changedate="20220505T072452Z" creationid="waddasauria" creationdate="20220504T181346Z">
+        <seg>El burlete de la puerta no cierra adecuadamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The door gasket does not seal properly.</seg>
+      </tuv>
+      <tuv lang="es" changeid="waddasauria" changedate="20220505T072500Z" creationid="waddasauria" creationdate="20220505T072349Z">
+        <seg>El burlete de la puerta no cierra adecuadamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The door is not closed completely.</seg>
+      </tuv>
+      <tuv lang="es" changeid="waddasauria" changedate="20220505T072230Z" creationid="waddasauria" creationdate="20220504T181311Z">
+        <seg>La puerta no está completamente cerrada..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The door is open too often</seg>
+      </tuv>
+      <tuv lang="es" changeid="waddasauria" changedate="20220504T181512Z" creationid="waddasauria" creationdate="20220504T181512Z">
+        <seg>La puerta se abre con demasiada frecuencia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The door is opened too often.</seg>
+      </tuv>
+      <tuv lang="es" changeid="waddasauria" changedate="20220504T181255Z" creationid="waddasauria" creationdate="20220504T181255Z">
+        <seg>La puerta se abre con demasiada frecuencia. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The door will not close properly.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Lenovo" changedate="20220521T101108Z" creationid="Lenovo" creationdate="20220521T101108Z">
+        <seg>La puerta no se cerrará correctamente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The first time you turn the unit on, set the temperature control to “MAX” in refrigerator section and “MAX” in freezer section.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Lenovo" changedate="20220518T103756Z" creationid="Lenovo" creationdate="20220518T103756Z">
+        <seg>La primera vez que encienda la unidad, ajuste el control de temperatura a "MAX" en la sección del refrigerador y "MAX" en la sección del congelador.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The fumes can create a fire hazard or explosion.</seg>
+      </tuv>
+      <tuv lang="es" changeid="true" changedate="20220515T225740Z" creationid="true" creationdate="20220515T225740Z">
+        <seg>Los humos pueden crear un peligro de incendio o explosión.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The light does not work.</seg>
+      </tuv>
+      <tuv lang="es" changeid="waddasauria" changedate="20220505T072245Z" creationid="waddasauria" creationdate="20220505T072245Z">
+        <seg>La luz no funciona.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The light switch is “OFF”.</seg>
+      </tuv>
+      <tuv lang="es" changeid="waddasauria" changedate="20220505T072555Z" creationid="waddasauria" creationdate="20220505T072555Z">
+        <seg>El interruptor de la puerta está en "OFF".”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The plug must be inserted into an outlet that is correctly installed and grounded.</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220521T084225Z" creationid="waddasauria" creationdate="20220521T084204Z">
@@ -614,10 +1246,167 @@ l</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The power cord of this appliance is equipped with a three pins plug which mates with standard three pins wall outlets to minimize the possibility of electrical shock.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Lenovo" changedate="20220519T160523Z" creationid="Lenovo" creationdate="20220517T142104Z">
+        <seg>En ningún caso corte o retire la tercera clavija de tierra del cable suministrado. Por seguridad personal,(..).
+
+Este aparato requiere una toma de corriente estándar de 115 voltios AC~60Hz con tres clavijas.
+Haga que un electricista cualificado revise la toma de corriente y el circuito para asegurarse de que la toma de corriente está correctamente conectada a tierra.
+Cuando se encuentra una toma de corriente estándar de 2 clavijas, es su responsabilidad y obligación hacer que se sustituya por un enchufe de 3 clavijas debidamente conectado al suelo.
+Ajuste la temperatura
+Pulse este botón, pulse &lt;t0/&gt; para ajustar la temperatura, el número de la temperatura parpadeará una vez que pulse el botón.
+
+Sólo podrá ajustar la temperatura cuando el número "parpadee".
+Pantalla de temperatura para la cámara superior.；
+La pantalla LED mostrará la temperatura ajustada cuando "parpadee"; la pantalla mostrará la temperatura real de la cámara superior cuando sea normal.
+Pantalla de temperatura para la cámara inferior.
+(...)
+℃/℉ Pantalla
+Arriba
+
+Se utiliza para aumentar (calentar) la temperatura ajustada en 1℃ o 1℉ cuando "parpadea"..
+
+Abajo
+
+Se utiliza para bajar (enfriar) la temperatura ajustada en 1℃ o 1℉ cuando "parpadea".
+
+Potencia
+
+(...)
+
+Limpieza de la nevera para vinos
+
+Desconecte la corriente, desenchufe el aparato.
+Ajuste las patas para que la nevera se sostenga
+
+Coloque la nevera lejos de la luz solar directa y de fuentes de calor (estufa, calentador, radiador, etc.).
+
+La luz solar directa puede afectar al revestimiento acrílico y las fuentes de calor pueden aumentar el consumo eléctrico.
+
+Una temperatura ambiental inferior a 50°F o superior a 85°F dificultará el funcionamiento de este aparato.
+
+Esta unidad no está diseñada para ser utilizada en un garaje o cualquier otra instalación exterior.
+
+Evite ubicar el refrigerador en áreas húmedas.
+
+(...)
+
+Antes de enchufarlo DEBE
+
+Comprobar que dispone de una toma de corriente compatible con el enchufe suministrado con el frigorífico/congelador.
+
+Antes de encenderlo
+
+NO ENCIENDA EL APARATO HASTA CUATRO HORAS DESPUÉS DE HABER TRASLADADO EL FRIGORÍFICO/CONGELADOR.
+
+El líquido refrigerante necesita tiempo para asentarse.
+
+Si el aparato se apaga en algún momento, espere 30 minutos antes de volver a encenderlo para que el líquido refrigerante se asiente.
+
+Antes de llenar el frigorífico/congelador
+
+Antes de almacenar alimentos en su Frigorífico/Congelador, encienda el Frigorífico/Congelador y espere 24 horas, para asegurarse de que funciona correctamente y para permitir que el Frigorífico/Congelador no alcance la temperatura correcta.
+
+Conexión eléctrica
+
+&lt;t0/&gt;ADVERTENCIA&lt;t1/&gt;
+El uso inadecuado del enchufe con toma de tierra puede suponer un riesgo de descarga eléctrica.
+
+Si el cable de alimentación está dañado, hágalo reemplazar por un centro de servicio autorizado.
+
+(...)
+
+INICIO
+
+FUNCIONAMIENTO DE SU FRIGORÍFICO
+
+Paneles de control de la temperatura
+
+Control de la temperatura del frigorífico Control de la temperatura del congelador
+
+Ajuste del control de temperatura
+
+Su frigorífico dispone de un control separado para regular la temperatura de cada sección de forma independiente.
+
+El control de temperatura se encuentra en la parte trasera de cada sección (frigorífico / congelador).
+
+(Vea los gráficos mostrados arriba).
+
+La primera vez que encienda la unidad, ajuste el control de temperatura a "MAX" en la sección del refrigerador y "MAX" en la sección del congelador.
+
+El rango de los controles de temperatura van desde la posición "MIN" a "MAX" la más fría en la sección del refrigerador y desde la posición "MIN" la más caliente a "MAX" la más fría.
+
+Después de 24 a 48 horas, ajuste el control de temperatura a la posición que mejor se adapte a sus necesidades.
+
+El ajuste en la sección del congelador está entre "MIN" y "MAX" en la nevera
+
+
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The range of the temperature controls are from position “MIN” to “MAX” the coldest in refrigerator section and from position “MIN” the warmest to “MAX” the coldest.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Lenovo" changedate="20220518T103953Z" creationid="Lenovo" creationdate="20220518T103953Z">
+        <seg>El rango de los controles de temperatura van desde la posición "MIN" a "MAX",la más fría en la sección de refrigeración y desde la posición "MIN",la más caliente a "MAX", la más fría.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The room temperature is hotter than normal.</seg>
+      </tuv>
+      <tuv lang="es" changeid="waddasauria" changedate="20220505T072153Z" creationid="waddasauria" creationdate="20220504T181434Z">
+        <seg>La temperatura ambiente es más alta de lo normal. .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The temperature control is located at the rear of each section (refrigerator / freezer).</seg>
+      </tuv>
+      <tuv lang="es" changeid="Lenovo" changedate="20220518T103629Z" creationid="Lenovo" creationdate="20220518T103629Z">
+        <seg>El control de la temperatura se encuentra en la parte trasera de cada sección (frigorífico / congelador).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The temperature control is not set correctly.</seg>
+      </tuv>
+      <tuv lang="es" changeid="waddasauria" changedate="20220504T181741Z" creationid="waddasauria" creationdate="20220504T181741Z">
+        <seg>El control de temperatura no está ajustado correctamente. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The wide blade or the third</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220521T064924Z" creationid="waddasauria" creationdate="20220521T064924Z">
         <seg>La clavija ancha o la tercera</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This allows cold air to circulate around the Fridge, ensuring all parts of the Fridge are kept cool.</seg>
+      </tuv>
+      <tuv lang="es" changeid="waddasauria" changedate="20220504T153142Z" creationid="waddasauria" creationdate="20220504T153142Z">
+        <seg>Esto permite que el aire frío circule alrededor del frigorífico, asegurando que todas sus partes se mantengan frías.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This appliance is designed to be free standing only, and should not be recessed or built-in.</seg>
+      </tuv>
+      <tuv lang="es" changeid="true" changedate="20220515T221636Z" creationid="true" creationdate="20220515T221636Z">
+        <seg>Este aparato ha sido diseñado para ser colocado de forma independiente, y no debe ser empotrado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This appliance requires a standard 115 Volt AC~60Hz electrical ground outlet with three pins.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Lenovo" changedate="20220518T105113Z" creationid="Lenovo" creationdate="20220518T105113Z">
+        <seg>Este aparato requiere una toma de corriente estándar de 115 voltios AC~60Hz con tres clavijas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -638,11 +1427,59 @@ l</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This is where foods which must be cold to keep them safe should be kept:</seg>
+      </tuv>
+      <tuv lang="es" changeid="waddasauria" changedate="20220504T155745Z" creationid="waddasauria" creationdate="20220504T155745Z">
+        <seg>Aquñi debe guardar los alinebros que deban estar fríos para conservarse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This is where to store foods which will keep longer if they are kept cool.</seg>
+      </tuv>
+      <tuv lang="es" changeid="waddasauria" changedate="20220504T155205Z" creationid="waddasauria" creationdate="20220504T155205Z">
+        <seg>Aquí debe guardar los alimentos que vayan a conservarse por más tiempo si se mantienen fríos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This unit is not designed for use in a garage or any other outside installation.</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220521T094813Z" creationid="waddasauria" creationdate="20220521T094807Z">
         <seg>Este electrodoméstico no está diseñado para ser utilizado en un garaje o cualquier otra espacio exterior.
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This will help to stop the internal temperature of the Fridge from rising.</seg>
+      </tuv>
+      <tuv lang="es" changeid="waddasauria" changedate="20220504T153546Z" creationid="waddasauria" creationdate="20220504T153546Z">
+        <seg>Esto ayudará a que la temperatura interior del frigorífico no suba.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Tips for keeping food perfect in the Fridge</seg>
+      </tuv>
+      <tuv lang="es" changeid="waddasauria" changedate="20220504T145847Z" creationid="waddasauria" creationdate="20220504T145847Z">
+        <seg>Consejos para mantener la comida perfecta en el frigorífico. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To prevent cold air escaping, try to limit the number of times you open the door.</seg>
+      </tuv>
+      <tuv lang="es" changeid="waddasauria" changedate="20220504T153628Z" creationid="waddasauria" creationdate="20220504T153628Z">
+        <seg>Para prevenir que el aire frío salga, intente limitar el número de veces que abre la puerta. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To prevent transfer of flavors and drying out, food should be separately packed or covered.</seg>
+      </tuv>
+      <tuv lang="es" changeid="waddasauria" changedate="20220504T153328Z" creationid="waddasauria" creationdate="20220504T153328Z">
+        <seg>Para prevenir la pérdida de sabor o la sequedad, los alimentos deben cubrirse o envolverse por separado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -664,6 +1501,14 @@ l</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Turns on and off frequently</seg>
+      </tuv>
+      <tuv lang="es" changeid="waddasauria" changedate="20220505T072136Z" creationid="waddasauria" creationdate="20220504T181418Z">
+        <seg>Se enciende y se apaga con frecuencia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Unplug the power cord by holding the plug, never by pulling the cord.</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220521T070052Z" creationid="waddasauria" creationdate="20220521T070052Z">
@@ -681,11 +1526,43 @@ l</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Up</seg>
+      </tuv>
+      <tuv lang="es" changeid="Lenovo" changedate="20220518T101113Z" creationid="Lenovo" creationdate="20220518T101113Z">
+        <seg>Arriba</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use of an extension cord can negatively affect your refrigerator’s performance.</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220521T073947Z" creationid="waddasauria" creationdate="20220521T073947Z">
         <seg>El uso de una alargadera puede afectar negativamente al rendimiento de su frigorífico.
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Used to lower (cool) the set temperature by 1℃ or 1℉ when “flash”.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Lenovo" changedate="20220518T101455Z" creationid="Lenovo" creationdate="20220518T101455Z">
+        <seg>Se usa para bajar (enfriar) la temperatura establecida &lt;t0/&gt; por 1º C o 1 º F cuando "parpadee".”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Used to raise (warm)the set temperature by 1℃ or 1℉ when “flash”..</seg>
+      </tuv>
+      <tuv lang="es" changeid="Lenovo" changedate="20220518T101331Z" creationid="Lenovo" creationdate="20220518T101331Z">
+        <seg>Se usa para elevar (calentar) la temperatura establecida &lt;t0/&gt; por 1 º C o 1º F cuando "parpadee"...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Vibrations</seg>
+      </tuv>
+      <tuv lang="es" changeid="waddasauria" changedate="20220505T072602Z" creationid="waddasauria" creationdate="20220505T072602Z">
+        <seg>Vibraciones</seg>
       </tuv>
     </tu>
     <tu>
@@ -706,6 +1583,22 @@ l</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>WARNING: &lt;t0/&gt;Improper use of the grounded plug can result in the risk of electrical shock.</seg>
+      </tuv>
+      <tuv lang="es" changeid="true" changedate="20220515T230415Z" creationid="true" creationdate="20220515T230415Z">
+        <seg>ADVERTENCIA: &lt;t0/&gt;El mal uso del enchufe con toma de tierra puede suponer un riesgo de descarga eléctrica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>WARNING: To reduce the risk of fire, electric shock or personal injury ,  unplug or disconnect the appliance from the power supply before servicing.</seg>
+      </tuv>
+      <tuv lang="es" changeid="true" changedate="20220515T225349Z" creationid="true" creationdate="20220515T225349Z">
+        <seg>ADVERTENCIA: Al objeto de reducir el riesgo de incendio, choque eléctrico o lesiones personales, desenchufe o desconecte el aparato de la red eléctrica antes de proceder a su mantenimiento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>WARNING&lt;t0/&gt;—Do not use electrical appliances inside the food storage compartments of the appliance unless they are of the type recommended by the manufacturer.</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220521T080929Z" creationid="waddasauria" creationdate="20220521T080148Z">
@@ -714,10 +1607,90 @@ l</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>WHEN THE UNIT IS PLACED IN AN AREA WHERE THE TEMPERATURE DROPS LOWER THAN 50ºF (10ºC), SET THE TEMPERATURE CONTROLS SELECTORS TO “MAX” IN BOTH THE REFRIGERATOR AND FREEZER SECTIONS.</seg>
+      </tuv>
+      <tuv lang="es" changeid="waddasauria" changedate="20220504T145752Z" creationid="waddasauria" creationdate="20220504T145752Z">
+        <seg>CUANDO LA UNIDAD SE COLOQUE EN UN ESPACIO DONDE LA TEMPERATURA BAJE MÁS DE DIEZ GRADOS, AJUSTE LOS CONTROLES DEL SELECTOR DE TEMPERATURA AL "MÁXIMO" TANTO EN EL FRIGORÍFICO COMO EN LAS SECCIONES DEL CONGELADOR.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Wash the inside surfaces with a warm water and baking soda solution.</seg>
+      </tuv>
+      <tuv lang="es" changeid="waddasauria" changedate="20220504T180412Z" creationid="waddasauria" creationdate="20220504T180412Z">
+        <seg>Limpia las superficies interiores con agua caliente y biscarbonato de sodio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When a standard 2 pins wall outlet is encountered, it is your responsibility and obligation to have it replaced with a properly grounded 3 pins wall outlet.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Lenovo" changedate="20220518T105617Z" creationid="Lenovo" creationdate="20220518T105617Z">
+        <seg>Si se encuentra un enchufe de pared estándar de 2 pines, será su responsabilidad y obligación reemplazarlo por  un enchufe de pared de 3 pines debidamente conectado a tierra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When retuning from shopping, sort foods to be kept in your Fridge before opening the door.</seg>
+      </tuv>
+      <tuv lang="es" changeid="waddasauria" changedate="20220504T154414Z" creationid="waddasauria" creationdate="20220504T154414Z">
+        <seg>Cuando vuelva de hacer la compra, clasifique la comida que va a guardar en su frigorífico antes de abrir la puerta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Where to store your foods in the fridge</seg>
+      </tuv>
+      <tuv lang="es" changeid="waddasauria" changedate="20220504T154459Z" creationid="waddasauria" creationdate="20220504T154459Z">
+        <seg>Dónde guardar su comida en el frigorífico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Wine Cooler does not operate.</seg>
+      </tuv>
+      <tuv lang="es" changeid="waddasauria" changedate="20220504T180752Z" creationid="waddasauria" creationdate="20220504T180752Z">
+        <seg>El enfriador de vinos no funciona. .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Wine Cooler is not cold enough.</seg>
+      </tuv>
+      <tuv lang="es" changeid="waddasauria" changedate="20220504T181143Z" creationid="waddasauria" creationdate="20220504T181143Z">
+        <seg>El enfriador de vinos no está lo suficientemente frío. .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Wire Freezer Shelf</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220521T094051Z" creationid="waddasauria" creationdate="20220521T094051Z">
         <seg>Estante de alambre para congelados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Wrap up food!</seg>
+      </tuv>
+      <tuv lang="es" changeid="waddasauria" changedate="20220504T153233Z" creationid="waddasauria" creationdate="20220504T153233Z">
+        <seg>¡Envuelva la comida!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You could only set the temperature when the number “flash”.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Lenovo" changedate="20220519T145415Z" creationid="Lenovo" creationdate="20220519T145415Z">
+        <seg>Solo se podrá ajustar la temperatura cuando el número "parpadee".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Your refrigerator has a separate control for regulating the temperature for each section independently.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Lenovo" changedate="20220518T103600Z" creationid="Lenovo" creationdate="20220518T103600Z">
+        <seg>Su frigorífico tiene un control separado para regular la temperatura de cada sección de forma independiente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -803,6 +1776,46 @@ l</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>·Desserts, eg.</seg>
+      </tuv>
+      <tuv lang="es" changeid="waddasauria" changedate="20220504T160854Z" creationid="waddasauria" creationdate="20220504T160854Z">
+        <seg>·Postres, por ejemplo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>·Pre-cooked chilled foods, eg.</seg>
+      </tuv>
+      <tuv lang="es" changeid="waddasauria" changedate="20220504T155837Z" creationid="waddasauria" creationdate="20220504T155837Z">
+        <seg>·Comidas precocinadas, por ejemplo, eg.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>·Pre-cooked meats eg.</seg>
+      </tuv>
+      <tuv lang="es" changeid="waddasauria" changedate="20220504T160801Z" creationid="waddasauria" creationdate="20220504T160801Z">
+        <seg>. Carnes precocinadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>·Prepared salads(including pre-packed mixed green salads, rice, potato salad etc).</seg>
+      </tuv>
+      <tuv lang="es" changeid="waddasauria" changedate="20220504T160845Z" creationid="waddasauria" creationdate="20220504T160845Z">
+        <seg>·Ensaladas preparadas (incluyendo ensaladas envasadas, arroz, ensalada de patata, etc).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>·Raw and uncooked foods should always be wrapped.</seg>
+      </tuv>
+      <tuv lang="es" changeid="waddasauria" changedate="20220504T155811Z" creationid="waddasauria" creationdate="20220504T155811Z">
+        <seg>· Los alimentos crudos y sin cocer siempre deben envolverse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>– bed and breakfast type environments.</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220521T082459Z" creationid="waddasauria" creationdate="20220521T082459Z">
@@ -849,6 +1862,102 @@ l</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220521T080542Z" creationid="waddasauria" creationdate="20220521T080542Z">
         <seg>• Retire la puerta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>℃/℉ Display</seg>
+      </tuv>
+      <tuv lang="es" changeid="Lenovo" changedate="20220518T101045Z" creationid="Lenovo" creationdate="20220518T101045Z">
+        <seg>℃ / Pantalla ℉</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>①Cabinet</seg>
+      </tuv>
+      <tuv lang="es" changeid="true" changedate="20220515T230040Z" creationid="true" creationdate="20220515T230040Z">
+        <seg>①Gabinete</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>②Glass door</seg>
+      </tuv>
+      <tuv lang="es" changeid="true" changedate="20220515T230250Z" creationid="true" creationdate="20220515T230250Z">
+        <seg>②Puerta de cristal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>③Handle</seg>
+      </tuv>
+      <tuv lang="es" changeid="true" changedate="20220515T230106Z" creationid="true" creationdate="20220515T230106Z">
+        <seg>③Mango</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>④Shelf</seg>
+      </tuv>
+      <tuv lang="es" changeid="true" changedate="20220515T230116Z" creationid="true" creationdate="20220515T230116Z">
+        <seg>④Estantería</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>⑤Control panel</seg>
+      </tuv>
+      <tuv lang="es" changeid="true" changedate="20220515T230124Z" creationid="true" creationdate="20220515T230124Z">
+        <seg>⑤Panel de control</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>⑥Upper drawer</seg>
+      </tuv>
+      <tuv lang="es" changeid="true" changedate="20220515T230139Z" creationid="true" creationdate="20220515T230139Z">
+        <seg>⑥Cajón superior</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>⑦Handle of upper drawer</seg>
+      </tuv>
+      <tuv lang="es" changeid="true" changedate="20220515T230154Z" creationid="true" creationdate="20220515T230154Z">
+        <seg>⑦Mango del cajón superior</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>⑧Down drawer</seg>
+      </tuv>
+      <tuv lang="es" changeid="true" changedate="20220515T230202Z" creationid="true" creationdate="20220515T230202Z">
+        <seg>⑧Cajón inferior</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>⑩Ventilator</seg>
+      </tuv>
+      <tuv lang="es" changeid="true" changedate="20220515T230312Z" creationid="true" creationdate="20220515T230312Z">
+        <seg>⑩Ventilador</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>⑾&lt;t0/&gt;Leveling legs</seg>
+      </tuv>
+      <tuv lang="es" changeid="true" changedate="20220515T230332Z" creationid="true" creationdate="20220515T230332Z">
+        <seg>⑾&lt;t0/&gt;Patas niveladoras</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;t0/&gt;WARNING&lt;t1/&gt;</seg>
+      </tuv>
+      <tuv lang="es" changeid="Lenovo" changedate="20220519T151734Z" creationid="Lenovo" creationdate="20220519T151734Z">
+        <seg>&lt;t0/&gt;ADVERTENCIA&lt;t1/&gt;</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
