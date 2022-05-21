@@ -676,6 +676,14 @@ l</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Consult Repair Manual/Owner’s Guide Before Attempting To Service This Product.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Lenovo" changedate="20220521T151408Z" creationid="Lenovo" creationdate="20220521T151408Z">
+        <seg>Consulte el manual de reparación/guía del usuario antes de intentar reparar este producto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Consult a qualified electrician or service person if</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220521T084336Z" creationid="waddasauria" creationdate="20220521T084336Z">
