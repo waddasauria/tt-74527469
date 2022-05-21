@@ -2476,6 +2476,14 @@ l</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Repairs when your wine cooler is used for other than normal, single-family household use or when it is used  in a manner that is contrary to published user or operator instructions and/or installation instructions.</seg>
+      </tuv>
+      <tuv lang="es" changeid="true" changedate="20220521T184349Z" creationid="true" creationdate="20220521T184349Z">
+        <seg>Reparaciones cuando su enfriadora de vino se utilice para un uso distinto al normal de un hogar unifamiliar o cuando se utilice de forma contraria a las instrucciones de uso o de instalación publicadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Replace with LED light that is the same shape and size.</seg>
       </tuv>
       <tuv lang="es" changeid="Lenovo" changedate="20220521T104416Z" creationid="Lenovo" creationdate="20220521T104416Z">
