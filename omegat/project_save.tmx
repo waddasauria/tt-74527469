@@ -1295,6 +1295,14 @@ l</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>List of will occur problems that you can fix it yourself.</seg>
+      </tuv>
+      <tuv lang="es" changeid="true" changedate="20220521T120739Z" creationid="true" creationdate="20220521T120739Z">
+        <seg>Lista de los problemas que se producirán y que puedes arreglar tú mismo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Locate the refrigerator away from direct sunlight and sources of heat (stove, heater, radiator, etc.).</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220521T094406Z" creationid="waddasauria" creationdate="20220521T094406Z">
@@ -1307,6 +1315,14 @@ l</seg>
       </tuv>
       <tuv lang="es" changeid="Lenovo" changedate="20220521T120000Z" creationid="Lenovo" creationdate="20220521T120000Z">
         <seg>Correo ellectrónico: meilingkf@163.com</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Main Structure Of Product</seg>
+      </tuv>
+      <tuv lang="es" changeid="true" changedate="20220521T120750Z" creationid="true" creationdate="20220521T120750Z">
+        <seg>Estructura principal del producto</seg>
       </tuv>
     </tu>
     <tu>
@@ -2510,6 +2526,14 @@ El ajuste en la sección del congelador está entre "MIN" y "MAX" en la nevera
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220505T072602Z" creationid="waddasauria" creationdate="20220505T072602Z">
         <seg>Vibraciones</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>View of the appliance</seg>
+      </tuv>
+      <tuv lang="es" changeid="true" changedate="20220521T120814Z" creationid="true" creationdate="20220521T120814Z">
+        <seg>Presentación del aparato</seg>
       </tuv>
     </tu>
     <tu>
