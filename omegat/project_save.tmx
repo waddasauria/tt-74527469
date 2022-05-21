@@ -1005,6 +1005,14 @@ l</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Ensure that the unit is adequately ventilated.</seg>
+      </tuv>
+      <tuv lang="es" changeid="true" changedate="20220521T145412Z" creationid="true" creationdate="20220521T145412Z">
+        <seg>Asegúrese de que se ventila adecuadamente el aparato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>External environment may require a higher setting.</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220504T181242Z" creationid="waddasauria" creationdate="20220504T181242Z">
@@ -2310,8 +2318,8 @@ l</seg>
       <tuv lang="en">
         <seg>The Wine Cooler should be located in the coolest area of the room, away from heat producing appliances, and out of the direct sunlight.</seg>
       </tuv>
-      <tuv lang="es" changeid="true" changedate="20220521T144936Z" creationid="true" creationdate="20220521T144936Z">
-        <seg>El refrigerador de vinos debe situarse en la parte más fresca de la habitación, lejos de los aparatos que producen calor y de la luz solar directa..</seg>
+      <tuv lang="es" changeid="true" changedate="20220521T144943Z" creationid="true" creationdate="20220521T144936Z">
+        <seg>El refrigerador de vinos debe situarse en la parte más fresca de la habitación, lejos de los aparatos que producen calor y de la luz solar directa.</seg>
       </tuv>
     </tu>
     <tu>
