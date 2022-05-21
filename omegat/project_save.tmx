@@ -565,6 +565,14 @@ l</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Do not store inflammable gasses or liquids in the fridge.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Lenovo" changedate="20220521T105431Z" creationid="Lenovo" creationdate="20220521T105431Z">
+        <seg>No almacene gases o líquidos inflamables en el frigorífico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Do not store near gasoline or any other flammable vapors.</seg>
       </tuv>
       <tuv lang="es" changeid="true" changedate="20220515T230028Z" creationid="true" creationdate="20220515T230028Z">
@@ -1805,10 +1813,26 @@ El ajuste en la sección del congelador está entre "MIN" y "MAX" en la nevera
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This will stop them dripping onto, or touching other foods.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Lenovo" changedate="20220521T105350Z" creationid="Lenovo" creationdate="20220521T105350Z">
+        <seg>Esto evitará que goteen o toquen otros alimentos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Tips for keeping food perfect in the Fridge</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220504T145847Z" creationid="waddasauria" creationdate="20220504T145847Z">
         <seg>Consejos para mantener la comida perfecta en el frigorífico. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Tips for shopping for frozen foods</seg>
+      </tuv>
+      <tuv lang="es" changeid="Lenovo" changedate="20220521T105459Z" creationid="Lenovo" creationdate="20220521T105459Z">
+        <seg>Consejos para comprar alimentos congelados</seg>
       </tuv>
     </tu>
     <tu>
@@ -2040,6 +2064,14 @@ El ajuste en la sección del congelador está entre "MIN" y "MAX" en la nevera
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>When you are buying frozen food, look at the Storage Guidelines on the packaging.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Lenovo" changedate="20220521T105548Z" creationid="Lenovo" creationdate="20220521T105548Z">
+        <seg>Cuando compre alimentos congelados, fíjese en las normas de conservación que figuran en el envase.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Where to store your foods in the fridge</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220504T154459Z" creationid="waddasauria" creationdate="20220504T154459Z">
@@ -2092,6 +2124,14 @@ El ajuste en la sección del congelador está entre "MIN" y "MAX" en la nevera
       </tuv>
       <tuv lang="es" changeid="Lenovo" changedate="20220519T145415Z" creationid="Lenovo" creationdate="20220519T145415Z">
         <seg>Solo se podrá ajustar la temperatura cuando el número "parpadee".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Your Freezer is 4 star</seg>
+      </tuv>
+      <tuv lang="es" changeid="Lenovo" changedate="20220521T105617Z" creationid="Lenovo" creationdate="20220521T105617Z">
+        <seg>Su congelador es de 4 estrellas</seg>
       </tuv>
     </tu>
     <tu>
