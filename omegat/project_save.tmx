@@ -909,6 +909,14 @@ l</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Do not open the Fridge/Freezer door more than necessary.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Lenovo" changedate="20220521T161604Z" creationid="Lenovo" creationdate="20220521T161604Z">
+        <seg>No abra la puerta del frigorífico/congelador más de lo necesario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Do not place overfull loading of the bottles onto one shelf to avoid damaging the shelf and affect the temperature for wine cooler.</seg>
       </tuv>
       <tuv lang="es" changeid="true" changedate="20220521T141942Z" creationid="true" creationdate="20220521T141908Z">
@@ -2488,6 +2496,14 @@ l</seg>
       </tuv>
       <tuv lang="es" changeid="Lenovo" changedate="20220521T114719Z" creationid="Lenovo" creationdate="20220521T114719Z">
         <seg>Descongelación de alimentos congelados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Fridge/Freezer is exceptionally cold</seg>
+      </tuv>
+      <tuv lang="es" changeid="Lenovo" changedate="20220521T161658Z" creationid="Lenovo" creationdate="20220521T161658Z">
+        <seg>El frigorífico/congelador está excepcionalmente frío</seg>
       </tuv>
     </tu>
     <tu>
