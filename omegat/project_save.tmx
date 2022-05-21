@@ -549,6 +549,14 @@ l</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Do not use an extension cord with this appliance.</seg>
+      </tuv>
+      <tuv lang="es" changeid="waddasauria" changedate="20220521T103550Z" creationid="waddasauria" creationdate="20220521T103550Z">
+        <seg>No utilice una alargadera con este electrodoméstico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Do not use extension cords or ungrounded (two prong) adapters.</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220521T073841Z" creationid="waddasauria" creationdate="20220521T073841Z">
@@ -745,6 +753,14 @@ l</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220521T073922Z" creationid="waddasauria" creationdate="20220521T073922Z">
         <seg>Si el cable de alimentación es demasiado corto, llame a un electricista cualificado para que instale una toma de corriente cerca de su frigorífico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the power cord is too short, have a qualified electrician or service technician install an outlet near the appliance.</seg>
+      </tuv>
+      <tuv lang="es" changeid="waddasauria" changedate="20220521T103633Z" creationid="waddasauria" creationdate="20220521T103633Z">
+        <seg> Si el cable de alimentación es demasiado corto, contacte con un electricista o técnico profesional para que instale una toma de corriente cerca del electrodoméstico.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1472,6 +1488,15 @@ El ajuste en la sección del congelador está entre "MIN" y "MAX" en la nevera
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The setting in freezer section between “MIN” and “MAX”  in refrigerator section should be correct for home or office refrigerator use.</seg>
+      </tuv>
+      <tuv lang="es" changeid="waddasauria" changedate="20220521T103820Z" creationid="waddasauria" creationdate="20220521T103820Z">
+        <seg>El ajuste en la sección del congelador entre "MIN" y "MAX" en la sección del frigorífico debe ser el adecuado para el uso del refrigerador en el hogar o en la oficina.
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The temperature control is located at the rear of each section (refrigerator / freezer).</seg>
       </tuv>
       <tuv lang="es" changeid="Lenovo" changedate="20220518T103629Z" creationid="Lenovo" creationdate="20220518T103629Z">
@@ -1680,6 +1705,14 @@ El ajuste en la sección del congelador está entre "MIN" y "MAX" en la nevera
       </tuv>
       <tuv lang="es" changeid="Lenovo" changedate="20220518T101113Z" creationid="Lenovo" creationdate="20220518T101113Z">
         <seg>Arriba</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use of an extension cord can negatively affect the performance of the unit.</seg>
+      </tuv>
+      <tuv lang="es" changeid="waddasauria" changedate="20220521T103720Z" creationid="waddasauria" creationdate="20220521T103720Z">
+        <seg>El uso de una alargadera puede afectar negativamente al rendimiento de la unidad.</seg>
       </tuv>
     </tu>
     <tu>
