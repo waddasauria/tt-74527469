@@ -317,8 +317,8 @@ l</seg>
       <tuv lang="en">
         <seg>Always grip the plug firmly and pull straight out from the receptacle.</seg>
       </tuv>
-      <tuv lang="es" changeid="waddasauria" changedate="20220521T103516Z" creationid="waddasauria" creationdate="20220521T103516Z">
-        <seg>Agarre el enchufe siempre con firmeza y tire directamente del receptáculo.
+      <tuv lang="es" changeid="true" changedate="20220521T122507Z" creationid="waddasauria" creationdate="20220521T103516Z">
+        <seg>Agarre siempre el enchufe con firmeza y retírelo directamente del receptáculo.
 </seg>
       </tuv>
     </tu>
@@ -1495,6 +1495,14 @@ l</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Never unplug the appliance by pulling the power cord.</seg>
+      </tuv>
+      <tuv lang="es" changeid="true" changedate="20220521T122344Z" creationid="true" creationdate="20220521T122344Z">
+        <seg>No desenchufe nunca el aparato tirando del cable de alimentación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Never unplug the refrigerator by pulling the power cord.</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220521T103404Z" creationid="waddasauria" creationdate="20220521T103404Z">
@@ -1751,6 +1759,14 @@ l</seg>
       </tuv>
       <tuv lang="es" changeid="true" changedate="20220521T120336Z" creationid="true" creationdate="20220521T120336Z">
         <seg>Retire el embalaje exterior e interior.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Repair or replace immediately all power cords that have become fray</seg>
+      </tuv>
+      <tuv lang="es" changeid="true" changedate="20220521T122547Z" creationid="true" creationdate="20220521T122547Z">
+        <seg>Repare o sustituya inmediatamente todos los cables de alimentación que se hayan deshilachado</seg>
       </tuv>
     </tu>
     <tu>
