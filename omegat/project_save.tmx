@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>* “CAUTION – Risk Of Fire Or Explosion .Due To Puncture Of Refrigerant Tubing; Follow Handling Instructions Carefully.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Lenovo" changedate="20220521T151728Z" creationid="Lenovo" creationdate="20220521T151728Z">
+        <seg>* “PRECAUCIÓN – Riesgo de incendio o explosión.Debido a la perforación de la tubería de refrigerante; siga cuidadosamente las instrucciones del manual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>* “CAUTION – Risk Of Fire Or Explosion.</seg>
       </tuv>
       <tuv lang="es" changeid="Lenovo" changedate="20220521T120117Z" creationid="Lenovo" creationdate="20220521T120117Z">
@@ -1089,6 +1097,14 @@ l</seg>
       </tuv>
       <tuv lang="es" changeid="Lenovo" changedate="20220521T120156Z" creationid="Lenovo" creationdate="20220521T120156Z">
         <seg>Refrigerante inflamable utilizado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Flammable Refrigerant Used”.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Lenovo" changedate="20220521T151511Z" creationid="Lenovo" creationdate="20220521T151511Z">
+        <seg>Refrigerante inflamable utilizado”.</seg>
       </tuv>
     </tu>
     <tu>
