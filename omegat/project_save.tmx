@@ -2305,6 +2305,14 @@ l</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Products purchased or located outside this area are excluded.</seg>
+      </tuv>
+      <tuv lang="es" changeid="true" changedate="20220521T182807Z" creationid="true" creationdate="20220521T182807Z">
+        <seg>Quedan excluidos los productos adquiridos o ubicados fuera de esta zona.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Proper use of the appliance, adequately packed food, correct temperature and taking into account hygienic precautions will substantially influence the quality of freezing the food or storing of the frozen foods.</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220521T105422Z" creationid="waddasauria" creationdate="20220521T105422Z">
@@ -3231,6 +3239,14 @@ El ajuste en la sección del congelador está entre "MIN" y "MAX" en la nevera
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The warranty does not apply to damage resulting from abuse, accident, natural disaster, loss of electrical power to the product for any reason, alteration, outdoor use, improper installation, and improper operation, repair or service of the product by anyone other than an authorized Thor Group, service agency or representative.</seg>
+      </tuv>
+      <tuv lang="es" changeid="true" changedate="20220521T182927Z" creationid="true" creationdate="20220521T182927Z">
+        <seg>Esta garantía no se aplica a los daños resultantes del maltrato, accidente, desastre natural, pérdida de energía eléctrica del producto por cualquier motivo, alteración, uso en exteriores, instalación incorrecta y funcionamiento, reparación o servicio inadecuados del producto por parte de cualquier persona que no sea un representante o agencia de servicio autorizado de Thor Group..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The wide blade or the third</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220521T064924Z" creationid="waddasauria" creationdate="20220521T064924Z">
@@ -3510,6 +3526,14 @@ El ajuste en la sección del congelador está entre "MIN" y "MAX" en la nevera
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This warranty applies to products purchased and located in the United States.</seg>
+      </tuv>
+      <tuv lang="es" changeid="true" changedate="20220521T182752Z" creationid="true" creationdate="20220521T182752Z">
+        <seg>Esta garantía se aplica a los productos adquiridos y situados en los Estados Unidos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This will help to stop the internal temperature of the Fridge from rising.</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220504T153546Z" creationid="waddasauria" creationdate="20220504T153546Z">
@@ -3538,6 +3562,14 @@ El ajuste en la sección del congelador está entre "MIN" y "MAX" en la nevera
       </tuv>
       <tuv lang="es" changeid="Lenovo" changedate="20220521T105350Z" creationid="Lenovo" creationdate="20220521T105350Z">
         <seg>Esto evitará que goteen o toquen otros alimentos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Thor Group disclaims all express warranties except for the following:</seg>
+      </tuv>
+      <tuv lang="es" changeid="true" changedate="20220521T182606Z" creationid="true" creationdate="20220521T182606Z">
+        <seg>Thor Group rechaza todas las garantías expresas, excepto las siguientes:</seg>
       </tuv>
     </tu>
     <tu>
