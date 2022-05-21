@@ -981,6 +981,14 @@ l</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For example, placing your unit in extreme cod or hot conditions may cause interior temperature to fluctuate.</seg>
+      </tuv>
+      <tuv lang="es" changeid="true" changedate="20220521T132435Z" creationid="true" creationdate="20220521T132435Z">
+        <seg>Por ejemplo, si se coloca la unidad en condiciones de frío o calor extremos, la temperatura interior puede fluctuar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For personal safety, this appliance must be properly grounded.</seg>
       </tuv>
       <tuv lang="es" changeid="true" changedate="20220521T122003Z" creationid="true" creationdate="20220521T122003Z">
@@ -1109,6 +1117,14 @@ l</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Humidity level is between 45~90%.</seg>
+      </tuv>
+      <tuv lang="es" changeid="true" changedate="20220521T132337Z" creationid="true" creationdate="20220521T132337Z">
+        <seg>El nivel de humedad estará entre el 45~90%.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>I&lt;t0/&gt;F THE UNIT IS UNPLUGGED, has LOSt POWER, OR is TURNED OFF, YOU MUST WAIT 3 TO 5 MINUTES BEFORE RESTARTING THE UNIT.</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220521T103940Z" creationid="waddasauria" creationdate="20220521T103940Z">
@@ -1186,6 +1202,14 @@ l</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220521T111306Z" creationid="waddasauria" creationdate="20220521T110811Z">
         <seg>Si la cantidad de producto congelado es excesiva, la calidad de la congelación se reduce, lo cual afecta a la calidad de los alimentos congelados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the position is above or below this range, the performance of the unit may be affected.</seg>
+      </tuv>
+      <tuv lang="es" changeid="true" changedate="20220521T132353Z" creationid="true" creationdate="20220521T132353Z">
+        <seg>Si la posición está por encima o por debajo de este rango, el rendimiento de la unidad puede verse afectado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2000,6 +2024,14 @@ l</seg>
       </tuv>
       <tuv lang="es" changeid="Lenovo" changedate="20220518T100832Z" creationid="Lenovo" creationdate="20220518T100832Z">
         <seg>La pantalla LED mostrará la temperatura de ajuste cuando "parpadee"; La pantalla mostrará la temperatura para la temperatura real del gabinete cuando sea normal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Wine cooler should be placed in a position where the ambient temperature is between 5-38℃/41-100℉.</seg>
+      </tuv>
+      <tuv lang="es" changeid="true" changedate="20220521T132319Z" creationid="true" creationdate="20220521T132319Z">
+        <seg>La enfriadora de vino debe colocarse en una posición en la que la temperatura ambiente esté entre 5-38℃/41-100℉.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3306,6 +3338,14 @@ El ajuste en la sección del congelador está entre "MIN" y "MAX" en la nevera
       </tuv>
       <tuv lang="es" changeid="true" changedate="20220521T115129Z" creationid="true" creationdate="20220521T115129Z">
         <seg>●&lt;t0/&gt; Contenido del paquete de la enfriadora de vinos                   3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>●OPERATING</seg>
+      </tuv>
+      <tuv lang="es" changeid="true" changedate="20220521T132250Z" creationid="true" creationdate="20220521T132250Z">
+        <seg>●FUNCIONAMIENTO</seg>
       </tuv>
     </tu>
     <tu>
