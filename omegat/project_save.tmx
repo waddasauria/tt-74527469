@@ -227,6 +227,14 @@ l</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Description</seg>
+      </tuv>
+      <tuv lang="es" changeid="waddasauria" changedate="20220521T084559Z" creationid="waddasauria" creationdate="20220521T084559Z">
+        <seg>Descripción</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Do not attempt to modify or extend the power cord of your refrigerator.</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220521T065751Z" creationid="waddasauria" creationdate="20220521T065751Z">
@@ -307,6 +315,14 @@ l</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>INTRODUCTION  &lt;t0/&gt;.</seg>
+      </tuv>
+      <tuv lang="es" changeid="waddasauria" changedate="20220521T084528Z" creationid="waddasauria" creationdate="20220521T084528Z">
+        <seg>INTRODUCCIÓN  &lt;t0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If the power cord is too short, have a qualified electrician install an outlet near your refrigerator.</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220521T073922Z" creationid="waddasauria" creationdate="20220521T073922Z">
@@ -343,6 +359,14 @@ l</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220520T161537Z" creationid="waddasauria" creationdate="20220520T161537Z">
         <seg>Instalación                                    5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Interior LED Light</seg>
+      </tuv>
+      <tuv lang="es" changeid="waddasauria" changedate="20220521T084611Z" creationid="waddasauria" creationdate="20220521T084611Z">
+        <seg>Luz LED interior</seg>
       </tuv>
     </tu>
     <tu>
@@ -384,6 +408,14 @@ l</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220521T063153Z" creationid="waddasauria" creationdate="20220521T063153Z">
         <seg>Modelo.:CQRB09Y1GD1RW/CQRB09Y1GD1RS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>No</seg>
+      </tuv>
+      <tuv lang="es" changeid="waddasauria" changedate="20220521T084554Z" creationid="waddasauria" creationdate="20220521T084554Z">
+        <seg>Número</seg>
       </tuv>
     </tu>
     <tu>
@@ -582,6 +614,14 @@ l</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220521T065624Z" creationid="waddasauria" creationdate="20220521T065110Z">
         <seg>sustituir la toma de corriente que ha quedado obsoleta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>the grounding instructions are not completely understood, or if doubt exists as to whether your refrigerator is correctlygrounded.</seg>
+      </tuv>
+      <tuv lang="es" changeid="waddasauria" changedate="20220521T084517Z" creationid="waddasauria" creationdate="20220521T084359Z">
+        <seg>no ha entendido estas instrucciones completamente, o si tiene dudas sobre si la conexión a tierra de su frigorífico es correcta.</seg>
       </tuv>
     </tu>
     <tu>
