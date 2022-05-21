@@ -226,6 +226,15 @@ l</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>After plugging the appliance into a wall outlet, turn the unit on and allow the unit to cool down for 2~3 hours under before placing food in the refrigerator or freezer compartment.</seg>
+      </tuv>
+      <tuv lang="es" changeid="waddasauria" changedate="20220521T101520Z" creationid="waddasauria" creationdate="20220521T101520Z">
+        <seg>Después de conectar el electrodomésctico a una toma de corriente, enciendalo y  deje que se enfríe durante 2~3 horas antes de colocar los alimentos en el compartimento del frigorífico o del congelador.
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>All refrigeration products contain refrigerants, which under the guidelines of federal law must be removed before disposal.</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220521T082057Z" creationid="waddasauria" creationdate="20220521T081952Z">
@@ -675,6 +684,14 @@ l</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If the Fridge/Freezer is not level, the door and magnetic seal alignment will be affected and may cause you Fridge/Freezer to work incorrectly.</seg>
+      </tuv>
+      <tuv lang="es" changeid="waddasauria" changedate="20220521T101644Z" creationid="waddasauria" creationdate="20220521T101644Z">
+        <seg>Si el Frigorífico/Congelador no está nivelado, la alineación de la puerta y de la junta magnética se verán afectadas, lo que puede hacer que su Frigorífico/Congelador funcione mal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If the appliance is switched off at any time, wait 30 minutes before switching back on to allow the coolant fluid to settle.</seg>
       </tuv>
       <tuv lang="es" changeid="Lenovo" changedate="20220518T104420Z" creationid="Lenovo" creationdate="20220518T104420Z">
@@ -808,6 +825,14 @@ l</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220504T152943Z" creationid="waddasauria" creationdate="20220504T152943Z">
         <seg>Deje espacio entre los alimentos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Leveling the Fridge/Freezer</seg>
+      </tuv>
+      <tuv lang="es" changeid="waddasauria" changedate="20220521T101539Z" creationid="waddasauria" creationdate="20220521T101539Z">
+        <seg>Nivelado del frigorífico/congelador</seg>
       </tuv>
     </tu>
     <tu>
