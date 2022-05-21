@@ -519,8 +519,8 @@ l</seg>
       <tuv lang="en">
         <seg>Contents                                     Page#</seg>
       </tuv>
-      <tuv lang="es" changeid="waddasauria" changedate="20220520T162020Z" creationid="waddasauria" creationdate="20220520T162020Z">
-        <seg>Contenidos                                    Page#</seg>
+      <tuv lang="es" changeid="true" changedate="20220521T115026Z" creationid="waddasauria" creationdate="20220520T162020Z">
+        <seg>Contenidos                                    Página#</seg>
       </tuv>
     </tu>
     <tu>
@@ -1095,6 +1095,14 @@ l</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Main structure of Product                       4</seg>
+      </tuv>
+      <tuv lang="es" changeid="true" changedate="20220521T115215Z" creationid="true" creationdate="20220521T115215Z">
+        <seg>Estructura principal del producto                   4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Make sure that the available AC power matches the voltage requirements of your refrigerator.</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220521T065936Z" creationid="waddasauria" creationdate="20220521T065936Z">
@@ -1504,6 +1512,14 @@ l</seg>
       </tuv>
       <tuv lang="es" changeid="Lenovo" changedate="20220521T111724Z" creationid="Lenovo" creationdate="20220521T111724Z">
         <seg>Almacene los alimentos directamente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>TABLE OF CONTENTS</seg>
+      </tuv>
+      <tuv lang="es" changeid="true" changedate="20220521T115017Z" creationid="true" creationdate="20220521T115017Z">
+        <seg>ÍNDICE</seg>
       </tuv>
     </tu>
     <tu>
@@ -2666,6 +2682,22 @@ El ajuste en la sección del congelador está entre "MIN" y "MAX" en la nevera
       </tuv>
       <tuv lang="es" changeid="true" changedate="20220515T230332Z" creationid="true" creationdate="20220515T230332Z">
         <seg>⑾&lt;t0/&gt;Patas niveladoras</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>● &lt;t0/&gt;Important Safety Instructions                    3</seg>
+      </tuv>
+      <tuv lang="es" changeid="true" changedate="20220521T115152Z" creationid="true" creationdate="20220521T115152Z">
+        <seg>● &lt;t0/&gt;Instrucciones importantes de seguridad                   3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>●&lt;t0/&gt; wine Cooler package Contents                   3</seg>
+      </tuv>
+      <tuv lang="es" changeid="true" changedate="20220521T115129Z" creationid="true" creationdate="20220521T115129Z">
+        <seg>●&lt;t0/&gt; Contenido del paquete de la enfriadora de vinos                   3</seg>
       </tuv>
     </tu>
     <tu>
