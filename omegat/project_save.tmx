@@ -54,6 +54,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A grounding type plug has two blades and a third grounding prong.</seg>
+      </tuv>
+      <tuv lang="es" changeid="waddasauria" changedate="20220521T064916Z" creationid="waddasauria" creationdate="20220521T064916Z">
+        <seg>Un enchufe con toma de tierra tiene dos clavijas  y una tercera clavija de conexión a tierra. .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A polarized plug has two blades with one</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220521T064815Z" creationid="waddasauria" creationdate="20220521T064445Z">
