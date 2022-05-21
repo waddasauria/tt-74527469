@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.0_0_8ae1ecfb" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -464,6 +464,14 @@ l</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220521T074307Z" creationid="waddasauria" creationdate="20220521T074307Z">
         <seg>Los niños deben ser supervisados para asegurar que no jueguen con el frigorífico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Choose packs carefully</seg>
+      </tuv>
+      <tuv lang="es" changeid="Lenovo" changedate="20220521T110557Z" creationid="Lenovo" creationdate="20220521T110557Z">
+        <seg>Elija bien los envases</seg>
       </tuv>
     </tu>
     <tu>
@@ -1063,6 +1071,14 @@ l</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Make sure the frozen food package is in perfect condition.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Lenovo" changedate="20220521T111021Z" creationid="Lenovo" creationdate="20220521T111021Z">
+        <seg>Asegúrese de que el paquete de alimentos congelados está en perfecto estado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Mark packages with following data: kind and amount of foods and the date of loading.</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220521T110819Z" creationid="waddasauria" creationdate="20220521T110728Z">
@@ -1278,6 +1294,14 @@ l</seg>
       <tuv lang="es" changeid="waddasauria" changedate="20220521T065721Z" creationid="waddasauria" creationdate="20220521T065721Z">
         <seg> Proteja el cable de alimentación para que nadie lo pise pellizque, sobre todo en los enchufes, en las tomas de corriente y en el punto en el que sale del frigorífico.
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Purchase frozen food last</seg>
+      </tuv>
+      <tuv lang="es" changeid="Lenovo" changedate="20220521T110916Z" creationid="Lenovo" creationdate="20220521T110916Z">
+        <seg>Compre en último lugar los alimentos congelados</seg>
       </tuv>
     </tu>
     <tu>
