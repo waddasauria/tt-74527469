@@ -70,6 +70,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>2.Leave the shelves in place so that children cannot climb inside.</seg>
+      </tuv>
+      <tuv lang="es" changeid="true" changedate="20220521T120030Z" creationid="true" creationdate="20220521T120030Z">
+        <seg>2.Deja los estantes en su sitio de modo que los niños no puedan trepar por su interior.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>2.WARNING&lt;t0/&gt;–Do not touch the interior of your refrigerator with wet hands.</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220521T074638Z" creationid="waddasauria" creationdate="20220521T074638Z">
@@ -356,6 +364,22 @@ l</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Before Using Your Wine Cooler</seg>
+      </tuv>
+      <tuv lang="es" changeid="true" changedate="20220521T120321Z" creationid="true" creationdate="20220521T120321Z">
+        <seg>Antes de usar su enfriadora de vino</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Before connecting the wine cooler to power source, let it stand upright for approximately 2 hours.</seg>
+      </tuv>
+      <tuv lang="es" changeid="true" changedate="20220521T120404Z" creationid="true" creationdate="20220521T120404Z">
+        <seg>Antes de conectar la enfriadora de vino a la fuente de alimentación, déjela en posición vertical durante aproximadamente 2 horas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Before filling your Fridge/Freezer</seg>
       </tuv>
       <tuv lang="es" changeid="Lenovo" changedate="20220518T102846Z" creationid="Lenovo" creationdate="20220518T102846Z">
@@ -406,8 +430,8 @@ l</seg>
       <tuv lang="en">
         <seg>Before you throw away your old wine cooler:1.take off the door.</seg>
       </tuv>
-      <tuv lang="es" changeid="true" changedate="20220515T225558Z" creationid="true" creationdate="20220515T225558Z">
-        <seg>Antes de tirar tu vieja nevera de vino:1. Desmonta la puerta.</seg>
+      <tuv lang="es" changeid="true" changedate="20220521T115957Z" creationid="true" creationdate="20220515T225558Z">
+        <seg>Antes de tirar tu vieja enfriadora de vino:1. Desmonta la puerta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -484,6 +508,14 @@ l</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Check the Troubleshooting Guide at the back of this manual.</seg>
+      </tuv>
+      <tuv lang="es" changeid="true" changedate="20220521T120722Z" creationid="true" creationdate="20220521T120722Z">
+        <seg>Consulte la Guía de resolución de problemas en la parte posterior de este manual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Check the temperature control setting.</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220504T181219Z" creationid="waddasauria" creationdate="20220504T181219Z">
@@ -520,6 +552,14 @@ l</seg>
       </tuv>
       <tuv lang="es" changeid="Lenovo" changedate="20220521T110557Z" creationid="Lenovo" creationdate="20220521T110557Z">
         <seg>Elija bien los envases</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Clean the interior surface with lukewarm water using a soft cloth.</seg>
+      </tuv>
+      <tuv lang="es" changeid="true" changedate="20220521T120646Z" creationid="true" creationdate="20220521T120646Z">
+        <seg>Limpie la superficie interior con agua tibia utilizando un paño suave.</seg>
       </tuv>
     </tu>
     <tu>
@@ -597,6 +637,14 @@ l</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>DANGER: Risk of child becoming trapped in new wine cooler, old wine cooler/refrigeration unit, or large boxes.</seg>
+      </tuv>
+      <tuv lang="es" changeid="true" changedate="20220521T115923Z" creationid="true" creationdate="20220521T115923Z">
+        <seg>PELIGRO: Existe el riesgo de que el niño quede atrapado en la enfriadora de vino nueva, en la enfriadora/nevera de vino vieja o en las cajas más grandes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>DO NOT SWITCH ON UNTIL FOUR HOURS AFTER MOVING THE FRIDGE/FREEZER.</seg>
       </tuv>
       <tuv lang="es" changeid="Lenovo" changedate="20220518T104729Z" creationid="Lenovo" creationdate="20220518T104729Z">
@@ -649,6 +697,14 @@ l</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220521T063952Z" creationid="waddasauria" creationdate="20220521T063952Z">
         <seg>No lo instale cerca de ninguna fuente de calor, como radiadores, calefactores, estufas u otros aparatos (incluyendo disipadores de calor) que produzcan calor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Do not store in the vicinity of any other appliance.</seg>
+      </tuv>
+      <tuv lang="es" changeid="true" changedate="20220521T120242Z" creationid="true" creationdate="20220521T120242Z">
+        <seg>No lo almacene cerca de ningún otro electrodoméstico.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1563,6 +1619,14 @@ l</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Remove the exterior and interior packaging.</seg>
+      </tuv>
+      <tuv lang="es" changeid="true" changedate="20220521T120336Z" creationid="true" creationdate="20220521T120336Z">
+        <seg>Retire el embalaje exterior e interior.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Replace with LED light that is the same shape and size.</seg>
       </tuv>
       <tuv lang="es" changeid="Lenovo" changedate="20220521T104416Z" creationid="Lenovo" creationdate="20220521T104416Z">
@@ -1591,6 +1655,14 @@ l</seg>
       </tuv>
       <tuv lang="es" changeid="Lenovo" changedate="20220521T104748Z" creationid="Lenovo" creationdate="20220521T104748Z">
         <seg>Papelera para ensalada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Save These Instructions</seg>
+      </tuv>
+      <tuv lang="es" changeid="true" changedate="20220521T120706Z" creationid="true" creationdate="20220521T120706Z">
+        <seg>Guárdese estas instrucciones</seg>
       </tuv>
     </tu>
     <tu>
@@ -1847,8 +1919,8 @@ l</seg>
       <tuv lang="en">
         <seg>The fumes can create a fire hazard or explosion.</seg>
       </tuv>
-      <tuv lang="es" changeid="true" changedate="20220515T225740Z" creationid="true" creationdate="20220515T225740Z">
-        <seg>Los humos pueden crear un peligro de incendio o explosión.</seg>
+      <tuv lang="es" changeid="true" changedate="20220521T120258Z" creationid="true" creationdate="20220515T225740Z">
+        <seg>Los humos podrían crear un peligro de incendio o explosión.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2203,6 +2275,14 @@ El ajuste en la sección del congelador está entre "MIN" y "MAX" en la nevera
       </tuv>
       <tuv lang="es" changeid="Lenovo" changedate="20220521T115705Z" creationid="Lenovo" creationdate="20220521T115705Z">
         <seg>Esto reducirá la temperatura en el Congelador (aproximadamente -30℃), congelando su comida más rápido y ayudando a mantener su calidad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This will reduce the possibility of a malfunction in the cooling system from handling during transportation.</seg>
+      </tuv>
+      <tuv lang="es" changeid="true" changedate="20220521T120554Z" creationid="true" creationdate="20220521T120554Z">
+        <seg>Esto reducirá la posibilidad de que haya una avería en el sistema de refrigeración por la manipulación durante el transporte.</seg>
       </tuv>
     </tu>
     <tu>
