@@ -56,8 +56,8 @@
       <tuv lang="en">
         <seg>A grounding type plug has two blades and a third grounding prong.</seg>
       </tuv>
-      <tuv lang="es" changeid="waddasauria" changedate="20220521T064916Z" creationid="waddasauria" creationdate="20220521T064916Z">
-        <seg>Un enchufe con toma de tierra tiene dos clavijas  y una tercera clavija de conexión a tierra. .</seg>
+      <tuv lang="es" changeid="waddasauria" changedate="20220521T064946Z" creationid="waddasauria" creationdate="20220521T064916Z">
+        <seg>Un enchufe con toma de tierra tiene tres clavijas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -108,6 +108,14 @@
       </tuv>
       <tuv lang="es" changeid="Lenovo" changedate="20220520T161734Z" creationid="Lenovo" creationdate="20220520T161734Z">
         <seg>MANUAL DE INSTRUCCIONES</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the provided plug does not fit into your outlet, consult an electrician for</seg>
+      </tuv>
+      <tuv lang="es" changeid="waddasauria" changedate="20220521T065117Z" creationid="waddasauria" creationdate="20220521T065047Z">
+        <seg>Si el enchufe incluído no encaja en su toma de corriente, consulte a un electricista para </seg>
       </tuv>
     </tu>
     <tu>
@@ -168,10 +176,34 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The wide blade or the third</seg>
+      </tuv>
+      <tuv lang="es" changeid="waddasauria" changedate="20220521T064924Z" creationid="waddasauria" creationdate="20220521T064924Z">
+        <seg>La clavija ancha o la tercera</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>WARNING 1 Read these instructions&lt;t0/&gt;.</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220521T063247Z" creationid="waddasauria" creationdate="20220521T063247Z">
         <seg>ADVERTENCIA 1 Lea estas instrucciones&lt;t0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>prong is provided for your safety.</seg>
+      </tuv>
+      <tuv lang="es" changeid="waddasauria" changedate="20220521T065025Z" creationid="waddasauria" creationdate="20220521T065025Z">
+        <seg>clavija se proporciona por su seguridad. .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>replacement of the obsolete outlet.</seg>
+      </tuv>
+      <tuv lang="es" changeid="waddasauria" changedate="20220521T065110Z" creationid="waddasauria" creationdate="20220521T065110Z">
+        <seg>sustituis la toma de corriente que ha quedado obsoleta.</seg>
       </tuv>
     </tu>
     <tu>
