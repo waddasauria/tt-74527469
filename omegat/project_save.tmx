@@ -878,6 +878,14 @@ l</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If there are instructions on the packet, carefully follow these instructions regarding storage times.</seg>
+      </tuv>
+      <tuv lang="es" changeid="waddasauria" changedate="20220521T110314Z" creationid="waddasauria" creationdate="20220521T110314Z">
+        <seg>Si hay instrucciones  respecto al tiempo de almacenamiento en el paquete, sigalas cuidadosamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Improper use of the grounded plug can result in the risk of electrical shock.</seg>
       </tuv>
       <tuv lang="es" changeid="Lenovo" changedate="20220518T103047Z" creationid="Lenovo" creationdate="20220518T103047Z">
