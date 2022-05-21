@@ -210,6 +210,14 @@ l</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Ambient temperature below 50°F or above 85°F will hinder the performance of this appliance.</seg>
+      </tuv>
+      <tuv lang="es" changeid="waddasauria" changedate="20220521T094737Z" creationid="waddasauria" creationdate="20220521T094737Z">
+        <seg>La  temperatura ambiente inferior a 10º o superior a 29º dificultará el funcionamiento del electrodoméstico. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Before you throw away your old refrigerator:</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220521T080531Z" creationid="waddasauria" creationdate="20220521T080531Z">
@@ -279,6 +287,14 @@ l</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220521T084559Z" creationid="waddasauria" creationdate="20220521T084559Z">
         <seg>Descripción</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Direct sunlight may affect the acrylic coating and heat sources may increase electrical consumption.</seg>
+      </tuv>
+      <tuv lang="es" changeid="waddasauria" changedate="20220521T094442Z" creationid="waddasauria" creationdate="20220521T094442Z">
+        <seg>La luz solar directa puede afectar al revestimiento acrílico y las fuentes de calor pueden aumentar el consumo eléctrico. .</seg>
       </tuv>
     </tu>
     <tu>
@@ -472,6 +488,14 @@ l</seg>
       </tuv>
       <tuv lang="es" changeid="true" changedate="20220520T161702Z" creationid="true" creationdate="20220520T161702Z">
         <seg>Luz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Locate the refrigerator away from direct sunlight and sources of heat (stove, heater, radiator, etc.).</seg>
+      </tuv>
+      <tuv lang="es" changeid="waddasauria" changedate="20220521T094406Z" creationid="waddasauria" creationdate="20220521T094406Z">
+        <seg>Coloque el frigorífico  lejos de la luz solar directa y de fuentes de calor (estufa, calentador, radiador, etc.). .</seg>
       </tuv>
     </tu>
     <tu>
