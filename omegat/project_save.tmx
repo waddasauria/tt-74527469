@@ -958,6 +958,14 @@ l</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Do not place your Fridge/Freezer near a heat source, eg.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Lenovo" changedate="20220521T163423Z" creationid="Lenovo" creationdate="20220521T163423Z">
+        <seg>No coloque el frigorífico/congelador cerca de una fuente de calor, por ejemplo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Do not store in the vicinity of any other appliance.</seg>
       </tuv>
       <tuv lang="es" changeid="true" changedate="20220521T120242Z" creationid="true" creationdate="20220521T120242Z">
@@ -1355,6 +1363,15 @@ l</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220521T084025Z" creationid="waddasauria" creationdate="20220521T083951Z">
         <seg>Requisitos de toma de tierra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>HUMMING, PURRING OR PULSATING</seg>
+      </tuv>
+      <tuv lang="es" changeid="Lenovo" changedate="20220521T163155Z" creationid="Lenovo" creationdate="20220521T163155Z">
+        <seg>ZUMBIDO, RONRONEO O PULSACIONES
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -1803,6 +1820,15 @@ l</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Location</seg>
+      </tuv>
+      <tuv lang="es" changeid="Lenovo" changedate="20220521T163345Z" creationid="Lenovo" creationdate="20220521T163345Z">
+        <seg>Ubicación
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Long absences: If the appliance will not be used for several months, remove all items, turn off the appliance and unplug.</seg>
       </tuv>
       <tuv lang="es" changeid="true" changedate="20220521T143806Z" creationid="true" creationdate="20220521T143806Z">
@@ -1911,6 +1937,15 @@ l</seg>
       </tuv>
       <tuv lang="es" changeid="true" changedate="20220521T144034Z" creationid="true" creationdate="20220521T144034Z">
         <seg>Cómo trasladar la enfriadora de vinos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Moving the Fridge/Freezer</seg>
+      </tuv>
+      <tuv lang="es" changeid="Lenovo" changedate="20220521T163328Z" creationid="Lenovo" creationdate="20220521T163328Z">
+        <seg>Desplazamiento del frigorífico/congelador
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -3213,6 +3248,15 @@ El ajuste en la sección del congelador está entre "MIN" y "MAX" en la nevera
       </tuv>
       <tuv lang="es" changeid="Lenovo" changedate="20220521T163133Z" creationid="Lenovo" creationdate="20220521T163133Z">
         <seg>No se trata de una avería y no afecta al rendimiento de su frigorífico/congelador.
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This is the compressor motor working, as it pumps the refrigerant around the system.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Lenovo" changedate="20220521T163302Z" creationid="Lenovo" creationdate="20220521T163302Z">
+        <seg>Se trata del funcionamiento del motor del compresor, que bombea el refrigerante por el sistema.
 </seg>
       </tuv>
     </tu>
