@@ -2772,6 +2772,14 @@ El ajuste en la sección del congelador está entre "MIN" y "MAX" en la nevera
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>They can take this product for environmental safe recycling.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Lenovo" changedate="20220521T152247Z" creationid="Lenovo" creationdate="20220521T152247Z">
+        <seg>Pueden tomar este producto para el reciclaje seguro del medio ambiente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This allows cold air to circulate around the Fridge, ensuring all parts of the Fridge are kept cool.</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220504T153142Z" creationid="waddasauria" creationdate="20220504T153142Z">
@@ -3047,6 +3055,14 @@ El ajuste en la sección del congelador está entre "MIN" y "MAX" en la nevera
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To prevent possible harm to the environment or human health from uncontrolled waste disposal, recycle it responsibly to promote the sustainable reuse of material resources.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Lenovo" changedate="20220521T152041Z" creationid="Lenovo" creationdate="20220521T152041Z">
+        <seg>Para evitar posibles daños al medio ambiente o a la salud humana por la eliminación incontrolada de residuos, recíclelos de forma responsable para promover la reutilización sostenible de los recursos materiales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To prevent transfer of flavors and drying out, food should be separately packed or covered.</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220504T153328Z" creationid="waddasauria" creationdate="20220504T153328Z">
@@ -3060,6 +3076,14 @@ El ajuste en la sección del congelador está entre "MIN" y "MAX" en la nevera
       <tuv lang="es" changeid="waddasauria" changedate="20220521T073755Z" creationid="waddasauria" creationdate="20220521T073755Z">
         <seg>Para reducir el riesgo de incendio o de descarga eléctrica, no exponga su frigorífico a  lluvia, humedad, goteo o salpicaduras, y no coloque sobre él objetos llenos de líquidos.
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To return your used device, please use the return and collection systems or contact the retailer where the product was purchased.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Lenovo" changedate="20220521T152145Z" creationid="Lenovo" creationdate="20220521T152145Z">
+        <seg>Para devolver su dispositivo usado, utilice los sistemas de devolución y recogida o póngase en contacto con el minorista donde compró el producto.</seg>
       </tuv>
     </tu>
     <tu>
