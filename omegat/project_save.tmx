@@ -396,6 +396,14 @@ l</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>As each cycle ends, you may hear gurgling sounds caused by the flow of refrigerant in your Wine Cooler.</seg>
+      </tuv>
+      <tuv lang="es" changeid="true" changedate="20220521T154109Z" creationid="true" creationdate="20220521T154109Z">
+        <seg>Al finalizar cada ciclo, es posible que escuche sonidos de gorgoteo causados por el flujo de refrigerante en su enfriadora de vino.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>As shown in Figure step 1, remove the lamp cover;</seg>
       </tuv>
       <tuv lang="es" changeid="Lenovo" changedate="20220521T104134Z" creationid="Lenovo" creationdate="20220521T104134Z">
@@ -721,6 +729,14 @@ l</seg>
       </tuv>
       <tuv lang="es" changeid="true" changedate="20220521T115026Z" creationid="waddasauria" creationdate="20220520T162020Z">
         <seg>Contenidos                                    Página#</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Contraction and expansion of the inside walls may cause popping and crackling noises.</seg>
+      </tuv>
+      <tuv lang="es" changeid="true" changedate="20220521T154225Z" creationid="true" creationdate="20220521T154225Z">
+        <seg>La contracción y la expansión de las paredes interiores pueden provocar ruidos de chasquidos y crujidos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4074,6 +4090,14 @@ El ajuste en la sección del congelador está entre "MIN" y "MAX" en la nevera
       </tuv>
       <tuv lang="es" changeid="true" changedate="20220521T145616Z" creationid="true" creationdate="20220521T145616Z">
         <seg>●Guía para la resolución de problemas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>●Warranty</seg>
+      </tuv>
+      <tuv lang="es" changeid="true" changedate="20220521T154301Z" creationid="true" creationdate="20220521T154301Z">
+        <seg>●Garantía</seg>
       </tuv>
     </tu>
     <tu>
