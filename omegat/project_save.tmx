@@ -1788,6 +1788,14 @@ l</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>THIS APPLIANCE MUST BE EARTHED.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Lenovo" changedate="20220521T121116Z" creationid="Lenovo" creationdate="20220521T121116Z">
+        <seg>ESTE APARATO DEBE ESTAR CONECTADO A TIERRA.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Take extra care with meat and fish</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220504T145915Z" creationid="waddasauria" creationdate="20220504T145915Z">
@@ -2351,6 +2359,22 @@ El ajuste en la sección del congelador está entre "MIN" y "MAX" en la nevera
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To Be Repaired Only By Trained Service Personnel.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Lenovo" changedate="20220521T121044Z" creationid="Lenovo" creationdate="20220521T121044Z">
+        <seg>Sólo debe ser reparado por personal de servicio capacitado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To avoid a possible shock hazard, do not insert the discarded plug into a socket.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Lenovo" changedate="20220521T121309Z" creationid="Lenovo" creationdate="20220521T121309Z">
+        <seg>Para evitar un posible peligro de descarga, no introduzca el enchufe desechado en una toma de corriente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To eject the ice cubes from the tray, place over the ice bucket and twist slightly</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220521T104400Z" creationid="waddasauria" creationdate="20220521T104400Z">
@@ -2550,6 +2574,14 @@ El ajuste en la sección del congelador está entre "MIN" y "MAX" en la nevera
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220521T063247Z" creationid="waddasauria" creationdate="20220521T063247Z">
         <seg>ADVERTENCIA 1 Lea estas instrucciones&lt;t0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>WARNING!</seg>
+      </tuv>
+      <tuv lang="es" changeid="Lenovo" changedate="20220521T120958Z" creationid="Lenovo" creationdate="20220521T120958Z">
+        <seg>ADVERTENCIA!</seg>
       </tuv>
     </tu>
     <tu>
