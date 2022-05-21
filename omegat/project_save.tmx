@@ -38,6 +38,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>1, Voltage: according to local voltage</seg>
+      </tuv>
+      <tuv lang="es" changeid="true" changedate="20220521T140529Z" creationid="true" creationdate="20220521T140529Z">
+        <seg>1, Tensión: según la tensión local</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>1.Read these instructions.</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220521T063300Z" creationid="waddasauria" creationdate="20220521T063300Z">
@@ -78,6 +86,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>2, Rated power: 180W</seg>
+      </tuv>
+      <tuv lang="es" changeid="true" changedate="20220521T140609Z" creationid="true" creationdate="20220521T140609Z">
+        <seg>2, Potencia nominal: 180W</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>2.Leave the shelves in place so that children cannot climb inside.</seg>
       </tuv>
       <tuv lang="es" changeid="true" changedate="20220521T120030Z" creationid="true" creationdate="20220521T120030Z">
@@ -112,6 +128,14 @@ l</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>3, Climate type: ST, suitable for 5-38℃, humidity 45-90%RH</seg>
+      </tuv>
+      <tuv lang="es" changeid="true" changedate="20220521T140648Z" creationid="true" creationdate="20220521T140648Z">
+        <seg>3, Tipo de clima: ST, adecuado para 5-38℃, humedad 45-90%RH</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>3.Heed all warnings.</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220521T063410Z" creationid="waddasauria" creationdate="20220521T063410Z">
@@ -128,6 +152,14 @@ l</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>4, Temperature range in cabinet: 5-10℃ in upper chamber, 10-20℃ in lower chamber, adjustable</seg>
+      </tuv>
+      <tuv lang="es" changeid="true" changedate="20220521T140701Z" creationid="true" creationdate="20220521T140701Z">
+        <seg>4, Rango de temperatura en el gabinete: 5-10℃ en la cámara superior, 10-20℃ en la cámara inferior, ajustable</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>4.Follow all instructions.</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220521T063427Z" creationid="waddasauria" creationdate="20220521T063427Z">
@@ -140,6 +172,14 @@ l</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220521T080306Z" creationid="waddasauria" creationdate="20220521T074932Z">
         <seg>4.ADVERTENCIA&lt;t0/&gt;–No dañe el circuito refigerante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>5, Cooling type: air cooling, no frost.</seg>
+      </tuv>
+      <tuv lang="es" changeid="true" changedate="20220521T140712Z" creationid="true" creationdate="20220521T140712Z">
+        <seg>5, Tipo de refrigeración: refrigeración por aire, sin heladas.</seg>
       </tuv>
     </tu>
     <tu>
