@@ -54,6 +54,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Do not install near any heat sources, such as radiators, heat registers, stoves, or other apparatus (including amplifiers) that produce heat.</seg>
+      </tuv>
+      <tuv lang="es" changeid="waddasauria" changedate="20220521T063952Z" creationid="waddasauria" creationdate="20220521T063952Z">
+        <seg>No lo instale cerca de ninguna fuente de calor, como radiadores, calefactores, estufas u otros aparatos (incluyendo disipadores de calor) que produzcan calor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Do not use your refrigerator near water.</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220521T063449Z" creationid="waddasauria" creationdate="20220521T063449Z">
