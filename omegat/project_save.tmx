@@ -564,6 +564,14 @@ l</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Clean and dry the interior thoroughly.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Lenovo" changedate="20220521T121537Z" creationid="Lenovo" creationdate="20220521T121537Z">
+        <seg>Limpie y seque bien el interior.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Clean the interior surface with lukewarm water using a soft cloth.</seg>
       </tuv>
       <tuv lang="es" changeid="true" changedate="20220521T120646Z" creationid="true" creationdate="20220521T120646Z">
@@ -1074,6 +1082,14 @@ l</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220521T102309Z" creationid="Lenovo" creationdate="20220518T104420Z">
         <seg>Si el electrodoméstico se apaga en algún momento, espere 30 minutos antes de volver a encenderlo para que el líquido refrigerante se reestablezca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the fitted plug is not suitable for your socket outlets, it should be cut off and carefully disposed of.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Lenovo" changedate="20220521T121408Z" creationid="Lenovo" creationdate="20220521T121408Z">
+        <seg>Si la clavija instalada no es adecuada para su enchufe, deberá cortarla y desecharla con cuidado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2200,6 +2216,14 @@ El ajuste en la sección del congelador está entre "MIN" y "MAX" en la nevera
       </tuv>
       <tuv lang="es" changeid="true" changedate="20220515T221636Z" creationid="true" creationdate="20220515T221636Z">
         <seg>Este aparato ha sido diseñado para ser colocado de forma independiente, y no debe ser empotrado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This appliance is fitted with a plug which will be suitable for use in all houses fitted with sockets to current specifications.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Lenovo" changedate="20220521T121451Z" creationid="Lenovo" creationdate="20220521T121451Z">
+        <seg>Este aparato está provisto de un enchufe que se puede utilizar en todas las casas equipadas con tomas de corriente según las especificaciones actuales.</seg>
       </tuv>
     </tu>
     <tu>
