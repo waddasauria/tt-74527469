@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>10.&lt;t0/&gt;Follow local regulations regarding disposal of your refrigerator due to flammable refrigerant and gas.</seg>
+      </tuv>
+      <tuv lang="es" changeid="waddasauria" changedate="20220521T081912Z" creationid="waddasauria" creationdate="20220521T081912Z">
+        <seg>10.&lt;t0/&gt;Antes de deshacerse de su frigorífico, siga las regulaciones locales al respecto, debido a los enfriadores inflamables y al gas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>17.Refer all servicing to qualified service personnel.</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220521T070233Z" creationid="waddasauria" creationdate="20220521T070233Z">
