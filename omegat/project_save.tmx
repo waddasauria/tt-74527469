@@ -1270,6 +1270,14 @@ l</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If the unit is unplugged, power lost, or turned off, you must wait 3 to 5 minutes before restarting the unit.</seg>
+      </tuv>
+      <tuv lang="es" changeid="true" changedate="20220521T134437Z" creationid="true" creationdate="20220521T134437Z">
+        <seg>Si el aparato se desenchufa, se pierde la energía o se apaga, debe esperar de 3 a 5 minutos antes de reiniciarlo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If there are instructions on the packet, carefully follow these instructions regarding storage times.</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220521T110314Z" creationid="waddasauria" creationdate="20220521T110314Z">
@@ -1282,6 +1290,14 @@ l</seg>
       </tuv>
       <tuv lang="es" changeid="Lenovo" changedate="20220521T115506Z" creationid="Lenovo" creationdate="20220521T115506Z">
         <seg>Si va a congelar grandes cantidades de alimentos frescos, recuerde poner el dial de control en Max.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you attempt to restart before this time delay, the wine cooler will not start.</seg>
+      </tuv>
+      <tuv lang="es" changeid="true" changedate="20220521T134508Z" creationid="true" creationdate="20220521T134508Z">
+        <seg>Si se intenta reiniciar antes de este tiempo de espera, la enfriadora de vino no se pondrá en marcha.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1879,6 +1895,14 @@ l</seg>
       </tuv>
       <tuv lang="es" changeid="true" changedate="20220521T120706Z" creationid="true" creationdate="20220521T120706Z">
         <seg>Guárdese estas instrucciones</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the temperature display setting in Fahrenheit or Celsius degree.</seg>
+      </tuv>
+      <tuv lang="es" changeid="true" changedate="20220521T134605Z" creationid="true" creationdate="20220521T134605Z">
+        <seg>Seleccione el ajuste de visualización de la temperatura en grados Fahrenheit o Celsius.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2615,6 +2639,14 @@ El ajuste en la sección del congelador está entre "MIN" y "MAX" en la nevera
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To control the inner light turn on/off.</seg>
+      </tuv>
+      <tuv lang="es" changeid="true" changedate="20220521T134522Z" creationid="true" creationdate="20220521T134522Z">
+        <seg>Para controlar el encendido y apagado de la luz interior.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To eject the ice cubes from the tray, place over the ice bucket and twist slightly</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220521T104400Z" creationid="waddasauria" creationdate="20220521T104400Z">
@@ -3242,6 +3274,14 @@ El ajuste en la sección del congelador está entre "MIN" y "MAX" en la nevera
       </tuv>
       <tuv lang="es" changeid="Lenovo" changedate="20220518T101045Z" creationid="Lenovo" creationdate="20220518T101045Z">
         <seg>℃ / Pantalla ℉</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>℉/℃ Selector</seg>
+      </tuv>
+      <tuv lang="es" changeid="true" changedate="20220521T134546Z" creationid="true" creationdate="20220521T134546Z">
+        <seg>Seleccionador de ℉/℃</seg>
       </tuv>
     </tu>
     <tu>
