@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>* “DANGER – Risk Of Fire or Explosion.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Lenovo" changedate="20220521T120413Z" creationid="Lenovo" creationdate="20220521T120413Z">
+        <seg>* “PELIGRO – Riesgo De Incendio o Explosión.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>1.Read these instructions.</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220521T063300Z" creationid="waddasauria" creationdate="20220521T063300Z">
@@ -247,6 +255,14 @@ l</seg>
       <tuv lang="es" changeid="waddasauria" changedate="20220521T101520Z" creationid="waddasauria" creationdate="20220521T101520Z">
         <seg>Después de conectar el electrodomésctico a una toma de corriente, enciendalo y  deje que se enfríe durante 2~3 horas antes de colocar los alimentos en el compartimento del frigorífico o del congelador.
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>All Safety Precautions Must be Followed”.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Lenovo" changedate="20220521T120247Z" creationid="Lenovo" creationdate="20220521T120247Z">
+        <seg>Deben seguirse todas las precauciones de seguridad".</seg>
       </tuv>
     </tu>
     <tu>
@@ -793,6 +809,14 @@ l</seg>
       </tuv>
       <tuv lang="es" changeid="Lenovo" changedate="20220521T115409Z" creationid="Lenovo" creationdate="20220521T115409Z">
         <seg>Primero, calcule la cantidad de alimentos que va a congelar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Flammable Refrigerant Used.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Lenovo" changedate="20220521T120156Z" creationid="Lenovo" creationdate="20220521T120156Z">
+        <seg>Refrigerante inflamable utilizado.</seg>
       </tuv>
     </tu>
     <tu>
