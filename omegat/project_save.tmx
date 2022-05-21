@@ -88,6 +88,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Do not handle the plug with wet hands.</seg>
+      </tuv>
+      <tuv lang="es" changeid="waddasauria" changedate="20220521T065959Z" creationid="waddasauria" creationdate="20220521T065959Z">
+        <seg>No toque el enchufe con las manos mojadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Do not install near any heat sources, such as radiators, heat registers, stoves, or other apparatus (including amplifiers) that produce heat.</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220521T063952Z" creationid="waddasauria" creationdate="20220521T063952Z">
@@ -160,6 +168,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Make sure that the available AC power matches the voltage requirements of your refrigerator.</seg>
+      </tuv>
+      <tuv lang="es" changeid="waddasauria" changedate="20220521T065936Z" creationid="waddasauria" creationdate="20220521T065936Z">
+        <seg>Asegúrese de que la corriente alterna disponible se ajusta a los requisitos de voltaje de su frigorífico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>ModelNo.:CQRB09Y1GD1RW/CQRB09Y1GD1RS</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220521T063153Z" creationid="waddasauria" creationdate="20220521T063153Z">
@@ -197,6 +213,23 @@
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220521T064924Z" creationid="waddasauria" creationdate="20220521T064924Z">
         <seg>La clavija ancha o la tercera</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This could result in an electric shock.</seg>
+      </tuv>
+      <tuv lang="es" changeid="waddasauria" changedate="20220521T070023Z" creationid="waddasauria" creationdate="20220521T070023Z">
+        <seg>Esto podría provocar una descarga eléctrica .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unplug your refrigerator during lightning storms or when it will not be used for long periods of time.</seg>
+      </tuv>
+      <tuv lang="es" changeid="waddasauria" changedate="20220521T065815Z" creationid="waddasauria" creationdate="20220521T065815Z">
+        <seg>Desenchufe su frigorífico durante  tormentas eléctricas o cuando no vaya a ser utilizado durante largos periodos de tiempo.
+</seg>
       </tuv>
     </tu>
     <tu>
