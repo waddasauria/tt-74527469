@@ -3666,6 +3666,14 @@ El ajuste en la sección del congelador está entre "MIN" y "MAX" en la nevera
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You could buy a special vacuum pump which sucks excessive air out of the packaging.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Lenovo" changedate="20220521T154939Z" creationid="Lenovo" creationdate="20220521T154939Z">
+        <seg>Puede comprar una bomba de vacío especial que succione el exceso de aire del envase.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You could only set the temperature when the number “flash”.</seg>
       </tuv>
       <tuv lang="es" changeid="Lenovo" changedate="20220519T145415Z" creationid="Lenovo" creationdate="20220519T145415Z">
@@ -3840,6 +3848,14 @@ El ajuste en la sección del congelador está entre "MIN" y "MAX" en la nevera
       </tuv>
       <tuv lang="es" changeid="Lenovo" changedate="20220521T151324Z" creationid="Lenovo" creationdate="20220521T151324Z">
         <seg>·Excluya la mayor cantidad de aire posible del contenedor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>·Leave a small amount of “air space” when freezing liquids, to allow for expansion.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Lenovo" changedate="20220521T154736Z" creationid="Lenovo" creationdate="20220521T154736Z">
+        <seg>·Deje una pequeña cantidad de "espacio de aire" cuando congele líquidos, para permitir que se extienda.</seg>
       </tuv>
     </tu>
     <tu>
