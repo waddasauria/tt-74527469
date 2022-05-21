@@ -2207,6 +2207,14 @@ l</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Note: You must provide proof of purchase and installation date for in-warranty service.</seg>
+      </tuv>
+      <tuv lang="es" changeid="true" changedate="20220521T190628Z" creationid="true" creationdate="20220521T190628Z">
+        <seg>Nota: Debe proporcionar una confirmación de compra y la fecha de instalación para el servicio de garantía.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OPERATING YOUR REFRIGERATOR</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220521T102830Z" creationid="Lenovo" creationdate="20220518T103327Z">
@@ -2252,6 +2260,14 @@ l</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220504T155515Z" creationid="waddasauria" creationdate="20220504T155359Z">
         <seg>Frascos abiertos, aliños para ensaladas, salsas y mermeladas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>PAGE  \* MERGEFORMAT 1</seg>
+      </tuv>
+      <tuv lang="es" changeid="true" changedate="20220521T190642Z" creationid="true" creationdate="20220521T190642Z">
+        <seg>PÁGINA \* FORMATO DE FUSIÓN 1</seg>
       </tuv>
     </tu>
     <tu>
@@ -3939,6 +3955,14 @@ El ajuste en la sección del congelador está entre "MIN" y "MAX" en la nevera
       </tuv>
       <tuv lang="es" changeid="true" changedate="20220521T135847Z" creationid="true" creationdate="20220521T135847Z">
         <seg>Para apagar el aparato, toque la &lt;t0/&gt; marca  y menténgase así durante al menos 5 segundos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Town_______________________  Country_______________________</seg>
+      </tuv>
+      <tuv lang="es" changeid="true" changedate="20220521T190609Z" creationid="true" creationdate="20220521T190609Z">
+        <seg>Ciudad_______________________  País_______________________</seg>
       </tuv>
     </tu>
     <tu>
