@@ -793,6 +793,14 @@ l</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Consumable parts are not included in the warranty coverage.</seg>
+      </tuv>
+      <tuv lang="es" changeid="true" changedate="20220521T185006Z" creationid="true" creationdate="20220521T185006Z">
+        <seg>Las piezas de desgaste no están incluidas en la cobertura de la garantía.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Contact the local store where your purchase was made.</seg>
       </tuv>
       <tuv lang="es" changeid="Lenovo" changedate="20220521T160811Z" creationid="Lenovo" creationdate="20220521T160811Z">
@@ -902,6 +910,14 @@ l</seg>
       </tuv>
       <tuv lang="es" changeid="Lenovo" changedate="20220518T104729Z" creationid="Lenovo" creationdate="20220518T104729Z">
         <seg>NO ENCENDER HASTA CUATRO HORAS DESPUÉS DE HABER TRASLADADO EL FRIGORÍFICO/CONGELADOR.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Damage resulting from misuse, alteration, accident, abuse, fire, flood, acts of God, improper installation, installation not in accordance with electrical, or use of consumables or cleaning products not approved by Thor Group.</seg>
+      </tuv>
+      <tuv lang="es" changeid="true" changedate="20220521T184832Z" creationid="true" creationdate="20220521T184832Z">
+        <seg>Los daños resultantes del mal uso, la alteración, el accidente, el abuso, el fuego, las inundaciones, los actos de Dios, la instalación incorrecta, la instalación no conforme a la eléctrica, o el uso de consumibles o productos de limpieza no aprobados por Thor Group.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2580,6 +2596,14 @@ l</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Service to repair or replace consumable parts.</seg>
+      </tuv>
+      <tuv lang="es" changeid="true" changedate="20220521T184908Z" creationid="true" creationdate="20220521T184908Z">
+        <seg>Servicio de reparación o sustitución de piezas de desgaste.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Servicing</seg>
       </tuv>
       <tuv lang="es" changeid="Lenovo" changedate="20220521T160510Z" creationid="Lenovo" creationdate="20220521T160510Z">
@@ -3642,6 +3666,14 @@ El ajuste en la sección del congelador está entre "MIN" y "MAX" en la nevera
       </tuv>
       <tuv lang="es" changeid="Lenovo" changedate="20220521T105350Z" creationid="Lenovo" creationdate="20220521T105350Z">
         <seg>Esto evitará que goteen o toquen otros alimentos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This wine cooler is designed to be repaired in the home and only in-home service is covered by this warranty.</seg>
+      </tuv>
+      <tuv lang="es" changeid="true" changedate="20220521T184754Z" creationid="true" creationdate="20220521T184754Z">
+        <seg>Esta enfriadora de vinos está diseñada para ser reparada en el hogar y sólo el servicio a domicilio está cubierto por esta garantía.</seg>
       </tuv>
     </tu>
     <tu>
