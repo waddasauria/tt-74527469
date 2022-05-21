@@ -30,6 +30,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>12 .&lt;t0/&gt;This appliance is intended to be used in household and similar applications such as</seg>
+      </tuv>
+      <tuv lang="es" changeid="waddasauria" changedate="20220521T082308Z" creationid="waddasauria" creationdate="20220521T082308Z">
+        <seg>12 .&lt;t0/&gt;Este electrodoméstico está destinado a ser utilizado en el ámbito doméstico y similares como:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>17.Refer all servicing to qualified service personnel.</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220521T070233Z" creationid="waddasauria" creationdate="20220521T070233Z">
@@ -148,6 +156,14 @@ l</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220521T064351Z" creationid="waddasauria" creationdate="20220521T064351Z">
         <seg>9.No elimine el dispositivo de seguridad del enchufe, ya sea polarizado o con toma de tierra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;t0/&gt;Do not store explosive substances such as aerosol cans with a flammable propellant in this appliance.</seg>
+      </tuv>
+      <tuv lang="es" changeid="waddasauria" changedate="20220521T082226Z" creationid="waddasauria" creationdate="20220521T082226Z">
+        <seg>&lt;t0/&gt;No  guarde sustancias explosivas como latas de aerosol con propelente inflamaba en este electrodoméstico.</seg>
       </tuv>
     </tu>
     <tu>
@@ -525,6 +541,32 @@ l</seg>
       </tuv>
       <tuv lang="es" changeid="waddasauria" changedate="20220521T064452Z" creationid="waddasauria" creationdate="20220521T064452Z">
         <seg>más ancha que la otra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>– bed and breakfast type environments.</seg>
+      </tuv>
+      <tuv lang="es" changeid="waddasauria" changedate="20220521T082459Z" creationid="waddasauria" creationdate="20220521T082459Z">
+        <seg>– hostales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>– farm houses and by clients in hotels, motels and other residential type environments.</seg>
+      </tuv>
+      <tuv lang="es" changeid="waddasauria" changedate="20220521T082410Z" creationid="waddasauria" creationdate="20220521T082410Z">
+        <seg>– casas de campo y por clientes en hoteles, moteles y otros entornos residenciales
+.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>– staff kitchen areas in shops, offices and other working environments.</seg>
+      </tuv>
+      <tuv lang="es" changeid="waddasauria" changedate="20220521T082346Z" creationid="waddasauria" creationdate="20220521T082346Z">
+        <seg>– áreas de cocina en tiendas, oficinas y otros entornos de trabajo.
+.</seg>
       </tuv>
     </tu>
     <tu>
