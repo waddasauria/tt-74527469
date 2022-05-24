@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.0_0_8ae1ecfb" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -128,9 +128,8 @@
       <tuv lang="en">
         <seg>22If the power cord is damaged, it must be replaced by the manufacturer, its service agent, or similarly qualified person, inorder to avoid a hazard.</seg>
       </tuv>
-      <tuv lang="es" changeid="waddasauria" changedate="20220521T074406Z" creationid="waddasauria" creationdate="20220521T074348Z">
-        <seg>22 Si el cable de alimentación está dañado, debe ser sustituido por el fabricante, su agente de servicio, o una persona igualmente cualificada, para evitar el peligro.
-</seg>
+      <tuv lang="es" changeid="waddasauria" changedate="20220524T134702Z" creationid="waddasauria" creationdate="20220521T074348Z">
+        <seg>22 Si el cable de alimentación está dañado, debe ser sustituido por el fabricante, su agente de servicio, o una persona igualmente cualificada, para evitar el peligro.</seg>
       </tuv>
     </tu>
     <tu>
@@ -289,8 +288,8 @@
       <tuv lang="en">
         <seg>A polarized plug has two blades with one</seg>
       </tuv>
-      <tuv lang="es" changeid="waddasauria" changedate="20220524T132935Z" creationid="waddasauria" creationdate="20220521T064445Z">
-        <seg>Un enchufe polarizado tiene dos clavijas, con una </seg>
+      <tuv lang="es" changeid="waddasauria" changedate="20220524T134602Z" creationid="waddasauria" creationdate="20220521T064445Z">
+        <seg>Un enchufe polarizado tiene dos clavijas, con una</seg>
       </tuv>
     </tu>
     <tu>
@@ -409,8 +408,8 @@
       <tuv lang="en">
         <seg>Ambient temperature below 50°F or above 85°F will hinder the performance of this appliance.</seg>
       </tuv>
-      <tuv lang="es" changeid="waddasauria" changedate="20220524T133123Z" creationid="waddasauria" creationdate="20220521T094737Z">
-        <seg>La temperatura ambiente inferior a 10º o superior a 29º dificultará el funcionamiento del electrodoméstico. </seg>
+      <tuv lang="es" changeid="waddasauria" changedate="20220524T135100Z" creationid="waddasauria" creationdate="20220521T094737Z">
+        <seg>La temperatura ambiente inferior a 10º o superior a 29º dificultará el funcionamiento del electrodoméstico.</seg>
       </tuv>
     </tu>
     <tu>
@@ -673,8 +672,8 @@
       <tuv lang="en">
         <seg>Check to assure that the Wine Cooler is level.</seg>
       </tuv>
-      <tuv lang="es" changeid="waddasauria" changedate="20220505T074311Z" creationid="waddasauria" creationdate="20220505T074311Z">
-        <seg>Asegúrese de que el enfriador de vinos está nivelado..</seg>
+      <tuv lang="es" changeid="waddasauria" changedate="20220524T135202Z" creationid="waddasauria" creationdate="20220505T074311Z">
+        <seg>Asegúrese de que el enfriador de vinos está nivelado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -777,8 +776,8 @@
       <tuv lang="en">
         <seg>Consult a qualified electrician or service person if</seg>
       </tuv>
-      <tuv lang="es" changeid="waddasauria" changedate="20220524T133056Z" creationid="waddasauria" creationdate="20220521T084336Z">
-        <seg>Consulte a un electricista o técnico cualificado si </seg>
+      <tuv lang="es" changeid="waddasauria" changedate="20220524T134713Z" creationid="waddasauria" creationdate="20220521T084336Z">
+        <seg>Consulte a un electricista o técnico cualificado si</seg>
       </tuv>
     </tu>
     <tu>
@@ -1681,8 +1680,8 @@
       <tuv lang="en">
         <seg>If the provided plug does not fit into your outlet, consult an electrician for</seg>
       </tuv>
-      <tuv lang="es" changeid="waddasauria" changedate="20220521T065117Z" creationid="waddasauria" creationdate="20220521T065047Z">
-        <seg>Si el enchufe incluído no encaja en su toma de corriente, consulte a un electricista para </seg>
+      <tuv lang="es" changeid="waddasauria" changedate="20220524T134613Z" creationid="waddasauria" creationdate="20220521T065047Z">
+        <seg>Si el enchufe incluído no encaja en su toma de corriente, consulte a un electricista para</seg>
       </tuv>
     </tu>
     <tu>
@@ -1849,9 +1848,8 @@
       <tuv lang="en">
         <seg>It is the consumer's responsibility to comply with federal and local regulations when disposing of this product.</seg>
       </tuv>
-      <tuv lang="es" changeid="waddasauria" changedate="20220524T132718Z" creationid="waddasauria" creationdate="20220521T082137Z">
-        <seg>Es responsabilidad del consumidor cumplir con las leyes federales y locales al desechar este producto.
-</seg>
+      <tuv lang="es" changeid="waddasauria" changedate="20220524T134708Z" creationid="waddasauria" creationdate="20220521T082137Z">
+        <seg>Es responsabilidad del consumidor cumplir con las leyes federales y locales al desechar este producto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2418,9 +2416,8 @@
       <tuv lang="en">
         <seg>Protect the power cord from being walked on or pinched, particularly at plugs, convenience receptacles, and the point where it exits from your refrigerator.</seg>
       </tuv>
-      <tuv lang="es" changeid="waddasauria" changedate="20220524T132704Z" creationid="waddasauria" creationdate="20220521T065721Z">
-        <seg>Proteja el cable de alimentación para que nadie lo pise pellizque, sobre todo en los enchufes, en las tomas de corriente y en el punto en el que sale del frigorífico.
-</seg>
+      <tuv lang="es" changeid="waddasauria" changedate="20220524T134633Z" creationid="waddasauria" creationdate="20220521T065721Z">
+        <seg>Proteja el cable de alimentación para que nadie lo pise pellizque, sobre todo en los enchufes, en las tomas de corriente y en el punto en el que sale del frigorífico.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2475,8 +2472,8 @@
       <tuv lang="en">
         <seg>Refrigerator Shelves (2)</seg>
       </tuv>
-      <tuv lang="es" changeid="waddasauria" changedate="20220521T084637Z" creationid="waddasauria" creationdate="20220521T084637Z">
-        <seg>Estantes del frigorífico (2) </seg>
+      <tuv lang="es" changeid="waddasauria" changedate="20220524T134718Z" creationid="waddasauria" creationdate="20220521T084637Z">
+        <seg>Estantes del frigorífico (2)</seg>
       </tuv>
     </tu>
     <tu>
@@ -3546,8 +3543,8 @@ El ajuste en la sección del congelador está entre "MIN" y "MAX" en la nevera
       <tuv lang="en">
         <seg>This could result in an electric shock.</seg>
       </tuv>
-      <tuv lang="es" changeid="waddasauria" changedate="20220521T070023Z" creationid="waddasauria" creationdate="20220521T070023Z">
-        <seg>Esto podría provocar una descarga eléctrica .</seg>
+      <tuv lang="es" changeid="waddasauria" changedate="20220524T135108Z" creationid="waddasauria" creationdate="20220521T070023Z">
+        <seg>Esto podría provocar una descarga eléctrica.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4074,9 +4071,8 @@ El ajuste en la sección del congelador está entre "MIN" y "MAX" en la nevera
       <tuv lang="en">
         <seg>Use of an extension cord can negatively affect your refrigerator’s performance.</seg>
       </tuv>
-      <tuv lang="es" changeid="waddasauria" changedate="20220521T073947Z" creationid="waddasauria" creationdate="20220521T073947Z">
-        <seg>El uso de una alargadera puede afectar negativamente al rendimiento de su frigorífico.
-</seg>
+      <tuv lang="es" changeid="waddasauria" changedate="20220524T134647Z" creationid="waddasauria" creationdate="20220521T073947Z">
+        <seg>El uso de una alargadera puede afectar negativamente al rendimiento de su frigorífico.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4547,8 +4543,8 @@ El ajuste en la sección del congelador está entre "MIN" y "MAX" en la nevera
       <tuv lang="en">
         <seg>prong is provided for your safety.</seg>
       </tuv>
-      <tuv lang="es" changeid="waddasauria" changedate="20220521T065025Z" creationid="waddasauria" creationdate="20220521T065025Z">
-        <seg>clavija se proporciona por su seguridad. .</seg>
+      <tuv lang="es" changeid="waddasauria" changedate="20220524T135234Z" creationid="waddasauria" creationdate="20220521T065025Z">
+        <seg>clavija se proporciona por su seguridad.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4715,9 +4711,8 @@ El ajuste en la sección del congelador está entre "MIN" y "MAX" en la nevera
       <tuv lang="en">
         <seg>– farm houses and by clients in hotels, motels and other residential type environments.</seg>
       </tuv>
-      <tuv lang="es" changeid="waddasauria" changedate="20220521T082507Z" creationid="waddasauria" creationdate="20220521T082410Z">
-        <seg>– casas de campo y clientes en hoteles, moteles y otros entornos residenciales
-.</seg>
+      <tuv lang="es" changeid="waddasauria" changedate="20220524T135221Z" creationid="waddasauria" creationdate="20220521T082410Z">
+        <seg>– casas de campo y clientes en hoteles, moteles y otros entornos residenciales.</seg>
       </tuv>
     </tu>
     <tu>
