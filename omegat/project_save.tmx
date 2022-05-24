@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.0_0_8ae1ecfb" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -321,9 +321,8 @@
       <tuv lang="en">
         <seg>After plugging the appliance into a wall outlet, turn the unit on and allow the unit to cool down for 2~3 hours under before placing food in the refrigerator or freezer compartment.</seg>
       </tuv>
-      <tuv lang="es" changeid="waddasauria" changedate="20220521T101520Z" creationid="waddasauria" creationdate="20220521T101520Z">
-        <seg>Después de conectar el electrodomésctico a una toma de corriente, enciendalo y  deje que se enfríe durante 2~3 horas antes de colocar los alimentos en el compartimento del frigorífico o del congelador.
-</seg>
+      <tuv lang="es" changeid="waddasauria" changedate="20220524T133130Z" creationid="waddasauria" creationdate="20220521T101520Z">
+        <seg>Después de conectar el electrodomésctico a una toma de corriente, enciendalo y  deje que se enfríe durante 2~3 horas antes de colocar los alimentos en el compartimento del frigorífico o del congelador.</seg>
       </tuv>
     </tu>
     <tu>
@@ -412,8 +411,8 @@
       <tuv lang="en">
         <seg>Ambient temperature below 50°F or above 85°F will hinder the performance of this appliance.</seg>
       </tuv>
-      <tuv lang="es" changeid="waddasauria" changedate="20220521T094737Z" creationid="waddasauria" creationdate="20220521T094737Z">
-        <seg>La  temperatura ambiente inferior a 10º o superior a 29º dificultará el funcionamiento del electrodoméstico. </seg>
+      <tuv lang="es" changeid="waddasauria" changedate="20220524T133123Z" creationid="waddasauria" creationdate="20220521T094737Z">
+        <seg>La temperatura ambiente inferior a 10º o superior a 29º dificultará el funcionamiento del electrodoméstico. </seg>
       </tuv>
     </tu>
     <tu>
@@ -1539,8 +1538,8 @@
       <tuv lang="en">
         <seg>I&lt;t0/&gt;F THE UNIT IS UNPLUGGED, has LOSt POWER, OR is TURNED OFF, YOU MUST WAIT 3 TO 5 MINUTES BEFORE RESTARTING THE UNIT.</seg>
       </tuv>
-      <tuv lang="es" changeid="waddasauria" changedate="20220521T103940Z" creationid="waddasauria" creationdate="20220521T103940Z">
-        <seg>SI&lt;t0/&gt; EL ELECTRODOMÉSTICO ESTÁ DESENCHUFADO,  HA PERDIDO POTENCIA O SE HA APAGADO, DEBE ESPERAR DE 3 A 5 MINUTOS ANTES DE REINICIARLO.</seg>
+      <tuv lang="es" changeid="waddasauria" changedate="20220524T133237Z" creationid="waddasauria" creationdate="20220521T103940Z">
+        <seg>SI&lt;t0/&gt; EL ELECTRODOMÉSTICO ESTÁ DESENCHUFADO, HA PERDIDO POTENCIA O SE HA APAGADO, DEBE ESPERAR DE 3 A 5 MINUTOS ANTES DE REINICIARLO.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1726,8 +1725,8 @@
       <tuv lang="en">
         <seg>If there are instructions on the packet, carefully follow these instructions regarding storage times.</seg>
       </tuv>
-      <tuv lang="es" changeid="waddasauria" changedate="20220521T110314Z" creationid="waddasauria" creationdate="20220521T110314Z">
-        <seg>Si hay instrucciones  respecto al tiempo de almacenamiento en el paquete, sigalas cuidadosamente.</seg>
+      <tuv lang="es" changeid="waddasauria" changedate="20220524T133315Z" creationid="waddasauria" creationdate="20220521T110314Z">
+        <seg>Si hay instrucciones respecto al tiempo de almacenamiento en el paquete, sigalas cuidadosamente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2220,9 +2219,8 @@
       <tuv lang="en">
         <seg>Once the Fridge/Freezer is placed in its final location, adjust the leveling feet at the front by turning them.</seg>
       </tuv>
-      <tuv lang="es" changeid="waddasauria" changedate="20220521T101745Z" creationid="waddasauria" creationdate="20220521T101745Z">
-        <seg>Una vez coloque el  frigorífico/congelador en su ubicación definitiva, gire las patas de nivelación frontales para ajustarlas. 
-</seg>
+      <tuv lang="es" changeid="waddasauria" changedate="20220524T133137Z" creationid="waddasauria" creationdate="20220521T101745Z">
+        <seg>Una vez coloque el  frigorífico/congelador en su ubicación definitiva, gire las patas de nivelación frontales para ajustarlas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2479,9 +2477,8 @@
       <tuv lang="en">
         <seg>Recommended thermostat setting for ice making is position “COLD”.</seg>
       </tuv>
-      <tuv lang="es" changeid="waddasauria" changedate="20220521T105148Z" creationid="waddasauria" creationdate="20220521T104102Z">
-        <seg>El ajuste del termostato recomendado para hacer hielo es la posición "COLD". 
-</seg>
+      <tuv lang="es" changeid="waddasauria" changedate="20220524T133248Z" creationid="waddasauria" creationdate="20220521T104102Z">
+        <seg>El ajuste del termostato recomendado para hacer hielo es la posición "COLD".</seg>
       </tuv>
     </tu>
     <tu>
@@ -3337,9 +3334,8 @@ El ajuste en la sección del congelador está entre "MIN" y "MAX" en la nevera
       <tuv lang="en">
         <seg>The power cord of this refrigerator is equipped with a three-prong plug which mates with standard three prong wall outlets to minimize the possibility of electrical shock.</seg>
       </tuv>
-      <tuv lang="es" changeid="waddasauria" changedate="20220524T132748Z" creationid="waddasauria" creationdate="20220521T103025Z">
-        <seg>El cable de alimentación de este frigorífico está equipado con un enchufe de tres clavijas que se acopla a las tomas de corriente estándar (de tres clavijas) para reducir la posibilidad de  descarga eléctrica.
-</seg>
+      <tuv lang="es" changeid="waddasauria" changedate="20220524T133150Z" creationid="waddasauria" creationdate="20220521T103025Z">
+        <seg>El cable de alimentación de este frigorífico está equipado con un enchufe de tres clavijas que se acopla a las tomas de corriente estándar (de tres clavijas) para reducir la posibilidad de descarga eléctrica.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3557,9 +3553,8 @@ El ajuste en la sección del congelador está entre "MIN" y "MAX" en la nevera
       <tuv lang="en">
         <seg>This compartment is designed for the long-term storage of frozen food.</seg>
       </tuv>
-      <tuv lang="es" changeid="waddasauria" changedate="20220521T105448Z" creationid="waddasauria" creationdate="20220521T105448Z">
-        <seg>Este compartimento está diseñado para almacenad alimentos congelados a largo plazo.  
-.</seg>
+      <tuv lang="es" changeid="waddasauria" changedate="20220524T133308Z" creationid="waddasauria" creationdate="20220521T105448Z">
+        <seg>Este compartimento está diseñado para almacenar alimentos congelados a largo plazo.</seg>
       </tuv>
     </tu>
     <tu>
