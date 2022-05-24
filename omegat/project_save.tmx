@@ -120,9 +120,8 @@
       <tuv lang="en">
         <seg>20Your refrigerator is not intended for use by persons (including children) with reduced physical, sensory, or mental</seg>
       </tuv>
-      <tuv lang="es" changeid="waddasauria" changedate="20220521T074128Z" creationid="waddasauria" creationdate="20220521T074058Z">
-        <seg>20. Su frigorífico no está destinado a ser utilizado por personas (incluidos niños) con capacidades diferentes, ya sean físicas, sensoriales o mentales. 
-l</seg>
+      <tuv lang="es" changeid="waddasauria" changedate="20220524T132957Z" creationid="waddasauria" creationdate="20220521T074058Z">
+        <seg>20. Su frigorífico no está destinado a ser utilizado por personas (incluidos niños) con capacidades diferentes, ya sean físicas, sensoriales o mentales.</seg>
       </tuv>
     </tu>
     <tu>
@@ -258,8 +257,8 @@ l</seg>
       <tuv lang="en">
         <seg>&lt;t0/&gt;Do not store explosive substances such as aerosol cans with a flammable propellant in this appliance.</seg>
       </tuv>
-      <tuv lang="es" changeid="waddasauria" changedate="20220521T082226Z" creationid="waddasauria" creationdate="20220521T082226Z">
-        <seg>&lt;t0/&gt;No  guarde sustancias explosivas como latas de aerosol con propelente inflamaba en este electrodoméstico.</seg>
+      <tuv lang="es" changeid="waddasauria" changedate="20220524T133043Z" creationid="waddasauria" creationdate="20220521T082226Z">
+        <seg>&lt;t0/&gt;No guarde sustancias explosivas como latas de aerosol con propelente inflamaba en este electrodoméstico.</seg>
       </tuv>
     </tu>
     <tu>
@@ -290,10 +289,8 @@ l</seg>
       <tuv lang="en">
         <seg>A polarized plug has two blades with one</seg>
       </tuv>
-      <tuv lang="es" changeid="waddasauria" changedate="20220521T064815Z" creationid="waddasauria" creationdate="20220521T064445Z">
-        <seg>Un enchufe polarizado tiene dos clavijas, con una 
-
-</seg>
+      <tuv lang="es" changeid="waddasauria" changedate="20220524T132935Z" creationid="waddasauria" creationdate="20220521T064445Z">
+        <seg>Un enchufe polarizado tiene dos clavijas, con una </seg>
       </tuv>
     </tu>
     <tu>
@@ -786,9 +783,8 @@ l</seg>
       <tuv lang="en">
         <seg>Consult a qualified electrician or service person if</seg>
       </tuv>
-      <tuv lang="es" changeid="waddasauria" changedate="20220521T084336Z" creationid="waddasauria" creationdate="20220521T084336Z">
-        <seg>Consulte a un electricista o técnico cualificado si 
-</seg>
+      <tuv lang="es" changeid="waddasauria" changedate="20220524T133056Z" creationid="waddasauria" creationdate="20220521T084336Z">
+        <seg>Consulte a un electricista o técnico cualificado si </seg>
       </tuv>
     </tu>
     <tu>
@@ -1552,8 +1548,8 @@ l</seg>
       <tuv lang="en">
         <seg>IF YOU ATTEMPT TO RESTART BEFORE THIS TIME DELAY, THE REFrIGERATOR-FREEZER WILL NOT START.</seg>
       </tuv>
-      <tuv lang="es" changeid="waddasauria" changedate="20220521T104025Z" creationid="waddasauria" creationdate="20220521T104025Z">
-        <seg> SI INTENTA REINICIARLO ANTES DE QUE PASE ESTE, EL FRIGORÍFICO-CONGELADOR NO SE ENCENDERÁ.
+      <tuv lang="es" changeid="waddasauria" changedate="20220524T132841Z" creationid="waddasauria" creationdate="20220521T104025Z">
+        <seg>SI INTENTA REINICIARLO ANTES DE QUE PASE ESTE, EL FRIGORÍFICO-CONGELADOR NO SE ENCENDERÁ.
 </seg>
       </tuv>
     </tu>
@@ -1585,8 +1581,8 @@ l</seg>
       <tuv lang="en">
         <seg>INTRODUCTION  &lt;t0/&gt;.</seg>
       </tuv>
-      <tuv lang="es" changeid="waddasauria" changedate="20220521T084528Z" creationid="waddasauria" creationdate="20220521T084528Z">
-        <seg>INTRODUCCIÓN  &lt;t0/&gt;.</seg>
+      <tuv lang="es" changeid="waddasauria" changedate="20220524T133105Z" creationid="waddasauria" creationdate="20220521T084528Z">
+        <seg>INTRODUCCIÓN &lt;t0/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1974,8 +1970,8 @@ l</seg>
       <tuv lang="en">
         <seg>Locate the refrigerator away from direct sunlight and sources of heat (stove, heater, radiator, etc.).</seg>
       </tuv>
-      <tuv lang="es" changeid="waddasauria" changedate="20220521T094406Z" creationid="waddasauria" creationdate="20220521T094406Z">
-        <seg>Coloque el frigorífico  lejos de la luz solar directa y de fuentes de calor (estufa, calentador, radiador, etc.). .</seg>
+      <tuv lang="es" changeid="waddasauria" changedate="20220524T133114Z" creationid="waddasauria" creationdate="20220521T094406Z">
+        <seg>Coloque el frigorífico lejos de la luz solar directa y de fuentes de calor (estufa, calentador, radiador, etc.). .</seg>
       </tuv>
     </tu>
     <tu>
@@ -3936,9 +3932,8 @@ El ajuste en la sección del congelador está entre "MIN" y "MAX" en la nevera
       <tuv lang="en">
         <seg>To reduce the risk of fire or electric shock, do not expose your refrigerator to rain, moisture, dripping, or splashing, and no objects filled with liquids should be placed on top of it.</seg>
       </tuv>
-      <tuv lang="es" changeid="waddasauria" changedate="20220524T132602Z" creationid="waddasauria" creationdate="20220521T073755Z">
-        <seg>Para reducir el riesgo de incendio o de descarga eléctrica, no exponga su frigorífico a lluvia, humedad, goteo o salpicaduras, y no coloque sobre él objetos llenos de líquidos.
-</seg>
+      <tuv lang="es" changeid="waddasauria" changedate="20220524T132947Z" creationid="waddasauria" creationdate="20220521T073755Z">
+        <seg>Para reducir el riesgo de incendio o de descarga eléctrica, no exponga su frigorífico a lluvia, humedad, goteo o salpicaduras, y no coloque sobre él objetos llenos de líquidos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4067,9 +4062,8 @@ El ajuste en la sección del congelador está entre "MIN" y "MAX" en la nevera
       <tuv lang="en">
         <seg>Unplug your refrigerator during lightning storms or when it will not be used for long periods of time.</seg>
       </tuv>
-      <tuv lang="es" changeid="waddasauria" changedate="20220521T065815Z" creationid="waddasauria" creationdate="20220521T065815Z">
-        <seg>Desenchufe su frigorífico durante  tormentas eléctricas o cuando no vaya a ser utilizado durante largos periodos de tiempo.
-</seg>
+      <tuv lang="es" changeid="waddasauria" changedate="20220524T132941Z" creationid="waddasauria" creationdate="20220521T065815Z">
+        <seg>Desenchufe su frigorífico durante  tormentas eléctricas o cuando no vaya a ser utilizado durante largos periodos de tiempo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4568,9 +4562,8 @@ El ajuste en la sección del congelador está entre "MIN" y "MAX" en la nevera
       <tuv lang="en">
         <seg>capabilities, or lack of experience and knowledge, unless they have been given supervision or instruction concerning</seg>
       </tuv>
-      <tuv lang="es" changeid="waddasauria" changedate="20220521T074217Z" creationid="waddasauria" creationdate="20220521T074123Z">
-        <seg>o  falta de experiencia y conocimientos, a menos que sean supervisados o instruidos sobre el  
-</seg>
+      <tuv lang="es" changeid="waddasauria" changedate="20220524T133015Z" creationid="waddasauria" creationdate="20220521T074123Z">
+        <seg>o  falta de experiencia y conocimientos, a menos que sean supervisados o instruidos sobre el</seg>
       </tuv>
     </tu>
     <tu>
