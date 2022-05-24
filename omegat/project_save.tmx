@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.0_0_8ae1ecfb" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1674,8 +1674,8 @@ l</seg>
       <tuv lang="en">
         <seg>If the power cord is too short, have a qualified electrician or service technician install an outlet near the appliance.</seg>
       </tuv>
-      <tuv lang="es" changeid="waddasauria" changedate="20220521T103633Z" creationid="waddasauria" creationdate="20220521T103633Z">
-        <seg> Si el cable de alimentación es demasiado corto, contacte con un electricista o técnico profesional para que instale una toma de corriente cerca del electrodoméstico.</seg>
+      <tuv lang="es" changeid="waddasauria" changedate="20220524T132833Z" creationid="waddasauria" creationdate="20220521T103633Z">
+        <seg>Si el cable de alimentación es demasiado corto, contacte con un electricista o técnico profesional para que instale una toma de corriente cerca del electrodoméstico.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1868,8 +1868,8 @@ l</seg>
       <tuv lang="en">
         <seg>It is the consumer's responsibility to comply with federal and local regulations when disposing of this product.</seg>
       </tuv>
-      <tuv lang="es" changeid="waddasauria" changedate="20220521T082137Z" creationid="waddasauria" creationdate="20220521T082137Z">
-        <seg> Es responsabilidad del consumidor cumplir con las leyes federales y locales al desechar este producto.
+      <tuv lang="es" changeid="waddasauria" changedate="20220524T132718Z" creationid="waddasauria" creationdate="20220521T082137Z">
+        <seg>Es responsabilidad del consumidor cumplir con las leyes federales y locales al desechar este producto.
 </seg>
       </tuv>
     </tu>
@@ -2443,8 +2443,8 @@ l</seg>
       <tuv lang="en">
         <seg>Protect the power cord from being walked on or pinched, particularly at plugs, convenience receptacles, and the point where it exits from your refrigerator.</seg>
       </tuv>
-      <tuv lang="es" changeid="waddasauria" changedate="20220521T065721Z" creationid="waddasauria" creationdate="20220521T065721Z">
-        <seg> Proteja el cable de alimentación para que nadie lo pise pellizque, sobre todo en los enchufes, en las tomas de corriente y en el punto en el que sale del frigorífico.
+      <tuv lang="es" changeid="waddasauria" changedate="20220524T132704Z" creationid="waddasauria" creationdate="20220521T065721Z">
+        <seg>Proteja el cable de alimentación para que nadie lo pise pellizque, sobre todo en los enchufes, en las tomas de corriente y en el punto en el que sale del frigorífico.
 </seg>
       </tuv>
     </tu>
@@ -2686,8 +2686,8 @@ l</seg>
       <tuv lang="en">
         <seg>Servicing is required when your refrigerator has been damaged in any way, such as the power-supply cord or plug is damaged, liquid has been spilled or objects have fallen into your refrigerator, your refrigerator has been exposed to rain or moisture, does not operate normally, or has been dropped.</seg>
       </tuv>
-      <tuv lang="es" changeid="waddasauria" changedate="20220521T073713Z" creationid="waddasauria" creationdate="20220521T073713Z">
-        <seg> El servicio es necesario cuando sufrigorífico ha sido dañado de alguna manera, como por ejemplo si el cable de alimentación o el enchufe están dañados, si se ha derramado líquido o han caído objetos dentro de su frigorífico, si su frigorífico ha estado expuesto a la lluvia o a la humedad, si no normalmente no funciona o si se ha caído.
+      <tuv lang="es" changeid="waddasauria" changedate="20220524T132708Z" creationid="waddasauria" creationdate="20220521T073713Z">
+        <seg>El servicio es necesario cuando sufrigorífico ha sido dañado de alguna manera, como por ejemplo si el cable de alimentación o el enchufe están dañados, si se ha derramado líquido o han caído objetos dentro de su frigorífico, si su frigorífico ha estado expuesto a la lluvia o a la humedad, si no normalmente no funciona o si se ha caído.
 .</seg>
       </tuv>
     </tu>
@@ -3342,8 +3342,8 @@ El ajuste en la sección del congelador está entre "MIN" y "MAX" en la nevera
       <tuv lang="en">
         <seg>The power cord of this refrigerator is equipped with a three-prong plug which mates with standard three prong wall outlets to minimize the possibility of electrical shock.</seg>
       </tuv>
-      <tuv lang="es" changeid="waddasauria" changedate="20220521T103025Z" creationid="waddasauria" creationdate="20220521T103025Z">
-        <seg> El cable de alimentación de este frigorífico está equipado con un enchufe de tres clavijas que se acopla a las tomas de corriente estándar (de tres clavijas) para reducir la posibilidad de  descarga eléctrica.
+      <tuv lang="es" changeid="waddasauria" changedate="20220524T132748Z" creationid="waddasauria" creationdate="20220521T103025Z">
+        <seg>El cable de alimentación de este frigorífico está equipado con un enchufe de tres clavijas que se acopla a las tomas de corriente estándar (de tres clavijas) para reducir la posibilidad de  descarga eléctrica.
 </seg>
       </tuv>
     </tu>
@@ -3735,8 +3735,8 @@ El ajuste en la sección del congelador está entre "MIN" y "MAX" en la nevera
       <tuv lang="en">
         <seg>This unit is not designed to be installed in an RV or used with an inverter.</seg>
       </tuv>
-      <tuv lang="es" changeid="waddasauria" changedate="20220521T101429Z" creationid="waddasauria" creationdate="20220521T101429Z">
-        <seg> Este electrodoméstico no está diseñado para ser instalado en caravanas ni para utilizarse con un inversor.
+      <tuv lang="es" changeid="waddasauria" changedate="20220524T132726Z" creationid="waddasauria" creationdate="20220521T101429Z">
+        <seg>Este electrodoméstico no está diseñado para ser instalado en caravanas ni para utilizarse con un inversor.
 </seg>
       </tuv>
     </tu>
@@ -3936,8 +3936,8 @@ El ajuste en la sección del congelador está entre "MIN" y "MAX" en la nevera
       <tuv lang="en">
         <seg>To reduce the risk of fire or electric shock, do not expose your refrigerator to rain, moisture, dripping, or splashing, and no objects filled with liquids should be placed on top of it.</seg>
       </tuv>
-      <tuv lang="es" changeid="waddasauria" changedate="20220521T073755Z" creationid="waddasauria" creationdate="20220521T073755Z">
-        <seg>Para reducir el riesgo de incendio o de descarga eléctrica, no exponga su frigorífico a  lluvia, humedad, goteo o salpicaduras, y no coloque sobre él objetos llenos de líquidos.
+      <tuv lang="es" changeid="waddasauria" changedate="20220524T132602Z" creationid="waddasauria" creationdate="20220521T073755Z">
+        <seg>Para reducir el riesgo de incendio o de descarga eléctrica, no exponga su frigorífico a lluvia, humedad, goteo o salpicaduras, y no coloque sobre él objetos llenos de líquidos.
 </seg>
       </tuv>
     </tu>
