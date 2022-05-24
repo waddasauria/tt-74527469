@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.0_0_8ae1ecfb" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -665,8 +665,8 @@
       <tuv lang="en">
         <seg>Check the temperature of the frozen food cabinet in the shop where you buy your frozen foods.</seg>
       </tuv>
-      <tuv lang="es" changeid="Lenovo" changedate="20220521T110214Z" creationid="Lenovo" creationdate="20220521T110214Z">
-        <seg>Compruebe la temperatura del armario de alimentos congelados de la tienda donde los compre. </seg>
+      <tuv lang="es" changeid="true" changedate="20220524T134632Z" creationid="Lenovo" creationdate="20220521T110214Z">
+        <seg>Compruebe la temperatura del armario de alimentos congelados de la tienda donde los compre.</seg>
       </tuv>
     </tu>
     <tu>
@@ -761,9 +761,8 @@
       <tuv lang="en">
         <seg>Condensation appears on the outside of the Fridge/Freezer</seg>
       </tuv>
-      <tuv lang="es" changeid="Lenovo" changedate="20220521T162635Z" creationid="Lenovo" creationdate="20220521T162635Z">
-        <seg>Aparece condensación en el exterior del frigorífico/congelador
-</seg>
+      <tuv lang="es" changeid="true" changedate="20220524T134046Z" creationid="Lenovo" creationdate="20220521T162635Z">
+        <seg>Aparece condensación en el exterior del frigorífico/congelador</seg>
       </tuv>
     </tu>
     <tu>
@@ -1434,8 +1433,8 @@
       <tuv lang="en">
         <seg>Fromage frais, home-prepared food and leftovers or cream cakes.</seg>
       </tuv>
-      <tuv lang="es" changeid="waddasauria" changedate="20220504T161054Z" creationid="waddasauria" creationdate="20220504T161054Z">
-        <seg>Queso fresco, comida casera, sobras o pasreles de crema. </seg>
+      <tuv lang="es" changeid="true" changedate="20220524T134642Z" creationid="waddasauria" creationdate="20220504T161054Z">
+        <seg>Queso fresco, comida casera, sobras o pasreles de crema.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1860,8 +1859,8 @@
       <tuv lang="en">
         <seg>It should show a temperature lower than -18℃.</seg>
       </tuv>
-      <tuv lang="es" changeid="Lenovo" changedate="20220521T110316Z" creationid="Lenovo" creationdate="20220521T110316Z">
-        <seg>Debería indicar una temperatura inferior a -18℃. </seg>
+      <tuv lang="es" changeid="true" changedate="20220524T134621Z" creationid="Lenovo" creationdate="20220521T110316Z">
+        <seg>Debería indicar una temperatura inferior a -18℃.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3935,9 +3934,8 @@ El ajuste en la sección del congelador está entre "MIN" y "MAX" en la nevera
       <tuv lang="en">
         <seg>Trouble Shooting</seg>
       </tuv>
-      <tuv lang="es" changeid="Lenovo" changedate="20220521T161049Z" creationid="Lenovo" creationdate="20220521T161049Z">
-        <seg>Solución de problemas
-</seg>
+      <tuv lang="es" changeid="true" changedate="20220524T134148Z" creationid="Lenovo" creationdate="20220521T161049Z">
+        <seg>Solución de problemas</seg>
       </tuv>
     </tu>
     <tu>
