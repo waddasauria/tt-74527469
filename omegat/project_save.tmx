@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.0_0_8ae1ecfb" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1952,8 +1952,8 @@
       <tuv lang="en">
         <seg>Locate the refrigerator away from direct sunlight and sources of heat (stove, heater, radiator, etc.).</seg>
       </tuv>
-      <tuv lang="es" changeid="waddasauria" changedate="20220524T133114Z" creationid="waddasauria" creationdate="20220521T094406Z">
-        <seg>Coloque el frigorífico lejos de la luz solar directa y de fuentes de calor (estufa, calentador, radiador, etc.). .</seg>
+      <tuv lang="es" changeid="waddasauria" changedate="20220524T140931Z" creationid="waddasauria" creationdate="20220521T094406Z">
+        <seg>Coloque el frigorífico lejos de la luz solar directa y de fuentes de calor (estufa, calentador, radiador, etc.).</seg>
       </tuv>
     </tu>
     <tu>
