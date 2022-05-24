@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.0_0_8ae1ecfb" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -661,8 +661,8 @@
       <tuv lang="en">
         <seg>Check the temperature control setting.</seg>
       </tuv>
-      <tuv lang="es" changeid="waddasauria" changedate="20220504T181219Z" creationid="waddasauria" creationdate="20220504T181219Z">
-        <seg>Revisa los ajustes de control de temperatura. </seg>
+      <tuv lang="es" changeid="true" changedate="20220524T133132Z" creationid="waddasauria" creationdate="20220504T181219Z">
+        <seg>Revisa los ajustes de control de temperatura.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3044,8 +3044,8 @@
       <tuv lang="en">
         <seg>The circuit breaker tripped or a blown fuse.</seg>
       </tuv>
-      <tuv lang="es" changeid="waddasauria" changedate="20220504T181121Z" creationid="waddasauria" creationdate="20220504T181121Z">
-        <seg>El cortacircuitos se ha activado o hay un fusible quemado. </seg>
+      <tuv lang="es" changeid="true" changedate="20220524T133032Z" creationid="waddasauria" creationdate="20220504T181121Z">
+        <seg>El cortacircuitos se ha activado o hay un fusible quemado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3117,8 +3117,8 @@
       <tuv lang="en">
         <seg>The door is opened too often.</seg>
       </tuv>
-      <tuv lang="es" changeid="waddasauria" changedate="20220504T181255Z" creationid="waddasauria" creationdate="20220504T181255Z">
-        <seg>La puerta se abre con demasiada frecuencia. </seg>
+      <tuv lang="es" changeid="true" changedate="20220524T133108Z" creationid="waddasauria" creationdate="20220504T181255Z">
+        <seg>La puerta se abre con demasiada frecuencia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3420,8 +3420,8 @@ El ajuste en la sección del congelador está entre "MIN" y "MAX" en la nevera
       <tuv lang="en">
         <seg>The temperature control is not set correctly.</seg>
       </tuv>
-      <tuv lang="es" changeid="waddasauria" changedate="20220504T181741Z" creationid="waddasauria" creationdate="20220504T181741Z">
-        <seg>El control de temperatura no está ajustado correctamente. </seg>
+      <tuv lang="es" changeid="true" changedate="20220524T133052Z" creationid="waddasauria" creationdate="20220504T181741Z">
+        <seg>El control de temperatura no está ajustado correctamente.</seg>
       </tuv>
     </tu>
     <tu>
