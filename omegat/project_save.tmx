@@ -417,8 +417,8 @@
       <tuv lang="en">
         <seg>Any questions concerning power and/or grounding should be directed toward a certified electrician or an authorized service center.</seg>
       </tuv>
-      <tuv lang="es" changeid="waddasauria" changedate="20220521T101304Z" creationid="waddasauria" creationdate="20220521T101304Z">
-        <seg>Ante cualquier pregunta relacionada con la alimentación y/o la conexión a tierra debe contactar con un electricista profesional o con un centro de servicio autorizado. .</seg>
+      <tuv lang="es" changeid="true" changedate="20220524T134818Z" creationid="waddasauria" creationdate="20220521T101304Z">
+        <seg>Ante cualquier pregunta relacionada con la alimentación y/o la conexión a tierra debe contactar con un electricista profesional o con un centro de servicio autorizado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -465,8 +465,8 @@
       <tuv lang="en">
         <seg>Avoid locating the refrigerator in moist areas.</seg>
       </tuv>
-      <tuv lang="es" changeid="waddasauria" changedate="20220521T094836Z" creationid="waddasauria" creationdate="20220521T094836Z">
-        <seg>Evite colocar el frigorífico en zonas húmedas. </seg>
+      <tuv lang="es" changeid="true" changedate="20220524T134830Z" creationid="waddasauria" creationdate="20220521T094836Z">
+        <seg>Evite colocar el frigorífico en zonas húmedas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1081,8 +1081,8 @@
       <tuv lang="en">
         <seg>Do not under any circumstances cut or remove the third (ground) prong from the power cord.</seg>
       </tuv>
-      <tuv lang="es" changeid="waddasauria" changedate="20220521T101215Z" creationid="waddasauria" creationdate="20220521T101215Z">
-        <seg>No corte o retire la tercera clavija del cable de alimentación bajo ninguna circunstancia. </seg>
+      <tuv lang="es" changeid="true" changedate="20220524T134814Z" creationid="waddasauria" creationdate="20220521T101215Z">
+        <seg>No corte o retire la tercera clavija del cable de alimentación bajo ninguna circunstancia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1537,9 +1537,8 @@
       <tuv lang="en">
         <seg>IF YOU ATTEMPT TO RESTART BEFORE THIS TIME DELAY, THE REFrIGERATOR-FREEZER WILL NOT START.</seg>
       </tuv>
-      <tuv lang="es" changeid="waddasauria" changedate="20220524T132841Z" creationid="waddasauria" creationdate="20220521T104025Z">
-        <seg>SI INTENTA REINICIARLO ANTES DE QUE PASE ESTE, EL FRIGORÍFICO-CONGELADOR NO SE ENCENDERÁ.
-</seg>
+      <tuv lang="es" changeid="true" changedate="20220524T134745Z" creationid="waddasauria" creationdate="20220521T104025Z">
+        <seg>SI INTENTA REINICIARLO ANTES DE QUE PASE ESTE, EL FRIGORÍFICO-CONGELADOR NO SE ENCENDERÁ.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2227,8 +2226,8 @@
       <tuv lang="en">
         <seg>Only open the door to put food in or take it out.</seg>
       </tuv>
-      <tuv lang="es" changeid="waddasauria" changedate="20220504T154439Z" creationid="waddasauria" creationdate="20220504T154439Z">
-        <seg>Abra la puerta solo si va a meter o sacar comida. </seg>
+      <tuv lang="es" changeid="true" changedate="20220524T134650Z" creationid="waddasauria" creationdate="20220504T154439Z">
+        <seg>Abra la puerta solo si va a meter o sacar comida.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2355,9 +2354,8 @@
       <tuv lang="en">
         <seg>Pre-packed commercially frozen food should be stored in accordance with the frozen foods manufacturer’s instructions for a three star frozen food storage compartment or home freezer.</seg>
       </tuv>
-      <tuv lang="es" changeid="waddasauria" changedate="20220524T133845Z" creationid="waddasauria" creationdate="20220521T110203Z">
-        <seg>Los alimentos preenvasados congelados deben almacenarse de acuerdo con las instrucciones del fabricante para un compartimento de almacenamiento de alimentos congelados de tres estrellas o un congelador doméstico.
-</seg>
+      <tuv lang="es" changeid="true" changedate="20220524T134722Z" creationid="waddasauria" creationdate="20220521T110203Z">
+        <seg>Los alimentos preenvasados congelados deben almacenarse de acuerdo con las instrucciones del fabricante para un compartimento de almacenamiento de alimentos congelados de tres estrellas o un congelador doméstico.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2412,8 +2410,8 @@
       <tuv lang="en">
         <seg>Proper use of the appliance, adequately packed food, correct temperature and taking into account hygienic precautions will substantially influence the quality of freezing the food or storing of the frozen foods.</seg>
       </tuv>
-      <tuv lang="es" changeid="waddasauria" changedate="20220521T105422Z" creationid="waddasauria" creationdate="20220521T105422Z">
-        <seg>El buen uso del electrodoméstico, el empaquetado adecuado de los alimentos, la temperatura correcta y el tener en cuenta las advertencias respecto a la higiene influirán en la calidad de congelación y el almacenamiento de los alimentos. </seg>
+      <tuv lang="es" changeid="true" changedate="20220524T134734Z" creationid="waddasauria" creationdate="20220521T105422Z">
+        <seg>El buen uso del electrodoméstico, el empaquetado adecuado de los alimentos, la temperatura correcta y el tener en cuenta las advertencias respecto a la higiene influirán en la calidad de congelación y el almacenamiento de los alimentos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3356,9 +3354,8 @@ El ajuste en la sección del congelador está entre "MIN" y "MAX" en la nevera
       <tuv lang="en">
         <seg>The setting in freezer section between “MIN” and “MAX”  in refrigerator section should be correct for home or office refrigerator use.</seg>
       </tuv>
-      <tuv lang="es" changeid="waddasauria" changedate="20220521T103820Z" creationid="waddasauria" creationdate="20220521T103820Z">
-        <seg>El ajuste en la sección del congelador entre "MIN" y "MAX" en la sección del frigorífico debe ser el adecuado para el uso del refrigerador en el hogar o en la oficina.
-</seg>
+      <tuv lang="es" changeid="true" changedate="20220524T134754Z" creationid="waddasauria" creationdate="20220521T103820Z">
+        <seg>El ajuste en la sección del congelador entre "MIN" y "MAX" en la sección del frigorífico debe ser el adecuado para el uso del refrigerador en el hogar o en la oficina.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3605,8 +3602,8 @@ El ajuste en la sección del congelador está entre "MIN" y "MAX" en la nevera
       <tuv lang="en">
         <seg>This is where foods which must be cold to keep them safe should be kept:</seg>
       </tuv>
-      <tuv lang="es" changeid="waddasauria" changedate="20220504T155745Z" creationid="waddasauria" creationdate="20220504T155745Z">
-        <seg>Aquñi debe guardar los alinebros que deban estar fríos para conservarse.</seg>
+      <tuv lang="es" changeid="true" changedate="20220524T135000Z" creationid="waddasauria" creationdate="20220504T155745Z">
+        <seg>Aquí debe guardar los alinebros que deban estar fríos para conservarse.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3693,9 +3690,8 @@ El ajuste en la sección del congelador está entre "MIN" y "MAX" en la nevera
       <tuv lang="en">
         <seg>This unit is not designed for use in a garage or any other outside installation.</seg>
       </tuv>
-      <tuv lang="es" changeid="waddasauria" changedate="20220521T094813Z" creationid="waddasauria" creationdate="20220521T094807Z">
-        <seg>Este electrodoméstico no está diseñado para ser utilizado en un garaje o cualquier otra espacio exterior.
-</seg>
+      <tuv lang="es" changeid="true" changedate="20220524T134857Z" creationid="waddasauria" creationdate="20220521T094807Z">
+        <seg>Este electrodoméstico no está diseñado para ser utilizado en un garaje o cualquier otra espacio exterior.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3806,8 +3802,8 @@ El ajuste en la sección del congelador está entre "MIN" y "MAX" en la nevera
       <tuv lang="en">
         <seg>Tips for keeping food perfect in the Fridge</seg>
       </tuv>
-      <tuv lang="es" changeid="waddasauria" changedate="20220504T145847Z" creationid="waddasauria" creationdate="20220504T145847Z">
-        <seg>Consejos para mantener la comida perfecta en el frigorífico. </seg>
+      <tuv lang="es" changeid="true" changedate="20220524T134712Z" creationid="waddasauria" creationdate="20220504T145847Z">
+        <seg>Consejos para mantener la comida perfecta en el frigorífico.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3862,8 +3858,8 @@ El ajuste en la sección del congelador está entre "MIN" y "MAX" en la nevera
       <tuv lang="en">
         <seg>To prevent cold air escaping, try to limit the number of times you open the door.</seg>
       </tuv>
-      <tuv lang="es" changeid="waddasauria" changedate="20220504T153628Z" creationid="waddasauria" creationdate="20220504T153628Z">
-        <seg>Para prevenir que el aire frío salga, intente limitar el número de veces que abre la puerta. </seg>
+      <tuv lang="es" changeid="true" changedate="20220524T134702Z" creationid="waddasauria" creationdate="20220504T153628Z">
+        <seg>Para prevenir que el aire frío salga, intente limitar el número de veces que abre la puerta.</seg>
       </tuv>
     </tu>
     <tu>
