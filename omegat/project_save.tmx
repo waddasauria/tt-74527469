@@ -3678,8 +3678,8 @@ El ajuste en la sección del congelador está entre "MIN" y "MAX" en la nevera
       <tuv lang="en">
         <seg>This refrigerator requires a standard&lt;t0/&gt;115V A.C.</seg>
       </tuv>
-      <tuv lang="es" changeid="waddasauria" changedate="20220524T134059Z" creationid="waddasauria" creationdate="20220521T103116Z">
-        <seg>Este frigorífico requiere una toma de corriente &lt;t0/&gt;estándar de 115 V C.A.</seg>
+      <tuv lang="es" changeid="waddasauria" changedate="20220524T134303Z" creationid="waddasauria" creationdate="20220521T103116Z">
+        <seg>Este frigorífico requiere una toma de corriente&lt;t0/&gt;estándar de 115 V C.A.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4113,16 +4113,16 @@ El ajuste en la sección del congelador está entre "MIN" y "MAX" en la nevera
       <tuv lang="en">
         <seg>Used to lower (cool) the set temperature by 1℃ or 1℉ when “flash”.</seg>
       </tuv>
-      <tuv lang="es" changeid="Lenovo" changedate="20220518T101455Z" creationid="Lenovo" creationdate="20220518T101455Z">
-        <seg>Se usa para bajar (enfriar) la temperatura establecida &lt;t0/&gt; por 1º C o 1 º F cuando "parpadee".”.</seg>
+      <tuv lang="es" changeid="waddasauria" changedate="20220524T134335Z" creationid="Lenovo" creationdate="20220518T101455Z">
+        <seg>Se usa para bajar (enfriar) la temperatura establecida por 1º C o 1 º F cuando "parpadee".”.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Used to raise (warm)the set temperature by 1℃ or 1℉ when “flash”..</seg>
       </tuv>
-      <tuv lang="es" changeid="Lenovo" changedate="20220518T101331Z" creationid="Lenovo" creationdate="20220518T101331Z">
-        <seg>Se usa para elevar (calentar) la temperatura establecida &lt;t0/&gt; por 1 º C o 1º F cuando "parpadee"...</seg>
+      <tuv lang="es" changeid="waddasauria" changedate="20220524T134328Z" creationid="Lenovo" creationdate="20220518T101331Z">
+        <seg>Se usa para elevar (calentar) la temperatura establecida por 1 ºC o 1ºF cuando "parpadee"...</seg>
       </tuv>
     </tu>
     <tu>
