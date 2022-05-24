@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.0_0_8ae1ecfb" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1530,8 +1530,8 @@
       <tuv lang="en">
         <seg>I&lt;t0/&gt;F THE UNIT IS UNPLUGGED, has LOSt POWER, OR is TURNED OFF, YOU MUST WAIT 3 TO 5 MINUTES BEFORE RESTARTING THE UNIT.</seg>
       </tuv>
-      <tuv lang="es" changeid="waddasauria" changedate="20220524T133237Z" creationid="waddasauria" creationdate="20220521T103940Z">
-        <seg>SI&lt;t0/&gt; EL ELECTRODOMÉSTICO ESTÁ DESENCHUFADO, HA PERDIDO POTENCIA O SE HA APAGADO, DEBE ESPERAR DE 3 A 5 MINUTOS ANTES DE REINICIARLO.</seg>
+      <tuv lang="es" changeid="waddasauria" changedate="20220524T134033Z" creationid="waddasauria" creationdate="20220521T103940Z">
+        <seg>SI&lt;t0/&gt;EL ELECTRODOMÉSTICO ESTÁ DESENCHUFADO, HA PERDIDO POTENCIA O SE HA APAGADO, DEBE ESPERAR DE 3 A 5 MINUTOS ANTES DE REINICIARLO.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3678,8 +3678,8 @@ El ajuste en la sección del congelador está entre "MIN" y "MAX" en la nevera
       <tuv lang="en">
         <seg>This refrigerator requires a standard&lt;t0/&gt;115V A.C.</seg>
       </tuv>
-      <tuv lang="es" changeid="waddasauria" changedate="20220521T103116Z" creationid="waddasauria" creationdate="20220521T103116Z">
-        <seg>Este frigorífico requiere una toma de corriente estándar de 115 V C.A.</seg>
+      <tuv lang="es" changeid="waddasauria" changedate="20220524T134059Z" creationid="waddasauria" creationdate="20220521T103116Z">
+        <seg>Este frigorífico requiere una toma de corriente &lt;t0/&gt;estándar de 115 V C.A.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4593,9 +4593,8 @@ El ajuste en la sección del congelador está entre "MIN" y "MAX" en la nevera
       <tuv lang="en">
         <seg>~/60Hz &lt;t1/&gt;electrical outlet with three-prong ground.</seg>
       </tuv>
-      <tuv lang="es" changeid="waddasauria" changedate="20220521T103235Z" creationid="waddasauria" creationdate="20220521T103133Z">
-        <seg>~/60 Hz&lt;t1/&gt; con toma de tierra de tres polos.
-</seg>
+      <tuv lang="es" changeid="waddasauria" changedate="20220524T134040Z" creationid="waddasauria" creationdate="20220521T103133Z">
+        <seg>~/60 Hz &lt;t1/&gt;con toma de tierra de tres polos.</seg>
       </tuv>
     </tu>
     <tu>
