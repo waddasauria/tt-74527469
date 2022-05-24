@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.0_0_8ae1ecfb" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3721,9 +3721,8 @@ El ajuste en la sección del congelador está entre "MIN" y "MAX" en la nevera
       <tuv lang="en">
         <seg>This unit is not designed to be installed in an RV or used with an inverter.</seg>
       </tuv>
-      <tuv lang="es" changeid="waddasauria" changedate="20220524T132726Z" creationid="waddasauria" creationdate="20220521T101429Z">
-        <seg>Este electrodoméstico no está diseñado para ser instalado en caravanas ni para utilizarse con un inversor.
-</seg>
+      <tuv lang="es" changeid="waddasauria" changedate="20220524T133603Z" creationid="waddasauria" creationdate="20220521T101429Z">
+        <seg>Este electrodoméstico no está diseñado para ser instalado en caravanas ni para utilizarse con un inversor.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3938,8 +3937,8 @@ El ajuste en la sección del congelador está entre "MIN" y "MAX" en la nevera
       <tuv lang="en">
         <seg>To turn off the appliance, touch the &lt;t0/&gt; mark and hold for at least 5 seconds.</seg>
       </tuv>
-      <tuv lang="es" changeid="true" changedate="20220521T135847Z" creationid="true" creationdate="20220521T135847Z">
-        <seg>Para apagar el aparato, toque la &lt;t0/&gt; marca  y menténgase así durante al menos 5 segundos.</seg>
+      <tuv lang="es" changeid="waddasauria" changedate="20220524T133445Z" creationid="true" creationdate="20220521T135847Z">
+        <seg>Para apagar el aparato, toque la &lt;t0/&gt; marca y menténgase así durante al menos 5 segundos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4052,8 +4051,8 @@ El ajuste en la sección del congelador está entre "MIN" y "MAX" en la nevera
       <tuv lang="en">
         <seg>Unplug your refrigerator during lightning storms or when it will not be used for long periods of time.</seg>
       </tuv>
-      <tuv lang="es" changeid="waddasauria" changedate="20220524T132941Z" creationid="waddasauria" creationdate="20220521T065815Z">
-        <seg>Desenchufe su frigorífico durante  tormentas eléctricas o cuando no vaya a ser utilizado durante largos periodos de tiempo.</seg>
+      <tuv lang="es" changeid="waddasauria" changedate="20220524T133633Z" creationid="waddasauria" creationdate="20220521T065815Z">
+        <seg>Desenchufe su frigorífico durante tormentas eléctricas o cuando no vaya a ser utilizado durante largos períodos de tiempo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4310,8 +4309,8 @@ El ajuste en la sección del congelador está entre "MIN" y "MAX" en la nevera
       <tuv lang="en">
         <seg>Wash the outside cabinet with warm water and mild liquid detergent.</seg>
       </tuv>
-      <tuv lang="es" changeid="true" changedate="20220521T142815Z" creationid="true" creationdate="20220521T142815Z">
-        <seg>Lave  el armario exterior con agua tibia y detergente líquido suave.</seg>
+      <tuv lang="es" changeid="waddasauria" changedate="20220524T133449Z" creationid="true" creationdate="20220521T142815Z">
+        <seg>Lave el armario exterior con agua tibia y detergente líquido suave.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4326,8 +4325,8 @@ El ajuste en la sección del congelador está entre "MIN" y "MAX" en la nevera
       <tuv lang="en">
         <seg>When a standard 2 pins wall outlet is encountered, it is your responsibility and obligation to have it replaced with a properly grounded 3 pins wall outlet.</seg>
       </tuv>
-      <tuv lang="es" changeid="Lenovo" changedate="20220518T105617Z" creationid="Lenovo" creationdate="20220518T105617Z">
-        <seg>Si se encuentra un enchufe de pared estándar de 2 pines, será su responsabilidad y obligación reemplazarlo por  un enchufe de pared de 3 pines debidamente conectado a tierra.</seg>
+      <tuv lang="es" changeid="waddasauria" changedate="20220524T133439Z" creationid="Lenovo" creationdate="20220518T105617Z">
+        <seg>Si se encuentra un enchufe de pared estándar de 2 pines, será su responsabilidad y obligación reemplazarlo por un enchufe de pared de 3 pines debidamente conectado a tierra.</seg>
       </tuv>
     </tu>
     <tu>
