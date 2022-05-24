@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.0_0_8ae1ecfb" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -592,8 +592,8 @@
       <tuv lang="en">
         <seg>Carefully select food you intend to freeze, it should be of adequate quality and suitable for freezing.</seg>
       </tuv>
-      <tuv lang="es" changeid="waddasauria" changedate="20220521T110357Z" creationid="waddasauria" creationdate="20220521T110357Z">
-        <seg>Seleccione con cuidado los alimentos que vaya a congelar, deben ser de una calidad adecuada y aptos para su congelación..</seg>
+      <tuv lang="es" changeid="waddasauria" changedate="20220524T135546Z" creationid="waddasauria" creationdate="20220521T110357Z">
+        <seg>Seleccione con cuidado los alimentos que vaya a congelar, deben ser de una calidad adecuada y aptos para su congelación.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1768,8 +1768,8 @@
       <tuv lang="en">
         <seg>Incorrect use of the grounding plug can result in a risk of electric shock.</seg>
       </tuv>
-      <tuv lang="es" changeid="waddasauria" changedate="20220521T084308Z" creationid="waddasauria" creationdate="20220521T084308Z">
-        <seg>El uso incorrecto de la clavija de conexión a tierra puede provocar riesgo de descarga eléctrica..</seg>
+      <tuv lang="es" changeid="waddasauria" changedate="20220524T135608Z" creationid="waddasauria" creationdate="20220521T084308Z">
+        <seg>El uso incorrecto de la clavija de conexión a tierra puede provocar riesgo de descarga eléctrica.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3009,8 +3009,8 @@
       <tuv lang="en">
         <seg>The best method to get ice cubes out of the tray is to hold the tray under cold tap water for a second.</seg>
       </tuv>
-      <tuv lang="es" changeid="waddasauria" changedate="20220521T104333Z" creationid="waddasauria" creationdate="20220521T104333Z">
-        <seg>El mejor método para sacar los cubitos de hielo de la bandeja es ponerla bajo el grifo con agua fría durante un segundo..</seg>
+      <tuv lang="es" changeid="waddasauria" changedate="20220524T135619Z" creationid="waddasauria" creationdate="20220521T104333Z">
+        <seg>El mejor método para sacar los cubitos de hielo de la bandeja es ponerla bajo el grifo con agua fría durante un segundo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3074,8 +3074,8 @@
       <tuv lang="en">
         <seg>The door is not closed completely.</seg>
       </tuv>
-      <tuv lang="es" changeid="waddasauria" changedate="20220505T072230Z" creationid="waddasauria" creationdate="20220504T181311Z">
-        <seg>La puerta no está completamente cerrada..</seg>
+      <tuv lang="es" changeid="waddasauria" changedate="20220524T135551Z" creationid="waddasauria" creationdate="20220504T181311Z">
+        <seg>La puerta no está completamente cerrada.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3194,8 +3194,8 @@
       <tuv lang="en">
         <seg>The packaging should be airtight and shouldn’t leak since this could cause substantial vitamin loss and dehydration of foods.</seg>
       </tuv>
-      <tuv lang="es" changeid="waddasauria" changedate="20220521T110440Z" creationid="waddasauria" creationdate="20220521T110440Z">
-        <seg>El envase debe ser hermético y no debe tener fugas, ya que esto podría causar una pérdida sustancial de vitaminas y la deshidratación de los alimentos..</seg>
+      <tuv lang="es" changeid="waddasauria" changedate="20220524T135624Z" creationid="waddasauria" creationdate="20220521T110440Z">
+        <seg>El envase debe ser hermético y no debe tener fugas, ya que esto podría causar una pérdida sustancial de vitaminas y la deshidratación de los alimentos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3375,8 +3375,8 @@ El ajuste en la sección del congelador está entre "MIN" y "MAX" en la nevera
       <tuv lang="en">
         <seg>The storage life of frozen foods varies and the recommended storage time should not be exceeded.</seg>
       </tuv>
-      <tuv lang="es" changeid="waddasauria" changedate="20220521T110122Z" creationid="waddasauria" creationdate="20220521T110122Z">
-        <seg>El tiempo de conserva de los alimentos congelados varía y no debe superarse el tiempo de almacenamiento recomendado..</seg>
+      <tuv lang="es" changeid="waddasauria" changedate="20220524T135614Z" creationid="waddasauria" creationdate="20220521T110122Z">
+        <seg>El tiempo de conserva de los alimentos congelados varía y no debe superarse el tiempo de almacenamiento recomendado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3415,8 +3415,8 @@ El ajuste en la sección del congelador está entre "MIN" y "MAX" en la nevera
       <tuv lang="en">
         <seg>The warranty does not apply to damage resulting from abuse, accident, natural disaster, loss of electrical power to the product for any reason, alteration, outdoor use, improper installation, and improper operation, repair or service of the product by anyone other than an authorized Thor Group, service agency or representative.</seg>
       </tuv>
-      <tuv lang="es" changeid="true" changedate="20220521T182927Z" creationid="true" creationdate="20220521T182927Z">
-        <seg>Esta garantía no se aplica a los daños resultantes del maltrato, accidente, desastre natural, pérdida de energía eléctrica del producto por cualquier motivo, alteración, uso en exteriores, instalación incorrecta y funcionamiento, reparación o servicio inadecuados del producto por parte de cualquier persona que no sea un representante o agencia de servicio autorizado de Thor Group..</seg>
+      <tuv lang="es" changeid="waddasauria" changedate="20220524T135603Z" creationid="true" creationdate="20220521T182927Z">
+        <seg>Esta garantía no se aplica a los daños resultantes del maltrato, accidente, desastre natural, pérdida de energía eléctrica del producto por cualquier motivo, alteración, uso en exteriores, instalación incorrecta y funcionamiento, reparación o servicio inadecuados del producto por parte de cualquier persona que no sea un representante o agencia de servicio autorizado de Thor Group.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4655,8 +4655,8 @@ El ajuste en la sección del congelador está entre "MIN" y "MAX" en la nevera
       <tuv lang="en">
         <seg>·Pre-cooked meats eg.</seg>
       </tuv>
-      <tuv lang="es" changeid="Lenovo" changedate="20220521T170705Z" creationid="waddasauria" creationdate="20220504T160801Z">
-        <seg>.Carnes precocinadas, por ejemplo.</seg>
+      <tuv lang="es" changeid="waddasauria" changedate="20220524T135541Z" creationid="waddasauria" creationdate="20220504T160801Z">
+        <seg>· Carnes precocinadas, por ejemplo.</seg>
       </tuv>
     </tu>
     <tu>
