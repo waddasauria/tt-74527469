@@ -1176,8 +1176,8 @@
       <tuv lang="en">
         <seg>Don’t cover or block the vents or grilles of your appliance.</seg>
       </tuv>
-      <tuv lang="es" changeid="true" changedate="20220524T133746Z" creationid="Lenovo" creationdate="20220521T163850Z">
-        <seg>No cubra ni bloquee las rejillas de ventilación o las rejillas de su aparato.</seg>
+      <tuv lang="es" changeid="waddasauria" changedate="20220525T101320Z" creationid="Lenovo" creationdate="20220521T163850Z">
+        <seg>No cubra ni bloquee las rejillas de ventilación o las rejillas de su electrodoméstico.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2416,8 +2416,8 @@
       <tuv lang="en">
         <seg>Protect the power cord from being walked on or pinched, particularly at plugs, convenience receptacles, and the point where it exits from your refrigerator.</seg>
       </tuv>
-      <tuv lang="es" changeid="waddasauria" changedate="20220524T134633Z" creationid="waddasauria" creationdate="20220521T065721Z">
-        <seg>Proteja el cable de alimentación para que nadie lo pise pellizque, sobre todo en los enchufes, en las tomas de corriente y en el punto en el que sale del frigorífico.</seg>
+      <tuv lang="es" changeid="waddasauria" changedate="20220525T101100Z" creationid="waddasauria" creationdate="20220521T065721Z">
+        <seg>Proteja el cable de alimentación para que nadie lo pise o pellizque, sobre todo en los enchufes, en las tomas de corriente y en el punto en el que sale del frigorífico.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3310,8 +3310,8 @@
       <tuv lang="en">
         <seg>The unit should not be accessible to child’s play.</seg>
       </tuv>
-      <tuv lang="es" changeid="true" changedate="20220524T133422Z" creationid="Lenovo" creationdate="20220521T164056Z">
-        <seg>El aparato no debe ser accesible al alcance de los niños.</seg>
+      <tuv lang="es" changeid="waddasauria" changedate="20220525T101343Z" creationid="Lenovo" creationdate="20220521T164056Z">
+        <seg>El electrodoméstico no debe estar al alcance de los niños.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3406,8 +3406,8 @@
       <tuv lang="en">
         <seg>This appliance is designed to be free standing only, and should not be recessed or built-in.</seg>
       </tuv>
-      <tuv lang="es" changeid="true" changedate="20220515T221636Z" creationid="true" creationdate="20220515T221636Z">
-        <seg>Este aparato ha sido diseñado para ser colocado de forma independiente, y no debe ser empotrado.</seg>
+      <tuv lang="es" changeid="waddasauria" changedate="20220525T101156Z" creationid="true" creationdate="20220515T221636Z">
+        <seg>Este electrodoméstico ha sido diseñado para ser colocado de forma independiente, y no debe ser empotrado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4639,8 +4639,8 @@
       <tuv lang="en">
         <seg>• Leave the shelves in place so that children may not easily climb inside.</seg>
       </tuv>
-      <tuv lang="es" changeid="waddasauria" changedate="20220521T080619Z" creationid="waddasauria" creationdate="20220521T080619Z">
-        <seg>• Deje los estantes en su sitio para que los niños no puedan trepar dentro fácilmente.</seg>
+      <tuv lang="es" changeid="waddasauria" changedate="20220525T101129Z" creationid="waddasauria" creationdate="20220521T080619Z">
+        <seg>• Deje los estantes en su sitio para que los niños no puedan meterse dentro con facilidad.</seg>
       </tuv>
     </tu>
     <tu>
