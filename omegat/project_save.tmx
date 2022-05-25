@@ -1688,8 +1688,8 @@
       <tuv lang="en">
         <seg>If the socket is no longer accessible once the appliance has been built-in, suitable measures must be taken during electrical installation to ensure that the appliance can be disconnected from the mains.</seg>
       </tuv>
-      <tuv lang="es" changeid="true" changedate="20220521T131608Z" creationid="true" creationdate="20220521T131608Z">
-        <seg>Si una vez montado el aparato ya no se puede acceder a la toma de corriente, hay que tomar las medidas adecuadas durante la instalación eléctrica para garantizar que el aparato se pueda desconectar de la red.</seg>
+      <tuv lang="es" changeid="waddasauria" changedate="20220525T100753Z" creationid="true" creationdate="20220521T131608Z">
+        <seg>Si una vez montado el electrodoméstico ya no se puede acceder a la toma de corriente, hay que tomar las medidas adecuadas durante la instalación eléctrica para garantizar que el aparato se pueda desconectar de la red.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1704,8 +1704,8 @@
       <tuv lang="en">
         <seg>If the unit is unplugged, power lost, or turned off, you must wait 3 to 5 minutes before restarting the unit.</seg>
       </tuv>
-      <tuv lang="es" changeid="true" changedate="20220521T134437Z" creationid="true" creationdate="20220521T134437Z">
-        <seg>Si el aparato se desenchufa, se pierde la energía o se apaga, debe esperar de 3 a 5 minutos antes de reiniciarlo.</seg>
+      <tuv lang="es" changeid="waddasauria" changedate="20220525T100858Z" creationid="true" creationdate="20220521T134437Z">
+        <seg>Si desenchufa, pierde la energía o apaga el electrodoméstico, debe esperar de 3 a 5 minutos antes de reiniciarlo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2152,8 +2152,8 @@
       <tuv lang="en">
         <seg>Never unplug the appliance by pulling the power cord.</seg>
       </tuv>
-      <tuv lang="es" changeid="true" changedate="20220521T122344Z" creationid="true" creationdate="20220521T122344Z">
-        <seg>No desenchufe nunca el aparato tirando del cable de alimentación.</seg>
+      <tuv lang="es" changeid="waddasauria" changedate="20220525T100721Z" creationid="true" creationdate="20220521T122344Z">
+        <seg>No desenchufe nunca el electrodoméstico tirando del cable de alimentación.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2985,8 +2985,8 @@
       <tuv lang="en">
         <seg>The Wine cooler should be placed in a position where the ambient temperature is between 5-38℃/41-100℉.</seg>
       </tuv>
-      <tuv lang="es" changeid="true" changedate="20220521T132319Z" creationid="true" creationdate="20220521T132319Z">
-        <seg>La enfriadora de vino debe colocarse en una posición en la que la temperatura ambiente esté entre 5-38℃/41-100℉.</seg>
+      <tuv lang="es" changeid="waddasauria" changedate="20220525T100813Z" creationid="true" creationdate="20220521T132319Z">
+        <seg>La enfriadora de vino debe colocarse en una posición en la que la temperatura ambiente esté entre 5-38℃.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3001,8 +3001,8 @@
       <tuv lang="en">
         <seg>The appliance should always be plugged into its own individual electrical outlet which has a voltage rating that matches the rating label on the appliance.</seg>
       </tuv>
-      <tuv lang="es" changeid="true" changedate="20220521T122139Z" creationid="true" creationdate="20220521T122139Z">
-        <seg>Este aparato debe conectarse siempre a su propia toma de corriente, cuya tensión coincida con la indicada en la etiqueta del aparato.</seg>
+      <tuv lang="es" changeid="waddasauria" changedate="20220525T100708Z" creationid="true" creationdate="20220521T122139Z">
+        <seg>Este electrodoméstico debe conectarse siempre a su propia toma de corriente, cuya tensión coincida con la indicada en la etiqueta del aparato.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3041,8 +3041,8 @@
       <tuv lang="en">
         <seg>The cord should be secured behind the appliance and not left exposed or dangling to prevent accidental injury.</seg>
       </tuv>
-      <tuv lang="es" changeid="true" changedate="20220521T122055Z" creationid="true" creationdate="20220521T122055Z">
-        <seg>El cable debe asegurarse detrás del aparato y no dejarlo expuesto o colgando para evitar lesiones accidentales.</seg>
+      <tuv lang="es" changeid="waddasauria" changedate="20220525T100657Z" creationid="true" creationdate="20220521T122055Z">
+        <seg>El cable debe asegurarse detrás del electrodoméstico y no debe dejarlo expuesto o colgando para evitar lesiones accidentales.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3210,8 +3210,8 @@
       <tuv lang="en">
         <seg>The power cord of this appliance is equipped with a three pins plug which mates with standard three pins wall outlets to minimize the possibility of electrical shock.</seg>
       </tuv>
-      <tuv lang="es" changeid="waddasauria" changedate="20220524T141722Z" creationid="Lenovo" creationdate="20220517T142104Z">
-        <seg>El cable de alimentación de este aparato está equipado con un enchufe de tres clavijas, que se acopla a las tomas de corriente estándar de las tres clavijas para minimizar la posibilidad de una descarga eléctrica.
+      <tuv lang="es" changeid="waddasauria" changedate="20220525T100619Z" creationid="Lenovo" creationdate="20220517T142104Z">
+        <seg>El cable de alimentación de este aparato está equipado con un enchufe de tres clavijas, que se acopla a las tomas de corriente estándar de las tres clavijas para minimizar la posibilidad de descarga eléctrica.
 
 
 
@@ -4206,16 +4206,16 @@
       <tuv lang="en">
         <seg>When a standard 2 pins wall outlet is encountered, it is your responsibility and obligation to have it replaced with a properly grounded 3 pins wall outlet.</seg>
       </tuv>
-      <tuv lang="es" changeid="waddasauria" changedate="20220524T133439Z" creationid="Lenovo" creationdate="20220518T105617Z">
-        <seg>Si se encuentra un enchufe de pared estándar de 2 pines, será su responsabilidad y obligación reemplazarlo por un enchufe de pared de 3 pines debidamente conectado a tierra.</seg>
+      <tuv lang="es" changeid="waddasauria" changedate="20220525T100641Z" creationid="Lenovo" creationdate="20220518T105617Z">
+        <seg>Si se encuentra un enchufe de pared estándar de 2 clavijas, será su responsabilidad y obligación reemplazarlo por un enchufe de pared de 3 clavijas debidamente conectado a tierra.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>When moving the appliance, be careful not to damage the power cord.</seg>
       </tuv>
-      <tuv lang="es" changeid="true" changedate="20220521T122658Z" creationid="true" creationdate="20220521T122658Z">
-        <seg>Al trasladar el aparato, tenga cuidado de no dañar el cable de alimentación.</seg>
+      <tuv lang="es" changeid="waddasauria" changedate="20220525T100744Z" creationid="true" creationdate="20220521T122658Z">
+        <seg>Al trasladar el electrodoméstico, tenga cuidado de no dañar el cable de alimentación.</seg>
       </tuv>
     </tu>
     <tu>
