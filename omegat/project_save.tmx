@@ -1320,8 +1320,8 @@
       <tuv lang="en">
         <seg>Flammable Refrigerant Used.</seg>
       </tuv>
-      <tuv lang="es" changeid="Lenovo" changedate="20220521T120156Z" creationid="Lenovo" creationdate="20220521T120156Z">
-        <seg>Refrigerante inflamable utilizado.</seg>
+      <tuv lang="es" changeid="waddasauria" changedate="20220525T101450Z" creationid="Lenovo" creationdate="20220521T120156Z">
+        <seg>Uso de refrigerante inflamable.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3726,8 +3726,8 @@
       <tuv lang="en">
         <seg>To Be Repaired Only By Trained Service Personnel.</seg>
       </tuv>
-      <tuv lang="es" changeid="Lenovo" changedate="20220521T121044Z" creationid="Lenovo" creationdate="20220521T121044Z">
-        <seg>Sólo debe ser reparado por personal de servicio capacitado.</seg>
+      <tuv lang="es" changeid="waddasauria" changedate="20220525T101502Z" creationid="Lenovo" creationdate="20220521T121044Z">
+        <seg>Sólo debe ser reparado por el personal de servicio capacitado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3966,8 +3966,8 @@
       <tuv lang="en">
         <seg>Use extreme caution in the case of children.</seg>
       </tuv>
-      <tuv lang="es" changeid="true" changedate="20220524T133449Z" creationid="Lenovo" creationdate="20220521T164022Z">
-        <seg>Extreme las precauciones en el caso de los niños.</seg>
+      <tuv lang="es" changeid="waddasauria" changedate="20220525T101406Z" creationid="Lenovo" creationdate="20220521T164022Z">
+        <seg>Extreme las precaución con los niños.</seg>
       </tuv>
     </tu>
     <tu>
